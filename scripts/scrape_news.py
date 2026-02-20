@@ -9,12 +9,31 @@ import re
 if not os.path.exists('data'):
     os.makedirs('data')
 
+# Your newly expanded sources list!
 SOURCES = [
     {"name": "BBC News", "url": "http://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
     {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "category": "Sports"},
-    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "Tech"}
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "Tech"},
+    {"name": "CinemaBlend", "url": "https://www.cinemablend.com/rss/news", "category": "Movies"},
+    {"name": "The Guardian", "url": "http://feeds.theguardian.com/xml/uk_news_rss.xml", "category": "General"},
+    {"name": "The New York Times", "url": "https://www.nytimes.com/svc/collections/v2/pages/index.html?doc_id=THE_NEW_YORK_TIMES", "category": "General"},
+    {"name": "CNN", "url": "http://rss.cnn.com/rss/edition_world.rss", "category": "World"},
+    {"name": "Reuters", "url": "http://xml.reuters.com/data/xml/synopsis.xml", "category": "World"}
 ]
 
+# --- NEW: Grabs the REAL time the article was posted ---
+def get_real_time(entry):
+    try:
+        # Feedparser automatically finds the published date in the RSS
+        time_struct = entry.published_parsed or entry.updated_parsed
+        # Convert it to our standard SQLite format
+        real_time = datetime.datetime.fromtimestamp(time.mktime(time_struct))
+        return real_time.strftime('%Y-%m-%d %H:%M:%S')
+    except:
+        # If the news site forgets to include a time, fallback to right now
+        return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+# --- NEW: Grabs the REAL image URL of the article ---
 def get_image(entry):
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0]['url']
@@ -42,18 +61,7 @@ def get_image(entry):
 
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1000"
 
-# --- NEW: Grabs the REAL time the article was posted ---
-def get_real_time(entry):
-    try:
-        # Feedparser automatically finds the published date in the RSS
-        time_struct = entry.published_parsed or entry.updated_parsed
-        # Convert it to our standard SQLite format
-        real_time = datetime.datetime.fromtimestamp(time.mktime(time_struct))
-        return real_time.strftime('%Y-%m-%d %H:%M:%S')
-    except:
-        # If the news site forgets to include a time, fallback to right now
-        return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-
+# --- Main Loop to fetch and save the articles ---
 all_articles = []
 
 for src in SOURCES:
@@ -68,7 +76,6 @@ for src in SOURCES:
                 "source": src['name'],
                 "category": src['category'],
                 "link": entry.link,
-                # --- NEW: Uses the real journalist's time instead of bot time ---
                 "timestamp": get_real_time(entry),
                 "isSaved": 0
             })
