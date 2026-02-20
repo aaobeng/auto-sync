@@ -9,14 +9,20 @@ import re
 if not os.path.exists('data'):
     os.makedirs('data')
 
-# Your newly expanded sources list!
+# Your vastly expanded sources list with heavy sports coverage!
 SOURCES = [
     {"name": "BBC News", "url": "http://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
-    {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "category": "Sports"},
-    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "Tech"},
-    {"name": "CinemaBlend", "url": "https://www.cinemablend.com/rss/news", "category": "Movies"},
     {"name": "The Guardian", "url": "http://feeds.theguardian.com/xml/uk_news_rss.xml", "category": "General"},
     {"name": "The New York Times", "url": "https://www.nytimes.com/svc/collections/v2/pages/index.html?doc_id=THE_NEW_YORK_TIMES", "category": "General"},
+    
+    # --- EXPANDED SPORTS SECTION ---
+    {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "category": "Sports"},
+    {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040", "category": "Sports"},
+    {"name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/", "category": "Sports"},
+    {"name": "Yahoo Sports", "url": "https://sports.yahoo.com/rss/", "category": "Sports"},
+    
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "Tech"},
+    {"name": "CinemaBlend", "url": "https://www.cinemablend.com/rss/news", "category": "Movies"},
     {"name": "CNN", "url": "http://rss.cnn.com/rss/edition_world.rss", "category": "World"},
     {"name": "Reuters", "url": "http://xml.reuters.com/data/xml/synopsis.xml", "category": "World"}
 ]
@@ -68,6 +74,11 @@ for src in SOURCES:
     print(f"Fetching {src['name']}...")
     try:
         feed = feedparser.parse(src['url'])
+        
+        # --- NEW: Warn me if a feed is empty! ---
+        if not feed.entries:
+            print(f"⚠️ WARNING: {src['name']} returned 0 articles. The link might be broken!")
+            
         for entry in feed.entries[:15]: 
             all_articles.append({
                 "id": entry.link,
