@@ -1,0 +1,28 @@
+name: News Auto-Sync
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs at the top of every hour
+  workflow_dispatch: # Lets you click a button to run it manually
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install feedparser
+      - name: Run Scraper
+        run: python scripts/scrape_news.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'AutoSportSync Bot'
+          git config --global user.email 'bot@autosportsync.com'
+          git add data/news.json
+          git commit -m "Automated news update" || echo "No new news to commit"
+          git push
