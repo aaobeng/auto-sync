@@ -3,6 +3,7 @@ import json
 import datetime
 import os
 import time
+import re
 
 # Create data directory if it doesn't exist
 if not os.path.exists('data'):
@@ -15,28 +16,43 @@ SOURCES = [
 ]
 
 def get_image(entry):
-    # 1. Check for 'media_content' (The Verge uses this)
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0]['url']
-        
-    # 2. Check for 'media_thumbnail' (BBC News uses this!)
     if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
         return entry.media_thumbnail[0]['url']
-        
-    # 3. Check for 'enclosures' (ESPN uses this!)
     if 'enclosures' in entry:
         for enc in entry.enclosures:
             if 'image' in enc.get('type', ''):
                 return enc.get('href')
-                
-    # 4. Check for 'links' (Standard Atom feeds)
     if 'links' in entry:
         for link in entry.links:
             if 'image' in link.get('type', ''):
                 return link.get('href')
 
-    # 5. Fallback image if the news site completely forgot to include an image
+    # Search inside the HTML text for a hidden image tag
+    html_content = ""
+    if 'content' in entry and len(entry.content) > 0:
+        html_content = entry.content[0].value
+    elif 'summary' in entry:
+        html_content = entry.summary
+        
+    match = re.search(r'img.*?src="([^"]+)"', html_content)
+    if match:
+        return match.group(1)
+
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1000"
+
+# --- NEW: Grabs the REAL time the article was posted ---
+def get_real_time(entry):
+    try:
+        # Feedparser automatically finds the published date in the RSS
+        time_struct = entry.published_parsed or entry.updated_parsed
+        # Convert it to our standard SQLite format
+        real_time = datetime.datetime.fromtimestamp(time.mktime(time_struct))
+        return real_time.strftime('%Y-%m-%d %H:%M:%S')
+    except:
+        # If the news site forgets to include a time, fallback to right now
+        return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 all_articles = []
 
@@ -52,7 +68,8 @@ for src in SOURCES:
                 "source": src['name'],
                 "category": src['category'],
                 "link": entry.link,
-                "timestamp": datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                # --- NEW: Uses the real journalist's time instead of bot time ---
+                "timestamp": get_real_time(entry),
                 "isSaved": 0
             })
         time.sleep(2) 
