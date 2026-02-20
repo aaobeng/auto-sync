@@ -1,28 +1,95 @@
-name: News Auto-Sync
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs at the top of every hour
-  workflow_dispatch: # Lets you click a button to run it manually
+import feedparser
+import json
+import datetime
+import os
+import time
+import re
 
-jobs:
-  update-news:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      - name: Install dependencies
-        run: pip install feedparser
-      - name: Run Scraper
-        run: python scripts/scrape_news.py
-      - name: Commit and Push
-        run: |
-          git config --global user.name 'AutoSportSync Bot'
-          git config --global user.email 'bot@autosportsync.com'
-          git add data/news.json
-          git commit -m "Automated news update" || echo "No new news to commit"
-          git push
+if not os.path.exists('data'):
+    os.makedirs('data')
+
+SOURCES = [
+    # --- GENERAL & BREAKING ---
+    {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/world/rss", "category": "General"},
+    {"name": "NYT Home", "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "category": "General"},
+    {"name": "Associated Press", "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com", "category": "General"},
+    {"name": "ABC News", "url": "https://abcnews.go.com/abcnews/topstories", "category": "General"},
+
+    # --- SPORTS (Massive Expansion) ---
+    {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "category": "Sports"},
+    {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040", "category": "Sports"},
+    {"name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/", "category": "Sports"},
+    {"name": "Global Sports", "url": "https://news.google.com/rss/search?q=sports+news+when:24h", "category": "Sports"},
+    {"name": "Transfer News", "url": "https://news.google.com/rss/search?q=football+transfers+when:24h", "category": "Sports"},
+
+    # --- TECH & INNOVATION ---
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "Tech"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "Tech"},
+    {"name": "Wired", "url": "https://www.wired.com/feed/rss", "category": "Tech"},
+    {"name": "Global Tech", "url": "https://news.google.com/rss/search?q=technology+when:24h", "category": "Tech"},
+
+    # --- MOVIES & WORLD ---
+    {"name": "CinemaBlend", "url": "https://www.cinemablend.com/rss/news", "category": "Movies"},
+    {"name": "Variety", "url": "https://variety.com/feed/", "category": "Movies"},
+    {"name": "CNN World", "url": "http://rss.cnn.com/rss/edition_world.rss", "category": "World"},
+    {"name": "Reuters World", "url": "https://news.google.com/rss/search?q=world+news+when:24h", "category": "World"},
+    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "World"},
+
+    # --- SCIENCE ---
+    {"name": "Nat Geo", "url": "https://www.nationalgeographic.com/rss/index.xml", "category": "Science"},
+    {"name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "category": "Science"},
+]
+
+def get_real_time(entry):
+    try:
+        ts = entry.get('published_parsed') or entry.get('updated_parsed')
+        if ts: return datetime.datetime.fromtimestamp(time.mktime(ts)).strftime('%Y-%m-%d %H:%M:%S')
+    except: pass
+    return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+def get_image(entry):
+    url = None
+    if 'media_content' in entry: url = entry.media_content[0]['url']
+    elif 'media_thumbnail' in entry: url = entry.media_thumbnail[-1]['url']
+    elif 'enclosures' in entry:
+        for e in entry.enclosures:
+            if 'image' in e.get('type',''): url = e.get('href'); break
+    if not url:
+        txt = entry.get('summary','') + entry.get('content',[{}])[0].get('value','')
+        m = re.search(r'img.*?src="([^"]+)"', txt)
+        if m: url = m.group(1)
+    if url:
+        url = url.split('?')[0]
+        url = re.sub(r'/\d+/', '/800/', url)
+        return url
+    return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1000"
+
+all_articles = []
+seen_links = set()
+
+for src in SOURCES:
+    print(f"Scraping {src['name']}...")
+    try:
+        feed = feedparser.parse(src['url'])
+        for entry in feed.entries[:30]:
+            if entry.link in seen_links: continue
+            
+            # Age Filter: Only Today/Yesterday
+            pub_time = datetime.datetime.strptime(get_real_time(entry), '%Y-%m-%d %H:%M:%S')
+            if (datetime.datetime.now() - pub_time).days <= 1:
+                all_articles.append({
+                    "id": entry.link,
+                    "title": entry.title,
+                    "imageUrl": get_image(entry),
+                    "source": src['name'],
+                    "category": src['category'],
+                    "link": entry.link,
+                    "timestamp": pub_time.strftime('%Y-%m-%d %H:%M:%S'),
+                    "isSaved": 0
+                })
+                seen_links.add(entry.link)
+    except Exception as e: print(f"Skipping {src['name']} due to error.")
+
+with open('data/news.json', 'w') as f:
+    json.dump(all_articles, f, indent=4)
