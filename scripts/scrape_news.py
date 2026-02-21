@@ -4,14 +4,15 @@ import datetime
 import os
 import time
 import re
+import requests
+from bs4 import BeautifulSoup
 
-# --- THE FIX FOR BLOCKED SOURCES ---
+# --- CONFIGURATION ---
 feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 if not os.path.exists('data'):
     os.makedirs('data')
 
-# UPDATED SOURCES LIST (CNN Removed, Robust World Coverage Added)
 SOURCES = [
     # --- GENERAL & WORLD ---
     {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
@@ -60,30 +61,53 @@ def get_real_time(entry):
 
 def get_image(entry):
     url = None
-    # 1. Media Content (highest priority)
+    link = entry.get('link', '')
+
+    # 1. Handle YouTube Links immediately
+    if 'youtube.com' in link or 'youtu.be' in link:
+        video_id = None
+        if 'v=' in link: video_id = link.split('v=')[1].split('&')[0]
+        elif 'youtu.be/' in link: video_id = link.split('youtu.be/')[1].split('?')[0]
+        if video_id: return f"https://img.youtube.com/vi/{video_id}/maxresdefault.jpg"
+
+    # 2. Check RSS Media Content/Thumbnails
     if 'media_content' in entry and len(entry.media_content) > 0:
         url = entry.media_content[0].get('url')
-    # 2. Thumbnails
     elif 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
         url = entry.media_thumbnail[-1].get('url')
-    # 3. Enclosures (Fix for Yahoo Sports/ESPN)
     elif 'enclosures' in entry:
         for e in entry.enclosures:
             if 'image' in e.get('type',''):
                 url = e.get('href')
                 break
-    # 4. Regex for HTML summaries (Fix for white boxes/missing tags)
+
+    # 3. Regex for HTML summaries (if still no image)
     if not url:
         txt = entry.get('summary','') + entry.get('content',[{}])[0].get('value','')
         m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', txt)
         if m: url = m.group(1)
-    
+
+    # 4. DEEP SCRAPE (The Fix for Video Thumbnails)
+    # If we still have no image, we visit the actual page to find the Open Graph image.
+    if not url or "unsplash" in url:
+        try:
+            headers = {"User-Agent": feedparser.USER_AGENT}
+            response = requests.get(link, timeout=5, headers=headers)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            # Look for social media preview images (standard for all news videos)
+            meta_og = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
+            if meta_og:
+                url = meta_og.get("content")
+        except:
+            pass
+
     if url:
+        if url.startswith('//'): url = 'https:' + url
         url = url.split('?')[0] # Clean trackers
         url = re.sub(r'/\d+x\d+/', '/800x600/', url) # Fix resolution
         return url
     
-    # Modernized fallback image
+    # Final Fallback
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80"
 
 all_articles = []
@@ -113,10 +137,11 @@ for src in SOURCES:
                     "isSaved": 0
                 })
                 seen_links.add(link)
-        time.sleep(1) # Be polite to servers
+        time.sleep(1) # Be polite
     except Exception as e:
         print(f"Error scraping {src['name']}: {e}")
 
+# Save to data/news.json
 with open('data/news.json', 'w', encoding='utf-8') as f:
     json.dump(all_articles, f, indent=4, ensure_ascii=False)
 
