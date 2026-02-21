@@ -11,13 +11,14 @@ feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5
 if not os.path.exists('data'):
     os.makedirs('data')
 
-# MEGA SOURCES LIST (Now including Gaming, Movies, Business, and Science)
+# UPDATED SOURCES LIST (CNN Removed, Robust World Coverage Added)
 SOURCES = [
     # --- GENERAL & WORLD ---
     {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
     {"name": "The Guardian", "url": "https://www.theguardian.com/world/rss", "category": "General"},
     {"name": "NYT Home", "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "category": "General"},
     {"name": "Reuters Global", "url": "https://news.google.com/rss/search?q=world+news+when:24h", "category": "World"},
+    {"name": "AP News", "url": "https://news.google.com/rss/search?q=AP+Top+News+when:24h", "category": "World"},
     {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "World"},
 
     # --- SPORTS ---
@@ -59,20 +60,31 @@ def get_real_time(entry):
 
 def get_image(entry):
     url = None
-    if 'media_content' in entry and len(entry.media_content) > 0: url = entry.media_content[0].get('url')
-    elif 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0: url = entry.media_thumbnail[-1].get('url')
+    # 1. Media Content (highest priority)
+    if 'media_content' in entry and len(entry.media_content) > 0:
+        url = entry.media_content[0].get('url')
+    # 2. Thumbnails
+    elif 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
+        url = entry.media_thumbnail[-1].get('url')
+    # 3. Enclosures (Fix for Yahoo Sports/ESPN)
     elif 'enclosures' in entry:
         for e in entry.enclosures:
-            if 'image' in e.get('type',''): url = e.get('href'); break
+            if 'image' in e.get('type',''):
+                url = e.get('href')
+                break
+    # 4. Regex for HTML summaries (Fix for white boxes/missing tags)
     if not url:
         txt = entry.get('summary','') + entry.get('content',[{}])[0].get('value','')
-        m = re.search(r'img.*?src="([^"]+)"', txt)
+        m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', txt)
         if m: url = m.group(1)
+    
     if url:
-        url = url.split('?')[0]
-        url = re.sub(r'/\d+/', '/800/', url)
+        url = url.split('?')[0] # Clean trackers
+        url = re.sub(r'/\d+x\d+/', '/800x600/', url) # Fix resolution
         return url
-    return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1000"
+    
+    # Modernized fallback image
+    return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80"
 
 all_articles = []
 seen_links = set()
@@ -88,6 +100,7 @@ for src in SOURCES:
             article_time_str = get_real_time(entry)
             article_time = datetime.datetime.strptime(article_time_str, '%Y-%m-%d %H:%M:%S')
             
+            # Keep articles from last 48 hours
             if (datetime.datetime.now() - article_time).total_seconds() <= 172800:
                 all_articles.append({
                     "id": link,
@@ -100,7 +113,7 @@ for src in SOURCES:
                     "isSaved": 0
                 })
                 seen_links.add(link)
-        time.sleep(1)
+        time.sleep(1) # Be polite to servers
     except Exception as e:
         print(f"Error scraping {src['name']}: {e}")
 
