@@ -5,6 +5,10 @@ import os
 import time
 import re
 
+# --- THE FIX FOR BLOCKED SOURCES ---
+# This makes your bot look like a real Google Chrome browser
+feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+
 # Ensure data directory exists
 if not os.path.exists('data'):
     os.makedirs('data')
