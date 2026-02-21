@@ -1,22 +1,22 @@
 [
     {
-        "id": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
-        "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c962/live/48a8efe0-0eb0-11f1-801d-ed3cff6bf876.jpg",
+        "id": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump ups tariffs day after Supreme Court ruling against him",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
         "source": "BBC News",
         "category": "General",
-        "link": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
-        "timestamp": "2026-02-21 11:58:18",
+        "link": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss",
+        "timestamp": "2026-02-21 16:13:35",
         "isSaved": 0
     },
     {
-        "id": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss",
-        "title": "Government considers removing Andrew from royal line of succession",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bcf/live/7d706400-0f1a-11f1-b048-c9424b2cf5fd.jpg",
+        "id": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss",
+        "title": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a630/live/7a3cc9c0-0f3a-11f1-b048-c9424b2cf5fd.jpg",
         "source": "BBC News",
         "category": "General",
-        "link": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss",
-        "timestamp": "2026-02-21 10:09:28",
+        "link": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss",
+        "timestamp": "2026-02-21 15:45:10",
         "isSaved": 0
     },
     {
@@ -150,6 +150,16 @@
         "isSaved": 0
     },
     {
+        "id": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8b/live/745620e0-0ebf-11f1-9120-a910fc22c6ac.jpg",
+        "source": "BBC News",
+        "category": "General",
+        "link": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+        "timestamp": "2026-02-21 15:28:18",
+        "isSaved": 0
+    },
+    {
         "id": "https://www.bbc.com/news/articles/c5y6k450247o?at_medium=RSS&at_campaign=rss",
         "title": "Two men aged 19 and 20 die after going missing on Yr Wyddfa",
         "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18a6/live/23b075e0-0f0b-11f1-b048-c9424b2cf5fd.png",
@@ -226,7 +236,7 @@
         "source": "BBC News",
         "category": "General",
         "link": "https://www.bbc.com/news/articles/ceqvgedennpo?at_medium=RSS&at_campaign=rss",
-        "timestamp": "2026-02-21 11:27:37",
+        "timestamp": "2026-02-21 16:01:45",
         "isSaved": 0
     },
     {
@@ -237,16 +247,6 @@
         "category": "General",
         "link": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss",
         "timestamp": "2026-02-21 01:30:31",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.bbc.com/news/articles/c9wng4qj8ryo?at_medium=RSS&at_campaign=rss",
-        "title": "Teen dies after being stabbed outside mosque",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ddd/live/13524820-0f17-11f1-a977-6da7ae3308ca.png",
-        "source": "BBC News",
-        "category": "General",
-        "link": "https://www.bbc.com/news/articles/c9wng4qj8ryo?at_medium=RSS&at_campaign=rss",
-        "timestamp": "2026-02-21 15:20:23",
         "isSaved": 0
     },
     {
@@ -426,7 +426,7 @@
         "source": "NYT Home",
         "category": "General",
         "link": "https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html",
-        "timestamp": "2026-02-21 14:47:23",
+        "timestamp": "2026-02-21 15:43:56",
         "isSaved": 0
     },
     {
@@ -466,7 +466,7 @@
         "source": "NYT Home",
         "category": "General",
         "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-canada-bridge-maga-inc-donation.html",
-        "timestamp": "2026-02-21 14:50:12",
+        "timestamp": "2026-02-21 14:50:13",
         "isSaved": 0
     },
     {
@@ -506,7 +506,7 @@
         "source": "NYT Home",
         "category": "General",
         "link": "https://www.nytimes.com/2026/02/20/us/politics/us-military-jordan-iran.html",
-        "timestamp": "2026-02-21 00:04:46",
+        "timestamp": "2026-02-21 16:06:13",
         "isSaved": 0
     },
     {
@@ -630,6 +630,16 @@
         "isSaved": 0
     },
     {
+        "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2NyWEliNFhmZFdsamQ3eE9hcGNibjJuZnZYN2JuMlN5WmdLWmQzckFLajc1R0wzbDhYX0VVRnhES09XLVAybEo3MGRab20td0hXUUJudWRNaUZna3I3TmtDRTZpUUFPQ2lCVnpRcGtjSUtpbE51b2xlc3ZxNExHNzZLdGdTbHpIQkx3Rm9BbGVkVE03Y1lqTkZqbExXTUVwa1ZmOWRuR1VhaTNY?oc=5",
+        "title": "Global leaders and businesses pore over fallout of more US tariff swoons - WRAL",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "Reuters Global",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2NyWEliNFhmZFdsamQ3eE9hcGNibjJuZnZYN2JuMlN5WmdLWmQzckFLajc1R0wzbDhYX0VVRnhES09XLVAybEo3MGRab20td0hXUUJudWRNaUZna3I3TmtDRTZpUUFPQ2lCVnpRcGtjSUtpbE51b2xlc3ZxNExHNzZLdGdTbHpIQkx3Rm9BbGVkVE03Y1lqTkZqbExXTUVwa1ZmOWRuR1VhaTNY?oc=5",
+        "timestamp": "2026-02-21 16:08:58",
+        "isSaved": 0
+    },
+    {
         "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNejdnWDVoOEJuR21mTVotaUs4Y21lTHlSZ2I2SHZVWktHLUJSaWFCeXRsWG91SXZDZFd2RTBRelRseTJKaTlrSHNYa0RuR19hT2ZQWVZ1bXZvMURWOU8yVVZYOVg3X3Q1NzRiU0RwRUgtRnF0MElGQmdHcDA2ZnROSDhNc3BoNUFjLUhYLW9zZ1lTT3FiOVA1RlNwekFzTDdmTi1RdUNCdjZzYzVENGxNdjVMU05wbEFKRXRURTljWjA0QWdfdThzVw?oc=5",
         "title": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - WSLS",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
@@ -650,18 +660,8 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80eVlvQlVpUWJUZHA4U2d0LTctWTU2Ym9LU0FCb0RwTmpzWjU1Q0g4aV9TYW9CTW5FTDk3OWdsXzBQenhxdjdwVEVQRHJENk5Cejk5ZE83ejRMUQ?oc=5",
-        "title": "Refunds for tariffs and Trump's new 10% levies - what to know - BBC",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Reuters Global",
-        "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80eVlvQlVpUWJUZHA4U2d0LTctWTU2Ym9LU0FCb0RwTmpzWjU1Q0g4aV9TYW9CTW5FTDk3OWdsXzBQenhxdjdwVEVQRHJENk5Cejk5ZE83ejRMUQ?oc=5",
-        "timestamp": "2026-02-21 03:25:11",
-        "isSaved": 0
-    },
-    {
         "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2lYSW1FUU04RGx6ZU9yOUE5SW9SMU5BVlR3Q0pNVGRFYmVHS2kzU2NneTFNN0hraVZKZzBhcnJVT0cwS0RnVkx4eTJsUmMwMHdueUVuVXBta1lnWlV5c2VsMUVjdFEwUnhLdmh4b1RYNVViUi1CNHNoMWdnaHdYLWp2RlNDcHZXSDJCd3U5SkVQd3BRLXBocE9ZTi05bmlheHNVT0psYnVpVzVSNUYtQlRObjI?oc=5",
-        "title": "World Leaders Scope Out US’s Next Steps After Trump Tariff Loss - Bloomberg.com",
+        "title": "World Leaders Scope Out US’s Next Steps After Tariff Ruling - Bloomberg.com",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
@@ -680,33 +680,13 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2VpSFo3bjQxQ1pnT3gtRnNPUHo1bl9mLUFSU2dJcUM2ekxIY05HUERXYmh5RW1DRU1kQlVaSzE5bl9yR20yNS1fWUdSQ01LUEZKMWN6UkxYdTctcFhmVXRPSzVXaFdER1MwTVNWNWtJRGR3dFJkQllTY1BBc3U2d3I1d3pNSTFiM2FNNTV3ZVhJVnFGVi16SFBtblpwZ1Y2QS14SU1IVEpxUlpWY1hRYVJScUw?oc=5",
-        "title": "World Cup 2026 news live updates: Latest updates on tickets and more ahead of March qualifiers - The Athletic - The New York Times",
+        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DQk5DVjByZ21oOWMzSjFpeFRCUlRJbFdfX3F3QzlCSjRUUU1HUlZGdDQ5aUVqY29adTJYYzUxVWdUbUdIT2Rwd0JZQms2VEtBVUo0WGM4TU55UQ?oc=5",
+        "title": "Trump lashes out at Supreme Court justices over tariffs ruling - BBC",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2VpSFo3bjQxQ1pnT3gtRnNPUHo1bl9mLUFSU2dJcUM2ekxIY05HUERXYmh5RW1DRU1kQlVaSzE5bl9yR20yNS1fWUdSQ01LUEZKMWN6UkxYdTctcFhmVXRPSzVXaFdER1MwTVNWNWtJRGR3dFJkQllTY1BBc3U2d3I1d3pNSTFiM2FNNTV3ZVhJVnFGVi16SFBtblpwZ1Y2QS14SU1IVEpxUlpWY1hRYVJScUw?oc=5",
-        "timestamp": "2026-02-20 20:55:42",
-        "isSaved": 0
-    },
-    {
-        "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdEYybkNqX2lHd2I0M0xCbGIxN19lc3R5Y1pTM0w5VXFXWnBNNW1QYUxkR01sQ1Zoc0ZLUENRYkRCWG5SWUxmUXlNRjNnUVpsWnFsTWg2YjgtOGxocmhOeUdDUk9pd1RFLUVSLW55WWVJZWNPTHB1LUpLZ1BiLVp4U0R3OFF2dFVscDJUT1BGMjc1MmJtaWdubzJ0SWxEdVE5dFIzd2hpbGtoYnBPMnpCS2R1MWZWUXktWTl1TUhoRWhsLWJKX0I0QmVqc0x0d9IB1gFBVV95cUxOZm80Wkg3UEV5ekhMbmh0TS1MSGNvMG91R25oTkpid25OZlhVLUN6UjlTeEJyZERYVldabW5VU0M1YnRUMXg0c0RaMkZYMGg0VmFGdUdWdGZ0dVVaSHpsSkZTNnpRVVRyVGlrS1lpR0FQSzk3a3djMlBaWEFQRzczc0NyaEtCcjVzYVA4RDhXejZGcnNsSU1PbEVpdzQtOV9iUllnSDhVVDZLVlM1VFk2V24tcy1CaVJNTXlWWUJwWUVwdEpYazNNM1A5YWFYNnJNd3ozbmFR?oc=5",
-        "title": "Trump Tariffs Live Updates: \"I Have The Best Legal Team,\" Says Lawyer Neal Katyal On Win Against Trump - NDTV",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Reuters Global",
-        "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdEYybkNqX2lHd2I0M0xCbGIxN19lc3R5Y1pTM0w5VXFXWnBNNW1QYUxkR01sQ1Zoc0ZLUENRYkRCWG5SWUxmUXlNRjNnUVpsWnFsTWg2YjgtOGxocmhOeUdDUk9pd1RFLUVSLW55WWVJZWNPTHB1LUpLZ1BiLVp4U0R3OFF2dFVscDJUT1BGMjc1MmJtaWdubzJ0SWxEdVE5dFIzd2hpbGtoYnBPMnpCS2R1MWZWUXktWTl1TUhoRWhsLWJKX0I0QmVqc0x0d9IB1gFBVV95cUxOZm80Wkg3UEV5ekhMbmh0TS1MSGNvMG91R25oTkpid25OZlhVLUN6UjlTeEJyZERYVldabW5VU0M1YnRUMXg0c0RaMkZYMGg0VmFGdUdWdGZ0dVVaSHpsSkZTNnpRVVRyVGlrS1lpR0FQSzk3a3djMlBaWEFQRzczc0NyaEtCcjVzYVA4RDhXejZGcnNsSU1PbEVpdzQtOV9iUllnSDhVVDZLVlM1VFk2V24tcy1CaVJNTXlWWUJwWUVwdEpYazNNM1A5YWFYNnJNd3ozbmFR?oc=5",
-        "timestamp": "2026-02-21 14:27:08",
-        "isSaved": 0
-    },
-    {
-        "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktjODVaRVJuMHh3OHN5OUNjQVZjZDRkYWtKdXRpX1pycEZ6dm11WDdHeFBxVmIxanNXWFJZc3dvQUpmUmZWZGFQWU05NXk4VEFNZDQzckNyeVBjSnRVSmxuSEJpZnJXdW9na3BnWnFuUzZsdjVfVXEySHRJMk1zeXR1dXNVQkRWbWFuSy1ZSDJtdnAxa0ZnNkYxcmNoQjNxa0oxamd2ZHo4aTluTldaTVAtTGpPZVpkUDgxUS1zYXdrR0Q1NlhB0gHMAUFVX3lxTE01OGV3T1VUbDR2VzI5eE54MjBIZl8tUG1kZmpiN01DY0VNSlp4N3VDdGh0OWRmczlIY2NCRmNMbTF5bGZ1MmVlaXpjTVpFV1FzVk8tQTV2YW1EbFB4RWMyZWNVRW5Bb0VTNnhSckFTTU5oTHZ6bnpCWE1nXzJtY2NsdTdzSEZRSktDaGh2ZXNWVlRaazZjZEpZUnRfeFA4TXRPWHJEYlZ3N01Bc0xQbS0yZW9JbVBqZjBSOGZ4U3BNNkRla1ptU2UyWjFQbQ?oc=5",
-        "title": "WATCH: Trump announces 10% global tariff after Supreme Court strikes down his sweeping policy - PBS",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Reuters Global",
-        "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktjODVaRVJuMHh3OHN5OUNjQVZjZDRkYWtKdXRpX1pycEZ6dm11WDdHeFBxVmIxanNXWFJZc3dvQUpmUmZWZGFQWU05NXk4VEFNZDQzckNyeVBjSnRVSmxuSEJpZnJXdW9na3BnWnFuUzZsdjVfVXEySHRJMk1zeXR1dXNVQkRWbWFuSy1ZSDJtdnAxa0ZnNkYxcmNoQjNxa0oxamd2ZHo4aTluTldaTVAtTGpPZVpkUDgxUS1zYXdrR0Q1NlhB0gHMAUFVX3lxTE01OGV3T1VUbDR2VzI5eE54MjBIZl8tUG1kZmpiN01DY0VNSlp4N3VDdGh0OWRmczlIY2NCRmNMbTF5bGZ1MmVlaXpjTVpFV1FzVk8tQTV2YW1EbFB4RWMyZWNVRW5Bb0VTNnhSckFTTU5oTHZ6bnpCWE1nXzJtY2NsdTdzSEZRSktDaGh2ZXNWVlRaazZjZEpZUnRfeFA4TXRPWHJEYlZ3N01Bc0xQbS0yZW9JbVBqZjBSOGZ4U3BNNkRla1ptU2UyWjFQbQ?oc=5",
-        "timestamp": "2026-02-20 17:38:23",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DQk5DVjByZ21oOWMzSjFpeFRCUlRJbFdfX3F3QzlCSjRUUU1HUlZGdDQ5aUVqY29adTJYYzUxVWdUbUdIT2Rwd0JZQms2VEtBVUo0WGM4TU55UQ?oc=5",
+        "timestamp": "2026-02-21 02:19:29",
         "isSaved": 0
     },
     {
@@ -720,16 +700,6 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUJDSkd6ODdlUlJXanNiWW94eXJEd1JRLXFJVTZHQTBoc2hhSjRUWWpOOUpHVFkxaDJjcjlHdWFvdDc5MWxQQ1ZVSmVSOTNrd3NCcWpnT0o3eUhhZU16ejhMd1lmM2VTeDdfVTZ4eG1uN2IwY1FFLWJaam8wV1RUNkhSVURWaEZxUXQ1UmhZNEJXQ21DQTlRMWljZlJXNFA5U2o3UVpGQlZlOURZREZPMGJBLThqSW8?oc=5",
-        "title": "Trump says he signed a 10% global tariff after Supreme Court decision - NBC News",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Reuters Global",
-        "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUJDSkd6ODdlUlJXanNiWW94eXJEd1JRLXFJVTZHQTBoc2hhSjRUWWpOOUpHVFkxaDJjcjlHdWFvdDc5MWxQQ1ZVSmVSOTNrd3NCcWpnT0o3eUhhZU16ejhMd1lmM2VTeDdfVTZ4eG1uN2IwY1FFLWJaam8wV1RUNkhSVURWaEZxUXQ1UmhZNEJXQ21DQTlRMWljZlJXNFA5U2o3UVpGQlZlOURZREZPMGJBLThqSW8?oc=5",
-        "timestamp": "2026-02-21 02:00:00",
-        "isSaved": 0
-    },
-    {
         "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2NVTnZvSlhSdE9kazEyaURyREhKMlpOWkR3VHNlY1Q5cGhhbm45NGJnc2ZLa0xpczZ1TlVNQXZVZnRWTWVCd29jSjYyZzcwdFBnUHNGZmxaTUxIeVNIVEhpSEFzejdtNVBpNEIxaXJ0V2d2OTd4N2lYLUYtVzVDR0RtM0dHSVhXVndmUlhWM25wbHZLLWc?oc=5",
         "title": "Trump meets Vietnam leader, vows to remove Hanoi from restricted lists - Taylorville Daily News",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
@@ -740,23 +710,23 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHF1LWhmaUFBdGM1QUl5WmdLOXo1eFZLMHB3YmZvNmNuenRYQUxRejliMG9YQm1hN21UU1BpMlpld2EzY21CZV9ZSnJLNGNoZXNrQVJHR2d6SHdBbEJGR3U2TTdQS0ZBZU9EdFFNQ1Zxa09nMVpyc1FtVUoyYUJKazd3?oc=5",
-        "title": "What's next for Trump's tariffs after Supreme Court ruling - CBC",
+        "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktjODVaRVJuMHh3OHN5OUNjQVZjZDRkYWtKdXRpX1pycEZ6dm11WDdHeFBxVmIxanNXWFJZc3dvQUpmUmZWZGFQWU05NXk4VEFNZDQzckNyeVBjSnRVSmxuSEJpZnJXdW9na3BnWnFuUzZsdjVfVXEySHRJMk1zeXR1dXNVQkRWbWFuSy1ZSDJtdnAxa0ZnNkYxcmNoQjNxa0oxamd2ZHo4aTluTldaTVAtTGpPZVpkUDgxUS1zYXdrR0Q1NlhB0gHMAUFVX3lxTE01OGV3T1VUbDR2VzI5eE54MjBIZl8tUG1kZmpiN01DY0VNSlp4N3VDdGh0OWRmczlIY2NCRmNMbTF5bGZ1MmVlaXpjTVpFV1FzVk8tQTV2YW1EbFB4RWMyZWNVRW5Bb0VTNnhSckFTTU5oTHZ6bnpCWE1nXzJtY2NsdTdzSEZRSktDaGh2ZXNWVlRaazZjZEpZUnRfeFA4TXRPWHJEYlZ3N01Bc0xQbS0yZW9JbVBqZjBSOGZ4U3BNNkRla1ptU2UyWjFQbQ?oc=5",
+        "title": "WATCH: Trump announces 10% global tariff after Supreme Court strikes down his sweeping policy - PBS",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHF1LWhmaUFBdGM1QUl5WmdLOXo1eFZLMHB3YmZvNmNuenRYQUxRejliMG9YQm1hN21UU1BpMlpld2EzY21CZV9ZSnJLNGNoZXNrQVJHR2d6SHdBbEJGR3U2TTdQS0ZBZU9EdFFNQ1Zxa09nMVpyc1FtVUoyYUJKazd3?oc=5",
-        "timestamp": "2026-02-21 09:00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktjODVaRVJuMHh3OHN5OUNjQVZjZDRkYWtKdXRpX1pycEZ6dm11WDdHeFBxVmIxanNXWFJZc3dvQUpmUmZWZGFQWU05NXk4VEFNZDQzckNyeVBjSnRVSmxuSEJpZnJXdW9na3BnWnFuUzZsdjVfVXEySHRJMk1zeXR1dXNVQkRWbWFuSy1ZSDJtdnAxa0ZnNkYxcmNoQjNxa0oxamd2ZHo4aTluTldaTVAtTGpPZVpkUDgxUS1zYXdrR0Q1NlhB0gHMAUFVX3lxTE01OGV3T1VUbDR2VzI5eE54MjBIZl8tUG1kZmpiN01DY0VNSlp4N3VDdGh0OWRmczlIY2NCRmNMbTF5bGZ1MmVlaXpjTVpFV1FzVk8tQTV2YW1EbFB4RWMyZWNVRW5Bb0VTNnhSckFTTU5oTHZ6bnpCWE1nXzJtY2NsdTdzSEZRSktDaGh2ZXNWVlRaazZjZEpZUnRfeFA4TXRPWHJEYlZ3N01Bc0xQbS0yZW9JbVBqZjBSOGZ4U3BNNkRla1ptU2UyWjFQbQ?oc=5",
+        "timestamp": "2026-02-20 17:38:23",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VRk9KNm9LeTJVc2lwYU5pQmx5Q3ViZENYd0kyazltcTZFVFBtZy1oMjdObDJVeEYyblVQbUpTeGxzMTROT3BMODdhRVpyUFZhUEhRbmZ2aDdVc01Ra1lDdFhxa2gwTy1kTEcwaDRaSVpVWEVVSGlFNktBMA?oc=5",
-        "title": "Her family helped bring Argentine comfort food to KC’s masses; World Cup base camp kicks open new doors - Startland News",
+        "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclh6N2s4cGt3VS12aktHTXg1MjhwZEJ1WllMbFB5S0RyQlBSVm5zMldxX0NRWGhha21DMUdWd3FJMjhKcm1UdW1BTVFaTHNhN3pNSERlZjgwYzhOS2RVcTNqTnBLZ3VTY2tlM0gtVTlqZEZfc0h4SmRuNV9wNHVjVVN5VU5BU280OTJZOVN3?oc=5",
+        "title": "Korzeniowski ‘fights’ to reach Torun for MOWA Exhibition opening | News | Heritage - worldathletics.org",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VRk9KNm9LeTJVc2lwYU5pQmx5Q3ViZENYd0kyazltcTZFVFBtZy1oMjdObDJVeEYyblVQbUpTeGxzMTROT3BMODdhRVpyUFZhUEhRbmZ2aDdVc01Ra1lDdFhxa2gwTy1kTEcwaDRaSVpVWEVVSGlFNktBMA?oc=5",
-        "timestamp": "2026-02-21 13:14:15",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclh6N2s4cGt3VS12aktHTXg1MjhwZEJ1WllMbFB5S0RyQlBSVm5zMldxX0NRWGhha21DMUdWd3FJMjhKcm1UdW1BTVFaTHNhN3pNSERlZjgwYzhOS2RVcTNqTnBLZ3VTY2tlM0gtVTlqZEZfc0h4SmRuNV9wNHVjVVN5VU5BU280OTJZOVN3?oc=5",
+        "timestamp": "2026-02-21 12:08:47",
         "isSaved": 0
     },
     {
@@ -770,16 +740,6 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DQk5DVjByZ21oOWMzSjFpeFRCUlRJbFdfX3F3QzlCSjRUUU1HUlZGdDQ5aUVqY29adTJYYzUxVWdUbUdIT2Rwd0JZQms2VEtBVUo0WGM4TU55UQ?oc=5",
-        "title": "Trump lashes out at Supreme Court justices over tariffs ruling - BBC",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Reuters Global",
-        "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DQk5DVjByZ21oOWMzSjFpeFRCUlRJbFdfX3F3QzlCSjRUUU1HUlZGdDQ5aUVqY29adTJYYzUxVWdUbUdIT2Rwd0JZQms2VEtBVUo0WGM4TU55UQ?oc=5",
-        "timestamp": "2026-02-21 02:19:29",
-        "isSaved": 0
-    },
-    {
         "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYjAzOVRxN1NvTFdWT3dWYWVlWEZTQWtWcmI3d19ZRFc1Ti1sVndWc1ZMY3NxeF8wOUdfYlc2Rk1ERkppUEdrYVNCWVE5OVU3ODZwSzVYU2pMakZNbVNaVTRzZnNhblVCVk5qZjFmbDJ0N0JOTllfOFkwWHhuU2lDTnZHVW5DZ0xRZ2h5RklqR2ZFNTdfMURzRjgzbVRrNC1rUWpieHhNTUxsZkh2a3k0VDVSTlgxWS1lRmVka2cxY3ZkZXNCbGxPeWJhWHU1S0hXVW9ZYXFxUnAzVUJyV2liOXU1eU55TVp5S0tRMFUyTUdjN0swV29wVElR?oc=5",
         "title": "Americans believe Epstein files show the powerful get a pass, poll finds - news8000.com",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
@@ -787,6 +747,16 @@
         "category": "World",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYjAzOVRxN1NvTFdWT3dWYWVlWEZTQWtWcmI3d19ZRFc1Ti1sVndWc1ZMY3NxeF8wOUdfYlc2Rk1ERkppUEdrYVNCWVE5OVU3ODZwSzVYU2pMakZNbVNaVTRzZnNhblVCVk5qZjFmbDJ0N0JOTllfOFkwWHhuU2lDTnZHVW5DZ0xRZ2h5RklqR2ZFNTdfMURzRjgzbVRrNC1rUWpieHhNTUxsZkh2a3k0VDVSTlgxWS1lRmVka2cxY3ZkZXNCbGxPeWJhWHU1S0hXVW9ZYXFxUnAzVUJyV2liOXU1eU55TVp5S0tRMFUyTUdjN0swV29wVElR?oc=5",
         "timestamp": "2026-02-21 12:30:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3l4STRlUW1RcDF5bnBSWDk4c0RmN2JKdVVpbEs2SUxQcWFua3ZVMGVibDJtaHVIOG5Xa2FVWng0RHBjZ05BRU1XbEppZmdPT3REQVQ0UG1HNHBWUnVVM29FbFdvSFM0Szk1WE05ZzRvTU1tWHBtRFlOSFk2SDFna3FsdTNLYmkwLXM1Rm1LbFJkaVFjczRsY1c2V1pZZHJSVTdHVHpSSzRNUTJnRWgtT093UG1COHE3UWtOYlJB?oc=5",
+        "title": "Pezeshkian Says Iran Will Not Bow to Pressure Amid US Nuclear Talks - U.S. News & World Report",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "Reuters Global",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3l4STRlUW1RcDF5bnBSWDk4c0RmN2JKdVVpbEs2SUxQcWFua3ZVMGVibDJtaHVIOG5Xa2FVWng0RHBjZ05BRU1XbEppZmdPT3REQVQ0UG1HNHBWUnVVM29FbFdvSFM0Szk1WE05ZzRvTU1tWHBtRFlOSFk2SDFna3FsdTNLYmkwLXM1Rm1LbFJkaVFjczRsY1c2V1pZZHJSVTdHVHpSSzRNUTJnRWgtT093UG1COHE3UWtOYlJB?oc=5",
+        "timestamp": "2026-02-21 14:26:00",
         "isSaved": 0
     },
     {
@@ -810,33 +780,33 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclh6N2s4cGt3VS12aktHTXg1MjhwZEJ1WllMbFB5S0RyQlBSVm5zMldxX0NRWGhha21DMUdWd3FJMjhKcm1UdW1BTVFaTHNhN3pNSERlZjgwYzhOS2RVcTNqTnBLZ3VTY2tlM0gtVTlqZEZfc0h4SmRuNV9wNHVjVVN5VU5BU280OTJZOVN3?oc=5",
-        "title": "Korzeniowski ‘fights’ to reach Torun for MOWA Exhibition opening | News | Heritage - worldathletics.org",
+        "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjh5T3dWazZGUUpDNFlkQkhlN1lOMlVKbmFmbl8yeTdLSThPXzF5bHBZLWkzNDZPbG9LN3RmUTBuNnZJZjE5VnZtdENaZHgwd1prVC16UjlHTlZfeXp6ZldKd1FsZVQzblhwTXNDRXk0Ym9LYzhOUUtvLVJoelhQQ2pSRGhKdUlxTXhHWVZIZnFud2FtYThxR9IBngFBVV95cUxNWENNejRxR3R3d3VOcDNaa0hfY0V0MDRmeldLN3hxY1NLTnVXZVlSamNWcDJwd2gzRG9saDB5VF96ZXdZMERUaE1fMEh2VjMzRkthNU1hVWpKRUpBVWZuQ3JUUVpib3Y1OXA1UUdzbGtGYUtWYTNFLTVPSmF2V0Izb1ZTWjNPVGlpN2JyUmV5dy1Ja21nTjFMX0tQMVJqQQ?oc=5",
+        "title": "Where are the most endangered languages in the world? - Al Jazeera",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclh6N2s4cGt3VS12aktHTXg1MjhwZEJ1WllMbFB5S0RyQlBSVm5zMldxX0NRWGhha21DMUdWd3FJMjhKcm1UdW1BTVFaTHNhN3pNSERlZjgwYzhOS2RVcTNqTnBLZ3VTY2tlM0gtVTlqZEZfc0h4SmRuNV9wNHVjVVN5VU5BU280OTJZOVN3?oc=5",
-        "timestamp": "2026-02-21 12:08:47",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjh5T3dWazZGUUpDNFlkQkhlN1lOMlVKbmFmbl8yeTdLSThPXzF5bHBZLWkzNDZPbG9LN3RmUTBuNnZJZjE5VnZtdENaZHgwd1prVC16UjlHTlZfeXp6ZldKd1FsZVQzblhwTXNDRXk0Ym9LYzhOUUtvLVJoelhQQ2pSRGhKdUlxTXhHWVZIZnFud2FtYThxR9IBngFBVV95cUxNWENNejRxR3R3d3VOcDNaa0hfY0V0MDRmeldLN3hxY1NLTnVXZVlSamNWcDJwd2gzRG9saDB5VF96ZXdZMERUaE1fMEh2VjMzRkthNU1hVWpKRUpBVWZuQ3JUUVpib3Y1OXA1UUdzbGtGYUtWYTNFLTVPSmF2V0Izb1ZTWjNPVGlpN2JyUmV5dy1Ja21nTjFMX0tQMVJqQQ?oc=5",
+        "timestamp": "2026-02-21 05:15:59",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazc3aW5nbHViekNXcGFIU3FnM19QZ0sxUlA0YjYzanZBdDk1SXZ6SlJNYVBTMWtScGtGaEx2WFF5Q1NiRDktVlBiT09WYnQzM2ZUVGRSWDZGdlZ3TER6MXZqZVhDUG0xanJxX0VqYzlhMlI3MGE2SXRtYmZDdDNmOUhNOS1mX1A5SkdjTVBmckJtaTFTTW5FX0FMM0pnSFBuT19zYTdpMDZKUWJEamZTOUR6a2J2dEN5dU1QcTFSSlTSAcYBQVVfeXFMT3pkY2FrTWNJYS1LRGdjSFB6clVrZ20tRm1NTWpWYWNlUUJGS3lXclJkVmdxSjBqbVktZF92UGZfNVQ3SGttNFZTSkh6aG5CRUpWQ0JILTNkX2x0TWFfNmc4ZGZyS0pLUHY0X0o2VjRlaV8tOEZrTWlpQUE3QW0tWjZhSFY4cUt6VkdJSFFTTzBqUE5iQXNQTVpmSjdlWDMwUTdLM1lEd042b0FOdXBSeFRzaU5iWkJIUkZ1UEczTkFOZUR1Nlhn?oc=5",
-        "title": "Trump tariffs updates: US president slams Supreme Court, vows more tariffs - Al Jazeera",
+        "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHF1LWhmaUFBdGM1QUl5WmdLOXo1eFZLMHB3YmZvNmNuenRYQUxRejliMG9YQm1hN21UU1BpMlpld2EzY21CZV9ZSnJLNGNoZXNrQVJHR2d6SHdBbEJGR3U2TTdQS0ZBZU9EdFFNQ1Zxa09nMVpyc1FtVUoyYUJKazd3?oc=5",
+        "title": "What's next for Trump's tariffs after Supreme Court ruling - CBC",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazc3aW5nbHViekNXcGFIU3FnM19QZ0sxUlA0YjYzanZBdDk1SXZ6SlJNYVBTMWtScGtGaEx2WFF5Q1NiRDktVlBiT09WYnQzM2ZUVGRSWDZGdlZ3TER6MXZqZVhDUG0xanJxX0VqYzlhMlI3MGE2SXRtYmZDdDNmOUhNOS1mX1A5SkdjTVBmckJtaTFTTW5FX0FMM0pnSFBuT19zYTdpMDZKUWJEamZTOUR6a2J2dEN5dU1QcTFSSlTSAcYBQVVfeXFMT3pkY2FrTWNJYS1LRGdjSFB6clVrZ20tRm1NTWpWYWNlUUJGS3lXclJkVmdxSjBqbVktZF92UGZfNVQ3SGttNFZTSkh6aG5CRUpWQ0JILTNkX2x0TWFfNmc4ZGZyS0pLUHY0X0o2VjRlaV8tOEZrTWlpQUE3QW0tWjZhSFY4cUt6VkdJSFFTTzBqUE5iQXNQTVpmSjdlWDMwUTdLM1lEd042b0FOdXBSeFRzaU5iWkJIUkZ1UEczTkFOZUR1Nlhn?oc=5",
-        "timestamp": "2026-02-20 22:49:18",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHF1LWhmaUFBdGM1QUl5WmdLOXo1eFZLMHB3YmZvNmNuenRYQUxRejliMG9YQm1hN21UU1BpMlpld2EzY21CZV9ZSnJLNGNoZXNrQVJHR2d6SHdBbEJGR3U2TTdQS0ZBZU9EdFFNQ1Zxa09nMVpyc1FtVUoyYUJKazd3?oc=5",
+        "timestamp": "2026-02-21 09:00:00",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3l4STRlUW1RcDF5bnBSWDk4c0RmN2JKdVVpbEs2SUxQcWFua3ZVMGVibDJtaHVIOG5Xa2FVWng0RHBjZ05BRU1XbEppZmdPT3REQVQ0UG1HNHBWUnVVM29FbFdvSFM0Szk1WE05ZzRvTU1tWHBtRFlOSFk2SDFna3FsdTNLYmkwLXM1Rm1LbFJkaVFjczRsY1c2V1pZZHJSVTdHVHpSSzRNUTJnRWgtT093UG1COHE3UWtOYlJB?oc=5",
-        "title": "Pezeshkian Says Iran Will Not Bow to Pressure Amid US Nuclear Talks - U.S. News & World Report",
+        "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrNzhseDljT1JIQXBRdnp5TDJORXhoSlFOcTN1d2ZzUUU1UFVYRC1jZXBNcWQ2YVFIS0JzTDdjUWlnUmNSc3FGdHg4OTczUWFNMDBZd3pEQTc3S0Z0Qk82RlN1WkpxeGt3ZURVS2RXQlAwbm1EVlVGZW9EajRzWTQ?oc=5",
+        "title": "O'Mara: running away – then exploring the world | News | Heritage - worldathletics.org",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3l4STRlUW1RcDF5bnBSWDk4c0RmN2JKdVVpbEs2SUxQcWFua3ZVMGVibDJtaHVIOG5Xa2FVWng0RHBjZ05BRU1XbEppZmdPT3REQVQ0UG1HNHBWUnVVM29FbFdvSFM0Szk1WE05ZzRvTU1tWHBtRFlOSFk2SDFna3FsdTNLYmkwLXM1Rm1LbFJkaVFjczRsY1c2V1pZZHJSVTdHVHpSSzRNUTJnRWgtT093UG1COHE3UWtOYlJB?oc=5",
-        "timestamp": "2026-02-21 14:26:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrNzhseDljT1JIQXBRdnp5TDJORXhoSlFOcTN1d2ZzUUU1UFVYRC1jZXBNcWQ2YVFIS0JzTDdjUWlnUmNSc3FGdHg4OTczUWFNMDBZd3pEQTc3S0Z0Qk82RlN1WkpxeGt3ZURVS2RXQlAwbm1EVlVGZW9EajRzWTQ?oc=5",
+        "timestamp": "2026-02-21 11:28:16",
         "isSaved": 0
     },
     {
@@ -850,13 +820,53 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjh5T3dWazZGUUpDNFlkQkhlN1lOMlVKbmFmbl8yeTdLSThPXzF5bHBZLWkzNDZPbG9LN3RmUTBuNnZJZjE5VnZtdENaZHgwd1prVC16UjlHTlZfeXp6ZldKd1FsZVQzblhwTXNDRXk0Ym9LYzhOUUtvLVJoelhQQ2pSRGhKdUlxTXhHWVZIZnFud2FtYThxR9IBngFBVV95cUxNWENNejRxR3R3d3VOcDNaa0hfY0V0MDRmeldLN3hxY1NLTnVXZVlSamNWcDJwd2gzRG9saDB5VF96ZXdZMERUaE1fMEh2VjMzRkthNU1hVWpKRUpBVWZuQ3JUUVpib3Y1OXA1UUdzbGtGYUtWYTNFLTVPSmF2V0Izb1ZTWjNPVGlpN2JyUmV5dy1Ja21nTjFMX0tQMVJqQQ?oc=5",
-        "title": "Where are the most endangered languages in the world? - Al Jazeera",
+        "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmV6NllaUUZxenB1ZXpfdTR1MTRld3hxc0JQcTd1S0hoUjdOX04yc0gxbVczYWMxMkFCbGlZVmVxWlVaT3d5TEdYdy1kZDlxRlRrTEw4RHZjTmVHdWQyU3hSMk5iRWRjYjczSWxDMEI1ZWozaUhwbG9zNVd4OHB4SEV1REhNZF9wZTY1d2RGVzhzMHFzLW0ybWZFc1pzQnp2SHpwbDFteGZqODdfVGlNbHdkUlJGTWk4b3Vz?oc=5",
+        "title": "Trump Pushes Third Round of Talks on Western Sahara for February 23-24 - Morocco World News",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Reuters Global",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjh5T3dWazZGUUpDNFlkQkhlN1lOMlVKbmFmbl8yeTdLSThPXzF5bHBZLWkzNDZPbG9LN3RmUTBuNnZJZjE5VnZtdENaZHgwd1prVC16UjlHTlZfeXp6ZldKd1FsZVQzblhwTXNDRXk0Ym9LYzhOUUtvLVJoelhQQ2pSRGhKdUlxTXhHWVZIZnFud2FtYThxR9IBngFBVV95cUxNWENNejRxR3R3d3VOcDNaa0hfY0V0MDRmeldLN3hxY1NLTnVXZVlSamNWcDJwd2gzRG9saDB5VF96ZXdZMERUaE1fMEh2VjMzRkthNU1hVWpKRUpBVWZuQ3JUUVpib3Y1OXA1UUdzbGtGYUtWYTNFLTVPSmF2V0Izb1ZTWjNPVGlpN2JyUmV5dy1Ja21nTjFMX0tQMVJqQQ?oc=5",
-        "timestamp": "2026-02-21 05:15:59",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmV6NllaUUZxenB1ZXpfdTR1MTRld3hxc0JQcTd1S0hoUjdOX04yc0gxbVczYWMxMkFCbGlZVmVxWlVaT3d5TEdYdy1kZDlxRlRrTEw4RHZjTmVHdWQyU3hSMk5iRWRjYjczSWxDMEI1ZWozaUhwbG9zNVd4OHB4SEV1REhNZF9wZTY1d2RGVzhzMHFzLW0ybWZFc1pzQnp2SHpwbDFteGZqODdfVGlNbHdkUlJGTWk4b3Vz?oc=5",
+        "timestamp": "2026-02-21 15:57:52",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeG1yczNrYU92RnFjZmdIVkx5cVVHT1dZQk1kQm1LYUhuU1QxcTVYVHZQeWR0QzBOM1JtUWhxbEp0RVNnWllsTlZ2R3p2VGE5MEE0QnVaUEFGOFFQc0pud09McENwMzJOOEV6c2ttTkxXR1R3aTVzOVdWeFI0SldmVndIbjZkQWhDTVk1UV9kdWtWejJyc3ltWFEzUFo5UUZiNW9iek9ibUtvZTNXcjNwSWZqRS1COEtoeEFVR2doYzBmREFobFI5bUhRLVF0VF9Ua3pwZEozdkdDbTIzWDREN9IB6AFBVV95cUxNenM4VzFQZVQwZXRSbnl0RU1HYmZZdDZzcEFCVzRJS0pDMWNDVWFzRVFBcVllLXJtaXo1a0lTUlkyd21iQ2R5ZU1RTW94YndLX2dfd2dKZWtldHNGd1ZDZmJJU213d251Qk42QUZRYjgyaXlVZmlRcUhodHpIZlI3STNDWktDNWoyWG50SWFIc3RtV2ptcklIMEJWR2dLQm1SbGhfS3VqTjhxSnRMZUctMFdZbWNuYzA0TW5DeTVHTGpjRm4zTFZuZ3NmN3NVVlFhQ1FiZW13SlRGcUdqZ1ZFdlZTWjFsLTRj?oc=5",
+        "title": "'Presidents Are Powerful But...': Indian-Origin Lawyer On Trump's Tariff Blow - NDTV",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "Reuters Global",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeG1yczNrYU92RnFjZmdIVkx5cVVHT1dZQk1kQm1LYUhuU1QxcTVYVHZQeWR0QzBOM1JtUWhxbEp0RVNnWllsTlZ2R3p2VGE5MEE0QnVaUEFGOFFQc0pud09McENwMzJOOEV6c2ttTkxXR1R3aTVzOVdWeFI0SldmVndIbjZkQWhDTVk1UV9kdWtWejJyc3ltWFEzUFo5UUZiNW9iek9ibUtvZTNXcjNwSWZqRS1COEtoeEFVR2doYzBmREFobFI5bUhRLVF0VF9Ua3pwZEozdkdDbTIzWDREN9IB6AFBVV95cUxNenM4VzFQZVQwZXRSbnl0RU1HYmZZdDZzcEFCVzRJS0pDMWNDVWFzRVFBcVllLXJtaXo1a0lTUlkyd21iQ2R5ZU1RTW94YndLX2dfd2dKZWtldHNGd1ZDZmJJU213d251Qk42QUZRYjgyaXlVZmlRcUhodHpIZlI3STNDWktDNWoyWG50SWFIc3RtV2ptcklIMEJWR2dLQm1SbGhfS3VqTjhxSnRMZUctMFdZbWNuYzA0TW5DeTVHTGpjRm4zTFZuZ3NmN3NVVlFhQ1FiZW13SlRGcUdqZ1ZFdlZTWjFsLTRj?oc=5",
+        "timestamp": "2026-02-21 08:29:36",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3ZONXdrYlZhTEhabnRFZ19KRUEyQzBRV083YVRyS3lUc1ZwbFQ5SUxaZk1EckZYM3BLRDY5dVBFellfa2FJOGZGTHhvcGliUFprSUYtYi1Ub3QxeHdEZjFQYTJobHo2aEJ1cGF0OHlqV3FoUkJjbXBCNlhRYXdwS3dKbjdJRkdCdWwzczkwMmQ1alBZLTRMSE5CMWRDVXJabWRtRENkOFhPS1V2R1o0LVFseUxHT0VXRnhCRQ?oc=5",
+        "title": "Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say - KSAT",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "Reuters Global",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3ZONXdrYlZhTEhabnRFZ19KRUEyQzBRV083YVRyS3lUc1ZwbFQ5SUxaZk1EckZYM3BLRDY5dVBFellfa2FJOGZGTHhvcGliUFprSUYtYi1Ub3QxeHdEZjFQYTJobHo2aEJ1cGF0OHlqV3FoUkJjbXBCNlhRYXdwS3dKbjdJRkdCdWwzczkwMmQ1alBZLTRMSE5CMWRDVXJabWRtRENkOFhPS1V2R1o0LVFseUxHT0VXRnhCRQ?oc=5",
+        "timestamp": "2026-02-21 11:31:27",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0NXbHdTNXRfMFAzUGFYRldheWo0S2l5SThhS0c2MTZjRUJvRW1vQ2dFVHp3QUNKMXdYb09VOHdrM1VYdS1wNnNfZ0FCUGpfSnlXeDAyX3c1Zi1RSXQxWlg2ODBodFIyQmRNVmt4N1lLSkF3Q2ZKSDVyLWE1ZHJpVG9oQldNVXJCN0E?oc=5",
+        "title": "Pirates legend and Baseball Hall of Famer Bill Mazeroski dies at 89 - CBS News",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "Reuters Global",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0NXbHdTNXRfMFAzUGFYRldheWo0S2l5SThhS0c2MTZjRUJvRW1vQ2dFVHp3QUNKMXdYb09VOHdrM1VYdS1wNnNfZ0FCUGpfSnlXeDAyX3c1Zi1RSXQxWlg2ODBodFIyQmRNVmt4N1lLSkF3Q2ZKSDVyLWE1ZHJpVG9oQldNVXJCN0E?oc=5",
+        "timestamp": "2026-02-21 12:52:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTQyNVJUYnF0S2g4QWNpSlRLby13NnB2LVdtOWRuSzVXRjhwUTIzY1FxamctXy1CXzQzWFQtT3o2M092NFVad2syRjdhc2M2b0p5M29FUGxsWjlRN1pZNXhkUzZYMWRTSjRwYjB2cFNMUm50VWNEYzI5emZrYVBocjJxQTBSWHVQbGxUbEFfUWN6cWFmRlZUOHpoMXFORjVyZElKaGF2X1Frd3NtZ09PUThxVQ?oc=5",
+        "title": "Top-ranked Canada beats US for bronze medal in women's curling at the Olympics - WRAL",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "AP News",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTQyNVJUYnF0S2g4QWNpSlRLby13NnB2LVdtOWRuSzVXRjhwUTIzY1FxamctXy1CXzQzWFQtT3o2M092NFVad2syRjdhc2M2b0p5M29FUGxsWjlRN1pZNXhkUzZYMWRTSjRwYjB2cFNMUm50VWNEYzI5emZrYVBocjJxQTBSWHVQbGxUbEFfUWN6cWFmRlZUOHpoMXFORjVyZElKaGF2X1Frd3NtZ09PUThxVQ?oc=5",
+        "timestamp": "2026-02-21 16:09:51",
         "isSaved": 0
     },
     {
@@ -920,43 +930,33 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkg3OE92Tlk5bFQwdG9pWWI1X2dBeVhGRFd1bTZUd2N0b3VFLV95Z0NwZlNCTk1qVVlmR1I5UFVDM1JlbVVYbjZXY0NJZDhHb3dDT2VaQWJYbV9MLWZPbUpkT050WDhNMGQ1WW1rZmttOERDWDV1TjdZaThyRE1rVWRDYXhCZ1VmQ0g1Z2FTdElOVklQd2N6Sl84WklLNjNaenl3OW8yTy1LYWtTLURWNUt4OEFaOS1SVF9zcXZDNnpFNUVkeVFreHQtbW91OVVmVlZOZmlPZlQ1MHYyR1HSAd4BQVVfeXFMT0JINzhPdk5ZOWxUMHRvaVliNV9nQXlYRkRXdW02VHdjdG91RS1feWdDcGZTQk5NalVZZkdSOVBVQzNSZW1VWG42V2NDSWQ4R293Q09lWkFiWG1fTC1mT21KZE9OdFg4TTBkNVlta2ZrbThEQ1g1dU43WWk4ckRNa1VkQ2F4QmdVZkNINWdhU3RJTlZJUHdjekpfOFpJSzYzWnp5dzlvMk8tS2FrUy1EVjVLeDhBWjktUlRfc3F2QzZ6RTVFZHlRa3h0LW1vdTlVZlZWTmZpT2ZUNTB2MkdR?oc=5",
-        "title": "Joe Scott is out as Air Force basketball coach. The school was investigating his treatment of cadets - WTRF",
+        "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2I5RlVwY0hMSmxxdEpmYVlOUG5iMWZLSzJuZkJfSm9IVDNocE9EeFJSWURoSjhWZ0lFQzdwSjBfY3ZKNEN4ZlNQUzZNUFhTc2ZEYVI3aURtZkEyRXktenpXNUF1X2Zja2ZURVgzLURPVDgxTEdWaVZ6YzhIUU04SjJBX09rRXFEaktVY2gzU3NYOEZWTXJhM0hvYWU5VUtZb0NaZVdNdHctTG52ejQ2N1VMQzRkMDlpVWRFVm9vREVEdUlLamZwVTlyQkVyQnhkTXE5VtIB2gFBVV95cUxOQ1d6RHM3VWV0em91SUtLOWZBVUtYSmN0S0FZbG0xSTBRMkJYRFJ1d1lyLUtOdXR1amR0ZjJUaEY5TXJ5RGNJUXVISktwN1pKTFdMYWMxRU42dUNNaklrSnB3eWZYMnRmZzBVdVhxWTFFVlNxUWpNM0Z5cC14WmZ2SHRJVVFpRUt6dEhhZVU5X1JlbWVxbGFHa1Bra3Y2YTJYRDJfVEJrZTVTUUZXTml5cUVGM2s2LXBCRHdIa1Vuc2xJeWNxc09JNlhSQW9Xc2ZNalhFZUpfX2Npdw?oc=5",
+        "title": "Mick Cronin apologizes to player for ejecting him and say he needs to do better at representing UCLA - KFOR",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkg3OE92Tlk5bFQwdG9pWWI1X2dBeVhGRFd1bTZUd2N0b3VFLV95Z0NwZlNCTk1qVVlmR1I5UFVDM1JlbVVYbjZXY0NJZDhHb3dDT2VaQWJYbV9MLWZPbUpkT050WDhNMGQ1WW1rZmttOERDWDV1TjdZaThyRE1rVWRDYXhCZ1VmQ0g1Z2FTdElOVklQd2N6Sl84WklLNjNaenl3OW8yTy1LYWtTLURWNUt4OEFaOS1SVF9zcXZDNnpFNUVkeVFreHQtbW91OVVmVlZOZmlPZlQ1MHYyR1HSAd4BQVVfeXFMT0JINzhPdk5ZOWxUMHRvaVliNV9nQXlYRkRXdW02VHdjdG91RS1feWdDcGZTQk5NalVZZkdSOVBVQzNSZW1VWG42V2NDSWQ4R293Q09lWkFiWG1fTC1mT21KZE9OdFg4TTBkNVlta2ZrbThEQ1g1dU43WWk4ckRNa1VkQ2F4QmdVZkNINWdhU3RJTlZJUHdjekpfOFpJSzYzWnp5dzlvMk8tS2FrUy1EVjVLeDhBWjktUlRfc3F2QzZ6RTVFZHlRa3h0LW1vdTlVZlZWTmZpT2ZUNTB2MkdR?oc=5",
-        "timestamp": "2026-02-20 23:10:35",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2I5RlVwY0hMSmxxdEpmYVlOUG5iMWZLSzJuZkJfSm9IVDNocE9EeFJSWURoSjhWZ0lFQzdwSjBfY3ZKNEN4ZlNQUzZNUFhTc2ZEYVI3aURtZkEyRXktenpXNUF1X2Zja2ZURVgzLURPVDgxTEdWaVZ6YzhIUU04SjJBX09rRXFEaktVY2gzU3NYOEZWTXJhM0hvYWU5VUtZb0NaZVdNdHctTG52ejQ2N1VMQzRkMDlpVWRFVm9vREVEdUlLamZwVTlyQkVyQnhkTXE5VtIB2gFBVV95cUxOQ1d6RHM3VWV0em91SUtLOWZBVUtYSmN0S0FZbG0xSTBRMkJYRFJ1d1lyLUtOdXR1amR0ZjJUaEY5TXJ5RGNJUXVISktwN1pKTFdMYWMxRU42dUNNaklrSnB3eWZYMnRmZzBVdVhxWTFFVlNxUWpNM0Z5cC14WmZ2SHRJVVFpRUt6dEhhZVU5X1JlbWVxbGFHa1Bra3Y2YTJYRDJfVEJrZTVTUUZXTml5cUVGM2s2LXBCRHdIa1Vuc2xJeWNxc09JNlhSQW9Xc2ZNalhFZUpfX2Npdw?oc=5",
+        "timestamp": "2026-02-20 21:46:28",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWVGaW1TbzFUYjhLRFhkajBvdXVZU3BoaDk1a0xETGcyZ0E0X2xTaFBnYkJWeHhMTEJpQ3pTbllveUZkdkR5SlBfNjgyN1R4Y1BXdk1uYkhQYWZwX2d0T1RzVldTWTRtUkpONWhJcW5qRnFFQTFfSnVXdTBkOUlqM0JmMEwzc0U2MzZLNHdwMFZmcURjbEVLN3ZNS2NqSmoyb1o3UnYtcS1aNnhZeVNpY3FQWE5jVW8wci1mdTU0alFHTjRhYzFOYXVQWmI3a0Vr0gHWAUFVX3lxTE9MOHE0c0JEVk5hZHZJdk1HbUwtWmI2Sm1XQmpSemdiNldKQmg2c1BBZVF5YkdxaFNYRlVnSS1PTVBJMFpRcUZQTEFZWDRmTHhIQm5NVDdIWmhNREtYTTRYWFgtVkx1U2lNUnN2bmNxVWctVmJFaEgxOGM4aERYZDhNRV9ydFE4aVZSTFU4TlZyVkdCLS1pdkVWTW10X0l0c01Hd0RaczB6WkxCckdOWnBMaEQ2VWV4Skk5cFR1MEo0M2pNc0xIVGFlNHFtX09FTVRUZDZONHc?oc=5",
-        "title": "Supreme Court strikes down Trump’s sweeping tariffs, upending central plank of his economic agenda - WREG.com",
+        "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2VYZ0JkNjh5Rk53NUZyYzRnc21ua3lhQTktTGdIRERLYURwdjBjVGJuNG42T3F3M1d5WGI1M3AxYnFneXVzaVZIT3RTVkhUQTFoUWEzNWRaRXNyOV9UM29ZTWhMVGJPa0xFV3JfT1o2MThhbWt5c2xybTVBOTBuY3E3ZG0zSDdTc1BSZVFPbFg0b3VwYlNwSVpvTkpsTHFkcVRKc0VLbHdrOU5ndllvQ3pQZlBXcDdodU16MnkzWW5WT3ZybFk0N3dEZE5nQVpL0gHQAUFVX3lxTE9fZVhnQmQ2OHlGTnc1RnJjNGdzbW5reWFBOS1MZ0hEREthRHB2MGNUYm40bjZPcXczV3lYYjUzcDFicWd5dXNpVkhPdFNWSFRBMWhRYTM1ZFpFc3I5X1Qzb1lNaExUYk9rTEVXcl9PWjYxOGFta3lzbHJtNUE5MG5jcTdkbTNIN1NzUFJlUU9sWDRvdXBiU3BJWm9OSmxMcWRxVEpzRUtsd2s5Tmd2WW9DelBmUFdwN2h1TXoyeTNZblZPdnJsWTQ3d0RkTmdBWks?oc=5",
+        "title": "Joe Scott is out as Air Force basketball coach. The school was investigating his treatment of cadets - KSNT 27 News",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWVGaW1TbzFUYjhLRFhkajBvdXVZU3BoaDk1a0xETGcyZ0E0X2xTaFBnYkJWeHhMTEJpQ3pTbllveUZkdkR5SlBfNjgyN1R4Y1BXdk1uYkhQYWZwX2d0T1RzVldTWTRtUkpONWhJcW5qRnFFQTFfSnVXdTBkOUlqM0JmMEwzc0U2MzZLNHdwMFZmcURjbEVLN3ZNS2NqSmoyb1o3UnYtcS1aNnhZeVNpY3FQWE5jVW8wci1mdTU0alFHTjRhYzFOYXVQWmI3a0Vr0gHWAUFVX3lxTE9MOHE0c0JEVk5hZHZJdk1HbUwtWmI2Sm1XQmpSemdiNldKQmg2c1BBZVF5YkdxaFNYRlVnSS1PTVBJMFpRcUZQTEFZWDRmTHhIQm5NVDdIWmhNREtYTTRYWFgtVkx1U2lNUnN2bmNxVWctVmJFaEgxOGM4aERYZDhNRV9ydFE4aVZSTFU4TlZyVkdCLS1pdkVWTW10X0l0c01Hd0RaczB6WkxCckdOWnBMaEQ2VWV4Skk5cFR1MEo0M2pNc0xIVGFlNHFtX09FTVRUZDZONHc?oc=5",
-        "timestamp": "2026-02-20 18:57:47",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2VYZ0JkNjh5Rk53NUZyYzRnc21ua3lhQTktTGdIRERLYURwdjBjVGJuNG42T3F3M1d5WGI1M3AxYnFneXVzaVZIT3RTVkhUQTFoUWEzNWRaRXNyOV9UM29ZTWhMVGJPa0xFV3JfT1o2MThhbWt5c2xybTVBOTBuY3E3ZG0zSDdTc1BSZVFPbFg0b3VwYlNwSVpvTkpsTHFkcVRKc0VLbHdrOU5ndllvQ3pQZlBXcDdodU16MnkzWW5WT3ZybFk0N3dEZE5nQVpL0gHQAUFVX3lxTE9fZVhnQmQ2OHlGTnc1RnJjNGdzbW5reWFBOS1MZ0hEREthRHB2MGNUYm40bjZPcXczV3lYYjUzcDFicWd5dXNpVkhPdFNWSFRBMWhRYTM1ZFpFc3I5X1Qzb1lNaExUYk9rTEVXcl9PWjYxOGFta3lzbHJtNUE5MG5jcTdkbTNIN1NzUFJlUU9sWDRvdXBiU3BJWm9OSmxMcWRxVEpzRUtsd2s5Tmd2WW9DelBmUFdwN2h1TXoyeTNZblZPdnJsWTQ3d0RkTmdBWks?oc=5",
+        "timestamp": "2026-02-20 22:10:35",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTEpRUHpvWkJ1UUpXcTJhNW5hZ1dRUDg4and6WGgzMFhSOG1jVGliNTlhVlVsQWdaMC1hQ1Z2a2FoVVdjNzByUXJiZWQ2dm42MnN5dS1ZR0d1OUlhNGhNazI3MllpSW9tblFmRGEtbDJ3Q281d1NxQkZUX3dSMTJmS0JIOV9QNHNoRVRTMHRuWEJJdjRaWkVMRFRLamZaRndXRmVaOGhNM3ZuV1JPYnhWS3dZOWFyU0lZQ1IzLW1xTnRTeFU3eGhCU2Qyc0EtcGVnNTc2MEd5a09ZTkxSNnRfSjBYS2psM28?oc=5",
-        "title": "Investigation of deadly California avalanche to review whether criminal negligence played a role - Spectrum Bay News 9",
+        "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPem5MbkpROFM3RkNEeGZPNzFTa2N6TjJsb2N2ZzVLdmhQazRKUjdQS242LUhYdVZvb3ZWMk53NGRvY3VodWRraW9vSXI1SGpYYTQ1eE41THhXVmVaQjVsQU5XTzRnZTVQOU92alM5eDlLWDloVkVPc3R5R0JxVFh2clVhV2xlUHExLU50UFBKM0tXOGo0ejl5T2IyYVc1UFk5eThIV2k5VlNNdWY3NW9LM1FFMHk4QnhsdEZ2dTRZLXpGWHc3dnlxeFpkRjBOOFY0c3dsRDBaenJSazgtRzNEUDEydUlHSjJRNXlDaDV30gHkAUFVX3lxTE54UnBMMW5MR0J5Zk1aLXRmWXdqazQzRmRodms0NXVqUEt4emJWbm9pWHRKOGNnYmI5eUstVXdLTVVjN0EyZ2JkQXIweWR4YkF2aU1sZmtKQW5HNFJ6b2hPU0Y1cnRlV2tTbFdYTm40TzVXOGdxdzdubFVaVTRmSEpjdFFoV0xXX3BtbWxxdm1qZTQtVmh1SktkMEZKVmJrUWZxVENfajVrdHBWSXdLb2FhVUFZVzRwTVFlNFZhcjBua1RtSlVNVUdSMDRZMUhqUkluZlh3RXhDTTRjclppUW9RTVdEOA?oc=5",
+        "title": "Supreme Court strikes down Trump’s sweeping tariffs, upending central plank of economic agenda - FOX4KC.com",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTEpRUHpvWkJ1UUpXcTJhNW5hZ1dRUDg4and6WGgzMFhSOG1jVGliNTlhVlVsQWdaMC1hQ1Z2a2FoVVdjNzByUXJiZWQ2dm42MnN5dS1ZR0d1OUlhNGhNazI3MllpSW9tblFmRGEtbDJ3Q281d1NxQkZUX3dSMTJmS0JIOV9QNHNoRVRTMHRuWEJJdjRaWkVMRFRLamZaRndXRmVaOGhNM3ZuV1JPYnhWS3dZOWFyU0lZQ1IzLW1xTnRTeFU3eGhCU2Qyc0EtcGVnNTc2MEd5a09ZTkxSNnRfSjBYS2psM28?oc=5",
-        "timestamp": "2026-02-20 22:11:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlVYU3dkYlY4WF96eHJSSk0ta1UyQ3RmUktPVGZlN05BVXpBSlBpenhTd191OWNsVzZGSmV1RGhKSXlMN0NnTHlHM1E4bEYwRkRkWXRWSV9Dc05NVFlabXhNUEpKeGlQUlFwbGY5VEdIVjhQQjVhXzgxX0Q3Nzg5d215SUNJSV9CUmpGYk1xUTRGZlA1NUNOZTRMSUJnVWpYRVJJZkZR?oc=5",
-        "title": "Rams promote Nate Scheelhaase to offensive coordinator, AP source says - WDIO.com",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "AP News",
-        "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlVYU3dkYlY4WF96eHJSSk0ta1UyQ3RmUktPVGZlN05BVXpBSlBpenhTd191OWNsVzZGSmV1RGhKSXlMN0NnTHlHM1E4bEYwRkRkWXRWSV9Dc05NVFlabXhNUEpKeGlQUlFwbGY5VEdIVjhQQjVhXzgxX0Q3Nzg5d215SUNJSV9CUmpGYk1xUTRGZlA1NUNOZTRMSUJnVWpYRVJJZkZR?oc=5",
-        "timestamp": "2026-02-20 18:31:30",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPem5MbkpROFM3RkNEeGZPNzFTa2N6TjJsb2N2ZzVLdmhQazRKUjdQS242LUhYdVZvb3ZWMk53NGRvY3VodWRraW9vSXI1SGpYYTQ1eE41THhXVmVaQjVsQU5XTzRnZTVQOU92alM5eDlLWDloVkVPc3R5R0JxVFh2clVhV2xlUHExLU50UFBKM0tXOGo0ejl5T2IyYVc1UFk5eThIV2k5VlNNdWY3NW9LM1FFMHk4QnhsdEZ2dTRZLXpGWHc3dnlxeFpkRjBOOFY0c3dsRDBaenJSazgtRzNEUDEydUlHSjJRNXlDaDV30gHkAUFVX3lxTE54UnBMMW5MR0J5Zk1aLXRmWXdqazQzRmRodms0NXVqUEt4emJWbm9pWHRKOGNnYmI5eUstVXdLTVVjN0EyZ2JkQXIweWR4YkF2aU1sZmtKQW5HNFJ6b2hPU0Y1cnRlV2tTbFdYTm40TzVXOGdxdzdubFVaVTRmSEpjdFFoV0xXX3BtbWxxdm1qZTQtVmh1SktkMEZKVmJrUWZxVENfajVrdHBWSXdLb2FhVUFZVzRwTVFlNFZhcjBua1RtSlVNVUdSMDRZMUhqUkluZlh3RXhDTTRjclppUW9RTVdEOA?oc=5",
+        "timestamp": "2026-02-20 17:09:03",
         "isSaved": 0
     },
     {
@@ -970,33 +970,43 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbWVJZmh0VG0za2kycUROWmJLX0x3MG1LcEtsUWJhbFNzTEFsSmZhLTRJbDdZSzRXeWFzNTBrNWYzODREeVJzb0g1ZlhLUjNGaEpaUktybWxZRFc4b0ktYnJTNF9mMksxTmJzQ25rYmx6dnRwbXlFb2hRaXpnZ1NqUXQtLUwxeUl1Z1NlcUJyck91QktHVG1nY1kzeHNkUWs5b0twMDFoLVBIUE9nTklIZjFuUG9tMjIzOS1UMWUzcG9DZzI0ckdBLVRxOUx1eTA3aXp2NUdycWdIZGxhQnpGLWczejEwblVxMDBuTtIB8gFBVV95cUxNZ2VkOHMtc0hPOXp5R2x2ZlhwOUhvS2o4RWx2aE5fd0YwVkxtZkx2MExNTDEzRkFKUlVjWE12SWh5bXhVeHJhZ1plakE5NmZtU0JON29faUV1cl8zcUZ6d3lzNjFDMVBKYTNlaG93S240NUVHTDZaTnZqRUlNVDRlbzZOcUFRaUFZMFJ3SzNXZDBxbmE2amNDbm4xQ0ZESUN1X2pVTmdFWkVCZGlaSFRfUDJPcldiUGwtLUlWTHkxNjR5cnNnUUdFMDZuZ0xrWFR5RXdwSUNjZ3M5d2NOd19Ba0d1bndWbzZjYm9qZjFHWER0dw?oc=5",
-        "title": "Utah’s Supreme Court rejects appeal to overturn congressional map with Democratic-leaning district - WAVY.com",
+        "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTd4SmJaeUtFQjFRZDlQUzZlbkJxc1hsTUpkeVBiZWQ0VmRKUjNDUGstSnpqa1lIUUtqN3hMV0tDSXZjNUZkdm5nOFRPWXdwR1l3cWVGbHd3ZXIzaWVSXzVoVlFGUUEwOTF2dmNXdFZwUVdTbGdjNVJBREpQZlk4VmNIZDhvU0VLalc3YnQtNmw3OUdMUnpLOXZGeDQ3WUw1Qy1TcTRuNDhOcTlzNXRvbC1NcUZuNktF0gG-AUFVX3lxTFB3WjBWZ3NwLWdYbUg2bTBjcHpaQmNHWkxxRTZkTkhaSWdrM1EzVVJHb282ZUFnM1BXWEVRNE51NHRFZkdlci1QV3U2VTVabll5Yl9paHI3THM2djFIMktRc0drV2lOa2hUSmR5SnBWeGt4d043aXdPNkVUejNvX0JxTWxmd1NDcURqOGZSWUZOYjR6alVxQ0xGOWNlYWowaXB3WEFVNS1hWGtybk5XT2sxSjNWbDRSeWo5Vkpad0E?oc=5",
+        "title": "Top-ranked Canada heartbroken after upset loss to Sweden in women’s curling at the Olympics - CBS 17",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbWVJZmh0VG0za2kycUROWmJLX0x3MG1LcEtsUWJhbFNzTEFsSmZhLTRJbDdZSzRXeWFzNTBrNWYzODREeVJzb0g1ZlhLUjNGaEpaUktybWxZRFc4b0ktYnJTNF9mMksxTmJzQ25rYmx6dnRwbXlFb2hRaXpnZ1NqUXQtLUwxeUl1Z1NlcUJyck91QktHVG1nY1kzeHNkUWs5b0twMDFoLVBIUE9nTklIZjFuUG9tMjIzOS1UMWUzcG9DZzI0ckdBLVRxOUx1eTA3aXp2NUdycWdIZGxhQnpGLWczejEwblVxMDBuTtIB8gFBVV95cUxNZ2VkOHMtc0hPOXp5R2x2ZlhwOUhvS2o4RWx2aE5fd0YwVkxtZkx2MExNTDEzRkFKUlVjWE12SWh5bXhVeHJhZ1plakE5NmZtU0JON29faUV1cl8zcUZ6d3lzNjFDMVBKYTNlaG93S240NUVHTDZaTnZqRUlNVDRlbzZOcUFRaUFZMFJ3SzNXZDBxbmE2amNDbm4xQ0ZESUN1X2pVTmdFWkVCZGlaSFRfUDJPcldiUGwtLUlWTHkxNjR5cnNnUUdFMDZuZ0xrWFR5RXdwSUNjZ3M5d2NOd19Ba0d1bndWbzZjYm9qZjFHWER0dw?oc=5",
-        "timestamp": "2026-02-21 06:54:36",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTd4SmJaeUtFQjFRZDlQUzZlbkJxc1hsTUpkeVBiZWQ0VmRKUjNDUGstSnpqa1lIUUtqN3hMV0tDSXZjNUZkdm5nOFRPWXdwR1l3cWVGbHd3ZXIzaWVSXzVoVlFGUUEwOTF2dmNXdFZwUVdTbGdjNVJBREpQZlk4VmNIZDhvU0VLalc3YnQtNmw3OUdMUnpLOXZGeDQ3WUw1Qy1TcTRuNDhOcTlzNXRvbC1NcUZuNktF0gG-AUFVX3lxTFB3WjBWZ3NwLWdYbUg2bTBjcHpaQmNHWkxxRTZkTkhaSWdrM1EzVVJHb282ZUFnM1BXWEVRNE51NHRFZkdlci1QV3U2VTVabll5Yl9paHI3THM2djFIMktRc0drV2lOa2hUSmR5SnBWeGt4d043aXdPNkVUejNvX0JxTWxmd1NDcURqOGZSWUZOYjR6alVxQ0xGOWNlYWowaXB3WEFVNS1hWGtybk5XT2sxSjNWbDRSeWo5Vkpad0E?oc=5",
+        "timestamp": "2026-02-20 20:44:44",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUVBY2ZmREpDSWRhQ0FjV1A3bkNVZ2tWamFOVk9uQy14SEk4X3NkZDd6WHFrSnpMbFh0cWs5Qlg2Si1VUVVobkNUQmc1d1A0a0tfNG5kWUN2Nzd1bm05Y0luYXNrNTRORlh5a3R1eHdJOUFrX0tFYW93bDY3T2x3TUVtMktka2JFRzdnMkR6aGpXYmhCOFFaQ3NhbkdvdDNsa3huU0t1bmtZWV9Hc3BPbjl3YlQ5ZVFvWXh6WmdNMNIBxAFBVV95cUxPa05TdHlmVlpLcXR5Z3J3MExyRjFHZGpIbkhKUGtfTHY0Mzk3X0Q3SHVWMXd4aWw0cHlsck1FeHpVTkdRMW9jcldITm1XdFBjLVRKOWlDOWVadm9leFhwSjE4R2dKLW1Tci1sZVB2UEVYZkRBcDNhSUVtWVhYRnI5Uzd3M0w0Wng5Rm5nZVoyWUV2Y3RrbzBvQzgzRG9yYkxfRVh0dlVrVEpBQzYwOGFQZWRadGNUYjZUWUJibDdKQ0ZWNDRD?oc=5",
-        "title": "Top-ranked Canada heartbroken after upset loss to Sweden in women’s curling at the Olympics - KFOR",
+        "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX0ZORWctNHdBR0pCbm5IRE5Zb09VSkdhMHBpcHZDMFVOd0NJWi1tRDBsdjBoNk5BOWpqS2pCU0NWMzVVRDV3Sl9CQ0M4aF9XeDJTeVA4WTEtdmszbWo5ZGplWHRrNmlCOHVTTFplSzdmdVlPUGJzcVpLZ3V6R1ByQnRjVEVkOEhyS0owNXJJcUN1aml3ZWhMOG5nMTVDc284Qmh2YlBvYV82WnRKS1V2eDM1cUhIOVViZWVXVzhPTGZyMUtodU5TN1RaeXBuMEN4YkZxTDBnVE8tYjhtSnN3VXlnbWdVTFYwRHc?oc=5",
+        "title": "Investigation of deadly California avalanche to review whether criminal negligence played a role - Spectrum News 13",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUVBY2ZmREpDSWRhQ0FjV1A3bkNVZ2tWamFOVk9uQy14SEk4X3NkZDd6WHFrSnpMbFh0cWs5Qlg2Si1VUVVobkNUQmc1d1A0a0tfNG5kWUN2Nzd1bm05Y0luYXNrNTRORlh5a3R1eHdJOUFrX0tFYW93bDY3T2x3TUVtMktka2JFRzdnMkR6aGpXYmhCOFFaQ3NhbkdvdDNsa3huU0t1bmtZWV9Hc3BPbjl3YlQ5ZVFvWXh6WmdNMNIBxAFBVV95cUxPa05TdHlmVlpLcXR5Z3J3MExyRjFHZGpIbkhKUGtfTHY0Mzk3X0Q3SHVWMXd4aWw0cHlsck1FeHpVTkdRMW9jcldITm1XdFBjLVRKOWlDOWVadm9leFhwSjE4R2dKLW1Tci1sZVB2UEVYZkRBcDNhSUVtWVhYRnI5Uzd3M0w0Wng5Rm5nZVoyWUV2Y3RrbzBvQzgzRG9yYkxfRVh0dlVrVEpBQzYwOGFQZWRadGNUYjZUWUJibDdKQ0ZWNDRD?oc=5",
-        "timestamp": "2026-02-20 17:37:11",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX0ZORWctNHdBR0pCbm5IRE5Zb09VSkdhMHBpcHZDMFVOd0NJWi1tRDBsdjBoNk5BOWpqS2pCU0NWMzVVRDV3Sl9CQ0M4aF9XeDJTeVA4WTEtdmszbWo5ZGplWHRrNmlCOHVTTFplSzdmdVlPUGJzcVpLZ3V6R1ByQnRjVEVkOEhyS0owNXJJcUN1aml3ZWhMOG5nMTVDc284Qmh2YlBvYV82WnRKS1V2eDM1cUhIOVViZWVXVzhPTGZyMUtodU5TN1RaeXBuMEN4YkZxTDBnVE8tYjhtSnN3VXlnbWdVTFYwRHc?oc=5",
+        "timestamp": "2026-02-20 19:23:00",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWVZbXRkazFyNXhmVHNrTWpzSFlKQXZINm15dWxVQ2xXRVhXMi1HLU9sSWtlMjM0WmVLYkFISDJfeXdrWXl3QklJOXpDSW9rNll2aWRObzVsRjNRM3h2bVV0ZEp2cXFrQndHemFqTUtlcG5lLUZYcFMzS0UweHZwdFZrS0cxdGY1RzBWdXNNdGp5NlA2Yjd5QlViUUhlaGhEVUxKZHRaVmNfLVpiUm9hdmptaXhFWjVYM3AzcmxXZw?oc=5",
-        "title": "No. 22 Miami (Ohio) remains lone unbeaten in Division I with 91-77 win over Bowling Green - WRAL",
+        "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aUTdLUDVkNUw2b2JaY3phb3lYRTZqVjY1aWVwczBwdTR5YXN0RVY4eFdzREI3dWV3bkExRExhV1hGU1dwQjNvVE1mMEFtSFFubFFRM0R0bXYxNnZQclNyaFMwdERidXhQTk0zZEYtMA?oc=5",
+        "title": "Purdue new No. 1 in AP Top 25; Houston No. 2 - AOL.com",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWVZbXRkazFyNXhmVHNrTWpzSFlKQXZINm15dWxVQ2xXRVhXMi1HLU9sSWtlMjM0WmVLYkFISDJfeXdrWXl3QklJOXpDSW9rNll2aWRObzVsRjNRM3h2bVV0ZEp2cXFrQndHemFqTUtlcG5lLUZYcFMzS0UweHZwdFZrS0cxdGY1RzBWdXNNdGp5NlA2Yjd5QlViUUhlaGhEVUxKZHRaVmNfLVpiUm9hdmptaXhFWjVYM3AzcmxXZw?oc=5",
-        "timestamp": "2026-02-21 05:08:26",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aUTdLUDVkNUw2b2JaY3phb3lYRTZqVjY1aWVwczBwdTR5YXN0RVY4eFdzREI3dWV3bkExRExhV1hGU1dwQjNvVE1mMEFtSFFubFFRM0R0bXYxNnZQclNyaFMwdERidXhQTk0zZEYtMA?oc=5",
+        "timestamp": "2026-02-20 16:37:07",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNME9TN0JxRW1XbjctbTY4aXBRLTN3aGQ5ZXFGZGZ1TWh5bjZFektDdkVRSU8wRWhWQ0hKcWYwOEpqWE8zQVJGQ2otbEpma1BodEVzZWpDdGluNU53bjl5dHAwSlIxZnNqcTVWcy1BazV4bFY0bDVmWnJCUkcybXNfM1ZyLVdWYU9BMG56TWFrdHpDWmNLcUc1NC1jSEFkUzRRMDVIMUQwYm9na2lDS0lZSHROZXZHTFRXUzRnX3BCV19PemRQTV9mYUZ5cE43dC1yLTdwTGdnS2tRenpMc2Nuc0NWZGZaUmdGb3h6c3hB0gHuAUFVX3lxTE0wT1M3QnFFbVduNy1tNjhpcFEtM3doZDllcUZkZnVNaHluNkV6S0N2RVFJTzBFaFZDSEpxZjA4SmpYTzNBUkZDai1sSmZrUGh0RXNlakN0aW41TnduOXl0cDBKUjFmc2pxNVZzLUFrNXhsVjRsNWZackJSRzJtc18zVnItV1ZhT0EwbnpNYWt0ekNaY0txRzU0LWNIQWRTNFEwNUgxRDBib2draUNLSVlIdE5ldkdMVFdTNGdfcEJXX096ZFBNX2ZhRnlwTjd0LXItN3BMZ2dLa1F6ekxzY25zQ1ZkZlpSZ0ZveHpzeEE?oc=5",
+        "title": "Utah’s Supreme Court rejects appeal to overturn congressional map with Democratic-leaning district - WPRI.com",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "AP News",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNME9TN0JxRW1XbjctbTY4aXBRLTN3aGQ5ZXFGZGZ1TWh5bjZFektDdkVRSU8wRWhWQ0hKcWYwOEpqWE8zQVJGQ2otbEpma1BodEVzZWpDdGluNU53bjl5dHAwSlIxZnNqcTVWcy1BazV4bFY0bDVmWnJCUkcybXNfM1ZyLVdWYU9BMG56TWFrdHpDWmNLcUc1NC1jSEFkUzRRMDVIMUQwYm9na2lDS0lZSHROZXZHTFRXUzRnX3BCV19PemRQTV9mYUZ5cE43dC1yLTdwTGdnS2tRenpMc2Nuc0NWZGZaUmdGb3h6c3hB0gHuAUFVX3lxTE0wT1M3QnFFbVduNy1tNjhpcFEtM3doZDllcUZkZnVNaHluNkV6S0N2RVFJTzBFaFZDSEpxZjA4SmpYTzNBUkZDai1sSmZrUGh0RXNlakN0aW41TnduOXl0cDBKUjFmc2pxNVZzLUFrNXhsVjRsNWZackJSRzJtc18zVnItV1ZhT0EwbnpNYWt0ekNaY0txRzU0LWNIQWRTNFEwNUgxRDBib2draUNLSVlIdE5ldkdMVFdTNGdfcEJXX096ZFBNX2ZhRnlwTjd0LXItN3BMZ2dLa1F6ekxzY25zQ1ZkZlpSZ0ZveHpzeEE?oc=5",
+        "timestamp": "2026-02-21 01:54:36",
         "isSaved": 0
     },
     {
@@ -1010,13 +1020,13 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeFJlUFlMMWloQ1laTlg2cWpnSFRRenNxdVU2MDUybzhxSi1HY3R5OEdjeElyTW55cUFfMkRrZ0VUcDA3aXlzSTRaX3VoNVhDWkVLUDkteWkxTERVV0J3RjBpUnFWbVRXemNsaG1aWFBKOXNQbUhkck5zb3lxQWtxc0F0aGJlNGhyMnp6V24wNnA1OC03LTBWY2FkZ0lxYWV4eXIxMUlkbGlFeGpkVXRZU1RFanZJTEs1X0E?oc=5",
-        "title": "Atlantic 10 showdown between No. 18 Saint Louis, VCU ends with shoving, benches clearing - KOB.com",
+        "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWVZbXRkazFyNXhmVHNrTWpzSFlKQXZINm15dWxVQ2xXRVhXMi1HLU9sSWtlMjM0WmVLYkFISDJfeXdrWXl3QklJOXpDSW9rNll2aWRObzVsRjNRM3h2bVV0ZEp2cXFrQndHemFqTUtlcG5lLUZYcFMzS0UweHZwdFZrS0cxdGY1RzBWdXNNdGp5NlA2Yjd5QlViUUhlaGhEVUxKZHRaVmNfLVpiUm9hdmptaXhFWjVYM3AzcmxXZw?oc=5",
+        "title": "No. 22 Miami (Ohio) remains lone unbeaten in Division I with 91-77 win over Bowling Green - WRAL",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeFJlUFlMMWloQ1laTlg2cWpnSFRRenNxdVU2MDUybzhxSi1HY3R5OEdjeElyTW55cUFfMkRrZ0VUcDA3aXlzSTRaX3VoNVhDWkVLUDkteWkxTERVV0J3RjBpUnFWbVRXemNsaG1aWFBKOXNQbUhkck5zb3lxQWtxc0F0aGJlNGhyMnp6V24wNnA1OC03LTBWY2FkZ0lxYWV4eXIxMUlkbGlFeGpkVXRZU1RFanZJTEs1X0E?oc=5",
-        "timestamp": "2026-02-21 04:06:15",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWVZbXRkazFyNXhmVHNrTWpzSFlKQXZINm15dWxVQ2xXRVhXMi1HLU9sSWtlMjM0WmVLYkFISDJfeXdrWXl3QklJOXpDSW9rNll2aWRObzVsRjNRM3h2bVV0ZEp2cXFrQndHemFqTUtlcG5lLUZYcFMzS0UweHZwdFZrS0cxdGY1RzBWdXNNdGp5NlA2Yjd5QlViUUhlaGhEVUxKZHRaVmNfLVpiUm9hdmptaXhFWjVYM3AzcmxXZw?oc=5",
+        "timestamp": "2026-02-21 05:08:26",
         "isSaved": 0
     },
     {
@@ -1030,43 +1040,53 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2I5RlVwY0hMSmxxdEpmYVlOUG5iMWZLSzJuZkJfSm9IVDNocE9EeFJSWURoSjhWZ0lFQzdwSjBfY3ZKNEN4ZlNQUzZNUFhTc2ZEYVI3aURtZkEyRXktenpXNUF1X2Zja2ZURVgzLURPVDgxTEdWaVZ6YzhIUU04SjJBX09rRXFEaktVY2gzU3NYOEZWTXJhM0hvYWU5VUtZb0NaZVdNdHctTG52ejQ2N1VMQzRkMDlpVWRFVm9vREVEdUlLamZwVTlyQkVyQnhkTXE5VtIB2gFBVV95cUxOQ1d6RHM3VWV0em91SUtLOWZBVUtYSmN0S0FZbG0xSTBRMkJYRFJ1d1lyLUtOdXR1amR0ZjJUaEY5TXJ5RGNJUXVISktwN1pKTFdMYWMxRU42dUNNaklrSnB3eWZYMnRmZzBVdVhxWTFFVlNxUWpNM0Z5cC14WmZ2SHRJVVFpRUt6dEhhZVU5X1JlbWVxbGFHa1Bra3Y2YTJYRDJfVEJrZTVTUUZXTml5cUVGM2s2LXBCRHdIa1Vuc2xJeWNxc09JNlhSQW9Xc2ZNalhFZUpfX2Npdw?oc=5",
-        "title": "Mick Cronin apologizes to player for ejecting him and say he needs to do better at representing UCLA - KFOR",
+        "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUnE3c1RVMlV0Q3h5QzNZMU9WLUNSUjlsNk1jaU0ya1RxdGxoeml2RTRWTGVuY19DRFA2R2pYWXZMeVZ4RWhkdnZpbzdhajMxajNUeEtNRFhuTlV5Q1FGR0NXNzB6N1QzUVpmckZ5MVo3RkJ4UF9rcUR1dHlxb0VTaWplOUwwSnRTM2dQT0ZvSHZ6WnhV?oc=5",
+        "title": "How major US stock indexes fared Friday, 2/20/2026 - AP News",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2I5RlVwY0hMSmxxdEpmYVlOUG5iMWZLSzJuZkJfSm9IVDNocE9EeFJSWURoSjhWZ0lFQzdwSjBfY3ZKNEN4ZlNQUzZNUFhTc2ZEYVI3aURtZkEyRXktenpXNUF1X2Zja2ZURVgzLURPVDgxTEdWaVZ6YzhIUU04SjJBX09rRXFEaktVY2gzU3NYOEZWTXJhM0hvYWU5VUtZb0NaZVdNdHctTG52ejQ2N1VMQzRkMDlpVWRFVm9vREVEdUlLamZwVTlyQkVyQnhkTXE5VtIB2gFBVV95cUxOQ1d6RHM3VWV0em91SUtLOWZBVUtYSmN0S0FZbG0xSTBRMkJYRFJ1d1lyLUtOdXR1amR0ZjJUaEY5TXJ5RGNJUXVISktwN1pKTFdMYWMxRU42dUNNaklrSnB3eWZYMnRmZzBVdVhxWTFFVlNxUWpNM0Z5cC14WmZ2SHRJVVFpRUt6dEhhZVU5X1JlbWVxbGFHa1Bra3Y2YTJYRDJfVEJrZTVTUUZXTml5cUVGM2s2LXBCRHdIa1Vuc2xJeWNxc09JNlhSQW9Xc2ZNalhFZUpfX2Npdw?oc=5",
-        "timestamp": "2026-02-20 21:46:28",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUnE3c1RVMlV0Q3h5QzNZMU9WLUNSUjlsNk1jaU0ya1RxdGxoeml2RTRWTGVuY19DRFA2R2pYWXZMeVZ4RWhkdnZpbzdhajMxajNUeEtNRFhuTlV5Q1FGR0NXNzB6N1QzUVpmckZ5MVo3RkJ4UF9rcUR1dHlxb0VTaWplOUwwSnRTM2dQT0ZvSHZ6WnhV?oc=5",
+        "timestamp": "2026-02-20 22:02:00",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzgtWDRPaFdjZ010TUhQT3BYbzl0ZktvVnFLdUFyNWtUT0ZBOWMtUmxhdVE5V2tjWElnTk1IX2JLNE5Ld09oVlJ1a3JRenh5aFFCYVF3ZXNobTNxZnFlMmtfYWRGTURBbDBPS1F6OWhOeURyR09naFVTTnd6Vm9CM3dxSHdrNjdCUFVZamktREFfTlcwTm4wOVNobmZPbHU0MGlZa1R3c0JfNkZoUEJ1czFEUkhoTjVBU1Fv0gHAAUFVX3lxTFBEVGc1a2w1MG1MaWMySlZSWGwxcGxpSTc0V1hzR1l4cFJfV1hacFhZdU5vTUVYdzRiaDFoMXltRmw1YlNLdTU5WXA4SzUwdG9IM2ZRelJFSmJIMHhJZ21ONVFMdDkyQnVLdFhyaEdjZHJGUEpWdWhsSmVpWGJYUDZNUWdfR1JqZUZjUEJqM3d5QUphdU1tdHFQQmVKcjBTdUpuTFJBZWkyX05uU2xnbk9ZMEZCbEZFcUo1dFJlcGU3Tw?oc=5",
-        "title": "Judge denies Tennessee QB Joey Aguilar’s injunction bid to remain eligible - fox5sandiego.com",
+        "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2JhQTl4TEJJaHo0WlVsUG5xTGRjcTd0bEUyQUt2U2hDc0Y4SjN6WTU2dFdfTVhPYlpOVWVrTkpyaDBNdEJHSmxORWxSOGZTc0JNbGlfY045NlA4bXh5WTJGV1FSSk85QkYzYm1hWk9URklPSFBQMjFVbXE3NGQ3SzVTa3dKMXcyY092SnlyWTNuZ0JHYUxXdzRFb1E1T1ZNNlpLcVd4T1FmZw?oc=5",
+        "title": "Which Trump tariffs did the Supreme Court strike down? Here’s what to know - WDIO.com",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzgtWDRPaFdjZ010TUhQT3BYbzl0ZktvVnFLdUFyNWtUT0ZBOWMtUmxhdVE5V2tjWElnTk1IX2JLNE5Ld09oVlJ1a3JRenh5aFFCYVF3ZXNobTNxZnFlMmtfYWRGTURBbDBPS1F6OWhOeURyR09naFVTTnd6Vm9CM3dxSHdrNjdCUFVZamktREFfTlcwTm4wOVNobmZPbHU0MGlZa1R3c0JfNkZoUEJ1czFEUkhoTjVBU1Fv0gHAAUFVX3lxTFBEVGc1a2w1MG1MaWMySlZSWGwxcGxpSTc0V1hzR1l4cFJfV1hacFhZdU5vTUVYdzRiaDFoMXltRmw1YlNLdTU5WXA4SzUwdG9IM2ZRelJFSmJIMHhJZ21ONVFMdDkyQnVLdFhyaEdjZHJGUEpWdWhsSmVpWGJYUDZNUWdfR1JqZUZjUEJqM3d5QUphdU1tdHFQQmVKcjBTdUpuTFJBZWkyX05uU2xnbk9ZMEZCbEZFcUo1dFJlcGU3Tw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2JhQTl4TEJJaHo0WlVsUG5xTGRjcTd0bEUyQUt2U2hDc0Y4SjN6WTU2dFdfTVhPYlpOVWVrTkpyaDBNdEJHSmxORWxSOGZTc0JNbGlfY045NlA4bXh5WTJGV1FSSk85QkYzYm1hWk9URklPSFBQMjFVbXE3NGQ3SzVTa3dKMXcyY092SnlyWTNuZ0JHYUxXdzRFb1E1T1ZNNlpLcVd4T1FmZw?oc=5",
+        "timestamp": "2026-02-21 01:08:17",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2VrSlFXTV8wMFVaYnYyanFuRUxMTzNXLWx0VTV3R3pXMFRSNmh2dy1sMlNRamhobDgxelZ3SnFrRGhOMFliRS1kdlJNci03OHlVdVVyeHpubUZwaTdIY1JST3lRbUt5OU1Oc3ppVk4zakNKdjd4eFFOVUk5dDc0U2h5eTJhQ3E2ekV5T3hLaWVIRE8wcUhaNzVCQ1h4RS1LLXJrajYxVTYtdzIwSFhCSNIBtgFBVV95cUxOVUFpWDNOZGpadjBXX0N5clFMamxlWTcxdzRlR0RfUVRhY1hiX01LdXBWZXZJajc4T1NLNFRQTVBwYk14Y29wS3M1WUJFMFc3VGZYeGg4emk0LXVGUTBWNDFPUFZpMlhBNnNzcnY5SmNRQmxiXzNoYm16dUNXVmNmYjhpZ0tkT1JxYWYxRFB6QVBGY3VzTzM0SUQtWGc4a0hFQ2JndkpEZ1M4NHRJbWYxcHo4SXY1Zw?oc=5",
+        "title": "Judge denies Tennessee QB Joey Aguilar’s injunction bid to remain eligible - KFOR",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "AP News",
+        "category": "World",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2VrSlFXTV8wMFVaYnYyanFuRUxMTzNXLWx0VTV3R3pXMFRSNmh2dy1sMlNRamhobDgxelZ3SnFrRGhOMFliRS1kdlJNci03OHlVdVVyeHpubUZwaTdIY1JST3lRbUt5OU1Oc3ppVk4zakNKdjd4eFFOVUk5dDc0U2h5eTJhQ3E2ekV5T3hLaWVIRE8wcUhaNzVCQ1h4RS1LLXJrajYxVTYtdzIwSFhCSNIBtgFBVV95cUxOVUFpWDNOZGpadjBXX0N5clFMamxlWTcxdzRlR0RfUVRhY1hiX01LdXBWZXZJajc4T1NLNFRQTVBwYk14Y29wS3M1WUJFMFc3VGZYeGg4emk0LXVGUTBWNDFPUFZpMlhBNnNzcnY5SmNRQmxiXzNoYm16dUNXVmNmYjhpZ0tkT1JxYWYxRFB6QVBGY3VzTzM0SUQtWGc4a0hFQ2JndkpEZ1M4NHRJbWYxcHo4SXY1Zw?oc=5",
         "timestamp": "2026-02-21 00:50:49",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdW13MWxMZ2FoZHZWSnVQTldMZHc0Z2ZSTDFLVnlwcjNLamEzaWV2ZjNnN1YwOWstczRVOXRTaHNaRlFTaXhwLU5ZcnQ1UkdEanFiMFFvLXZob0tMdGxaVVAxekFsTGxQeU5DZWtvcE9qSHpfUGhuS21YUGphb3JiSVA0SG02bmNTMFlTbFVWY0h5dU1QcDRYcmNFS1FyQlVpYkdnN1JDSUFVdTl0aVRTN3VKTmZOYm5FOXdobDFlVVlDQ3A5SGFKNnI5Y1JwUTFkVjhHaHhmTXhYTWlvTWVPSGUtNl9XTU5jZUtqNmln0gHzAUFVX3lxTE1rUUtTOTFUazZ1V3Q4QlpfbjVyUGlURGNfWlhWeGl2VjJZQVZjazVlb0NNb1o3ZzZQZ2tkZDctSmdOanpfbC1HT2hZRThKNDIxX0NRcU1WY3B1RTBnUjFSNlpyV3hFMHlXQmxLem83TG94Sll2TlpqNE5zUEdXYl91S0NJN0ExVEJRaWNqbWVXa0lwUHRIYUJUaVlMOG13a0Z6UlFoSGlzNGFyMlJjRFgyb2hyODh5aWd2OEF3M2R6S2M0MDQzZkdMM2ZGaHg5ckFGbHh4QllERDMtVFFIal9jZG9PQzcxSmYzZndJZ2EzV3ZQQQ?oc=5",
-        "title": "Norway wins its 17th gold medal, breaking record for most golds won in a single Winter Olympics - WWLP",
+        "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc25BMkptbnYyTTVCUHpqWnlicUJTRk5BeXB5UWdqSzZHbnpzVkxjX1VnemZjMkg4OEE0UW1JOEpVejhnMm4xeC1ETGJvdmFjQzZtODJZeE5TRGNwRFRSYVY5SWdPa3pCUHNZcHZIRkMtYU9mUjNGZTFwSVJQVmlqRjVRb2lialNKSExQUnB0NVpfUkY4TGFnYzZSV1pYWEdfdHNWLTdRUHZIUXFpNm9rR0VrSWFla19vMXd3Ny1MTnZyNGFTMG5PUm9mQkJydGFIR3dDSUxPMjRuLXZua1lURnVEMDJHUDNoZ29OVXNR0gHzAUFVX3lxTE9WdHhlQUtKVXljSDBCZm1hTU56MVJQZ01KWVBxRHRmOXZxY1o0eXc3bnVSNWlkcDBUeU1UdEpPbVk3QlUtd1dVNGtLemYtT2lwdmduNDQydElXdEtFR0tjVWVDbjIzSXB3TU1GWXRlT2t4bDd2eENoSFVtQ21kRDcweHFLdWh2VWlVa1hCTlY4d3Y1WlZGRnBfV2J2bktBbkc3amF6cXBwa2dBRW9rVFdkQ1F4YjFNc0EwNEFFR0NDWVZleGotOUlQTWRWRXZWcFZpbVNPVm4tSkkxSTQxRzJ0cFpNSmV4WjB4VUk0OW41eDlKUQ?oc=5",
+        "title": "Norway wins its 17th gold medal, breaking record for most golds won in a single Winter Olympics - KRQE",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdW13MWxMZ2FoZHZWSnVQTldMZHc0Z2ZSTDFLVnlwcjNLamEzaWV2ZjNnN1YwOWstczRVOXRTaHNaRlFTaXhwLU5ZcnQ1UkdEanFiMFFvLXZob0tMdGxaVVAxekFsTGxQeU5DZWtvcE9qSHpfUGhuS21YUGphb3JiSVA0SG02bmNTMFlTbFVWY0h5dU1QcDRYcmNFS1FyQlVpYkdnN1JDSUFVdTl0aVRTN3VKTmZOYm5FOXdobDFlVVlDQ3A5SGFKNnI5Y1JwUTFkVjhHaHhmTXhYTWlvTWVPSGUtNl9XTU5jZUtqNmln0gHzAUFVX3lxTE1rUUtTOTFUazZ1V3Q4QlpfbjVyUGlURGNfWlhWeGl2VjJZQVZjazVlb0NNb1o3ZzZQZ2tkZDctSmdOanpfbC1HT2hZRThKNDIxX0NRcU1WY3B1RTBnUjFSNlpyV3hFMHlXQmxLem83TG94Sll2TlpqNE5zUEdXYl91S0NJN0ExVEJRaWNqbWVXa0lwUHRIYUJUaVlMOG13a0Z6UlFoSGlzNGFyMlJjRFgyb2hyODh5aWd2OEF3M2R6S2M0MDQzZkdMM2ZGaHg5ckFGbHh4QllERDMtVFFIal9jZG9PQzcxSmYzZndJZ2EzV3ZQQQ?oc=5",
-        "timestamp": "2026-02-20 15:55:22",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc25BMkptbnYyTTVCUHpqWnlicUJTRk5BeXB5UWdqSzZHbnpzVkxjX1VnemZjMkg4OEE0UW1JOEpVejhnMm4xeC1ETGJvdmFjQzZtODJZeE5TRGNwRFRSYVY5SWdPa3pCUHNZcHZIRkMtYU9mUjNGZTFwSVJQVmlqRjVRb2lialNKSExQUnB0NVpfUkY4TGFnYzZSV1pYWEdfdHNWLTdRUHZIUXFpNm9rR0VrSWFla19vMXd3Ny1MTnZyNGFTMG5PUm9mQkJydGFIR3dDSUxPMjRuLXZua1lURnVEMDJHUDNoZ29OVXNR0gHzAUFVX3lxTE9WdHhlQUtKVXljSDBCZm1hTU56MVJQZ01KWVBxRHRmOXZxY1o0eXc3bnVSNWlkcDBUeU1UdEpPbVk3QlUtd1dVNGtLemYtT2lwdmduNDQydElXdEtFR0tjVWVDbjIzSXB3TU1GWXRlT2t4bDd2eENoSFVtQ21kRDcweHFLdWh2VWlVa1hCTlY4d3Y1WlZGRnBfV2J2bktBbkc3amF6cXBwa2dBRW9rVFdkQ1F4YjFNc0EwNEFFR0NDWVZleGotOUlQTWRWRXZWcFZpbVNPVm4tSkkxSTQxRzJ0cFpNSmV4WjB4VUk0OW41eDlKUQ?oc=5",
+        "timestamp": "2026-02-20 17:33:53",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS28zcEx1TDh3bXJ4cW9FTmRuQ1pfTEJZdHg0a21NVm5xTGZUeWZTdmFWVW1CX3JuVTVVVElmUXNCRlFEODdMaVFPWjQyMTJrUlQ3TXpJbDNtSndIVEh5RzZZSkMzYjRpS1BtTXRYc1FVTHlqUk00RVVtV0tIUTc3LVFFNnZjOHdKVE5KZndYRUFlUUZBU1ZqRW5ld0x6RTYySVB2ZEVwUXpPQkNkbjZOcmpqVjMtNndQaVlYUzBnaEVkbEtnMU1hMHFUSEdTbF8xakUtN3BUSWhrWTJXR0NvN3FUUlo?oc=5",
-        "title": "US military strikes another alleged drug boat in eastern Pacific, killing 3 - WFMZ.com",
+        "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWGJfX2NkZl9NTVAxMGh1VGVmY3o5UTFRNTFEbW1JLTRjeWY2T2JkQTBiNHFGTndHVmdnUFg0TzBLZXllekRuSWpVQTY0alotTkJ4bWVZYWlpYVNISnBpa3NhYjc3TVpwZG9KbHFqRVd4XzJseXh2anlvcjlUcmd4T3BlenNmLTg1QzFLZkdFNEFMejFxNzgyVnp5Wmt0eGJoejl2YURYMTBSVWJUbW9NcHprSFp5dWZ5WjFXTWtjQ1RNeHEwNXEyaU04U1ZoakNLdGstd2VKUnlBNFcx0gHiAUFVX3lxTE11Szc4Nks3UW5nWTl0T21ZZ2tuNVdRRXR2cWxhUVVKeVRNdEctMjZZdHB3LXJYYVFKbnpxVWlHelNoZTJyM0tNcHExY2xRblhCb1ZSSGFHMzJzVEU1UjRiMTRJWnZQTzZFbmFiRzFQamJZc0hTSnRPSHc3M3dwdURmZGxma0JqeG9WUWlMTnRveF9BUXU1YmVUVHdjeXdtZHJRbjFLdWhCYnZTMDlZSzkyeDduYlQ3VWpZTm9UQ242anR2YkFQM3NvOHpJanhueTNZZHFWX3h1Nl9ncTJOSUkxNlE?oc=5",
+        "title": "Officials turn to controlled explosions to recover bodies of California avalanche victims - KX News",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "AP News",
         "category": "World",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS28zcEx1TDh3bXJ4cW9FTmRuQ1pfTEJZdHg0a21NVm5xTGZUeWZTdmFWVW1CX3JuVTVVVElmUXNCRlFEODdMaVFPWjQyMTJrUlQ3TXpJbDNtSndIVEh5RzZZSkMzYjRpS1BtTXRYc1FVTHlqUk00RVVtV0tIUTc3LVFFNnZjOHdKVE5KZndYRUFlUUZBU1ZqRW5ld0x6RTYySVB2ZEVwUXpPQkNkbjZOcmpqVjMtNndQaVlYUzBnaEVkbEtnMU1hMHFUSEdTbF8xakUtN3BUSWhrWTJXR0NvN3FUUlo?oc=5",
-        "timestamp": "2026-02-21 01:44:07",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWGJfX2NkZl9NTVAxMGh1VGVmY3o5UTFRNTFEbW1JLTRjeWY2T2JkQTBiNHFGTndHVmdnUFg0TzBLZXllekRuSWpVQTY0alotTkJ4bWVZYWlpYVNISnBpa3NhYjc3TVpwZG9KbHFqRVd4XzJseXh2anlvcjlUcmd4T3BlenNmLTg1QzFLZkdFNEFMejFxNzgyVnp5Wmt0eGJoejl2YURYMTBSVWJUbW9NcHprSFp5dWZ5WjFXTWtjQ1RNeHEwNXEyaU04U1ZoakNLdGstd2VKUnlBNFcx0gHiAUFVX3lxTE11Szc4Nks3UW5nWTl0T21ZZ2tuNVdRRXR2cWxhUVVKeVRNdEctMjZZdHB3LXJYYVFKbnpxVWlHelNoZTJyM0tNcHExY2xRblhCb1ZSSGFHMzJzVEU1UjRiMTRJWnZQTzZFbmFiRzFQamJZc0hTSnRPSHc3M3dwdURmZGxma0JqeG9WUWlMTnRveF9BUXU1YmVUVHdjeXdtZHJRbjFLdWhCYnZTMDlZSzkyeDduYlQ3VWpZTm9UQ242anR2YkFQM3NvOHpJanhueTNZZHFWX3h1Nl9ncTJOSUkxNlE?oc=5",
+        "timestamp": "2026-02-21 02:05:32",
         "isSaved": 0
     },
     {
@@ -1346,7 +1366,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/nhl/story/_/id/47994440/brady-tkachuk-us-canada-rivalry-there-hatred-there",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1356,7 +1376,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/boxing/story/_/id/47989767/mayweather-jr-unretire-resume-boxing-tyson-exhibition",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1366,7 +1386,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/mlb/story/_/id/47994306/mazeroski-known-1960-world-series-walk-homer-dies-89",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1376,7 +1396,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/olympics/story/_/id/47993781/klaebo-becomes-1st-athlete-win-6-golds-winter-games",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1386,7 +1406,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/mens-college-basketball/story/_/id/47989339/ucla-cronin-apologizes-player-ejecting-game",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1396,7 +1416,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/nfl/story/_/id/47992564/seahawks-jaxon-smith-njigba-believe-deserve-nfl-highest-paid-wide-receiver",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1406,7 +1426,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/mens-college-basketball/story/_/id/47991758/vcu-closes-4-players-benches-clear-loss-saint-louis",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1416,17 +1436,17 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/mma/story/_/id/47992654/sean-strickland-criticizes-ufc-fighter-pay-predatory",
-        "timestamp": "2026-02-21 14:13:18",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
-        "id": "https://www.espn.com/mlb/story/_/id/47955134/2026-mlb-draft-rankings-10-kiley-mcdaniel-top-50-prospects-ncaa-high-school",
-        "title": "⚾ MLB draft rankings: Who's No. 1 on our list?",
+        "id": "https://www.espn.com/nfl/story/_/id/47958363/2026-nfl-offseason-ranking-positions-free-agency-draft-class-deep-thin",
+        "title": "🏈 Deepest, thinnest positions of NFL offseason",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "ESPN",
         "category": "Sports",
-        "link": "https://www.espn.com/mlb/story/_/id/47955134/2026-mlb-draft-rankings-10-kiley-mcdaniel-top-50-prospects-ncaa-high-school",
-        "timestamp": "2026-02-21 14:13:19",
+        "link": "https://www.espn.com/nfl/story/_/id/47958363/2026-nfl-offseason-ranking-positions-free-agency-draft-class-deep-thin",
+        "timestamp": "2026-02-21 16:13:32",
         "isSaved": 0
     },
     {
@@ -1466,7 +1486,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/mlb/story/_/id/47889399/mlbtv-espn-subscription-cost-game-coverage-facts",
-        "timestamp": "2026-02-21 14:25:02",
+        "timestamp": "2026-02-21 16:10:47",
         "isSaved": 0
     },
     {
@@ -1476,7 +1496,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/mens-college-basketball/story/_/id/47983216/michigan-frontcourt-yaxel-lendeborg-morez-johnson-aday-mara",
-        "timestamp": "2026-02-21 15:29:10",
+        "timestamp": "2026-02-21 16:14:28",
         "isSaved": 0
     },
     {
@@ -1486,7 +1506,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/nba/story/_/id/47978077/how-victor-wembanyama-spurs-turned-adversity-wins",
-        "timestamp": "2026-02-20 18:55:10",
+        "timestamp": "2026-02-21 16:11:56",
         "isSaved": 0
     },
     {
@@ -1496,17 +1516,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/nba/story/_/id/47978210/nba-mvp-straw-poll-update-sga-jokic-wemby-cade-65-game-rule",
-        "timestamp": "2026-02-20 16:16:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.espn.com/nfl/story/_/id/47958363/2026-nfl-offseason-ranking-positions-free-agency-draft-class-deep-thin",
-        "title": "The deepest -- and thinnest -- positions of the NFL offseason: Solak ranks all 11 spots",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "ESPN",
-        "category": "Sports",
-        "link": "https://www.espn.com/nfl/story/_/id/47958363/2026-nfl-offseason-ranking-positions-free-agency-draft-class-deep-thin",
-        "timestamp": "2026-02-21 14:36:03",
+        "timestamp": "2026-02-21 16:11:56",
         "isSaved": 0
     },
     {
@@ -1516,7 +1526,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/nfl/story/_/id/47966610/tampa-bay-buccaneers-wr-mike-evans-free-agent-2026",
-        "timestamp": "2026-02-21 14:36:03",
+        "timestamp": "2026-02-21 16:10:13",
         "isSaved": 0
     },
     {
@@ -1526,7 +1536,7 @@
         "source": "ESPN",
         "category": "Sports",
         "link": "https://www.espn.com/nhl/story/_/id/47989748/olympics-2026-men-hockey-usa-win-slovakia-grades-players-questions",
-        "timestamp": "2026-02-21 15:09:14",
+        "timestamp": "2026-02-21 16:06:20",
         "isSaved": 0
     },
     {
@@ -1570,6 +1580,26 @@
         "isSaved": 0
     },
     {
+        "id": "https://www.espn.com/mlb/story/_/id/47900545/mlb-2026-buster-olney-top-10-positions-ranking-first-basemen",
+        "title": "Ranking the top 10 first basemen in MLB: Is Vlad Jr. or Kurtz No. 1?",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "ESPN",
+        "category": "Sports",
+        "link": "https://www.espn.com/mlb/story/_/id/47900545/mlb-2026-buster-olney-top-10-positions-ranking-first-basemen",
+        "timestamp": "2026-02-20 16:39:12",
+        "isSaved": 0
+    },
+    {
+        "id": "https://www.skysports.com/rugby-union/england-vs-ireland/report/110510",
+        "title": "Sensational Ireland cut sorry England apart for huge win at Twickenham",
+        "imageUrl": "https://e1.365dm.com/26/02/800x600/skysports-six-nations-rugby-union_7170948.jpg",
+        "source": "Sky Sports",
+        "category": "Sports",
+        "link": "https://www.skysports.com/rugby-union/england-vs-ireland/report/110510",
+        "timestamp": "2026-02-21 13:04:00",
+        "isSaved": 0
+    },
+    {
         "id": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
         "title": "Play Super 6's Golden Game to win £500,000!",
         "imageUrl": "https://e2.365dm.com/26/02/800x600/skysports-super-6-sky-bet_7170845.jpg",
@@ -1581,12 +1611,22 @@
     },
     {
         "id": "https://www.skysports.com/football/live-blog/12040/13510254/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
-        "title": "Wrexham lead Ipswich! Boro being held after Coventry win - EFL LIVE!",
-        "imageUrl": "https://e0.365dm.com/26/02/800x600/skysports-wrexham-afc_7170968.jpg",
+        "title": "Ipswich hit back to lead at Wrexham! Boro being held after Coventry win - EFL LIVE!",
+        "imageUrl": "https://e1.365dm.com/26/02/800x600/skysports-ipswich-town_7171042.jpg",
         "source": "Sky Sports",
         "category": "Sports",
         "link": "https://www.skysports.com/football/live-blog/12040/13510254/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
         "timestamp": "2026-02-21 12:00:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://www.skysports.com/cricket/news/12040/13510340/t20-world-cup-pakistan-vs-new-zealand-abandoned-without-a-ball-bowled-as-super-8s-starts-with-colombo-washout",
+        "title": "Super 8s starts with washout as Pakistan vs New Zealand abandoned",
+        "imageUrl": "https://e2.365dm.com/26/02/800x600/skysports-new-zealand-vs-pakistan_7171013.jpg",
+        "source": "Sky Sports",
+        "category": "Sports",
+        "link": "https://www.skysports.com/cricket/news/12040/13510340/t20-world-cup-pakistan-vs-new-zealand-abandoned-without-a-ball-bowled-as-super-8s-starts-with-colombo-washout",
+        "timestamp": "2026-02-21 15:55:00",
         "isSaved": 0
     },
     {
@@ -1611,8 +1651,8 @@
     },
     {
         "id": "https://www.skysports.com/rugby-union/live-blog/12040/13510099/six-nations-live-england-vs-ireland-and-wales-vs-scotland-updates-score-results-news",
-        "title": "Six Nations LIVE! Ireland dominating stunned England at Twickenham",
-        "imageUrl": "https://e0.365dm.com/26/02/800x600/skysports-six-nations-rugby-union_7170981.jpg",
+        "title": "Six Nations LIVE! Ireland dominate England in statement Twickenham win",
+        "imageUrl": "https://e1.365dm.com/26/02/800x600/skysports-six-nations-rugby-union_7171027.jpg",
         "source": "Sky Sports",
         "category": "Sports",
         "link": "https://www.skysports.com/rugby-union/live-blog/12040/13510099/six-nations-live-england-vs-ireland-and-wales-vs-scotland-updates-score-results-news",
@@ -1661,8 +1701,8 @@
     },
     {
         "id": "https://www.skysports.com/football/hearts-vs-falkirk/live/531892",
-        "title": "Hearts make strong start vs Falkirk LIVE!",
-        "imageUrl": "https://e2.365dm.com/26/02/800x600/skysports-scottish-premiership_7170974.jpg",
+        "title": "Hearts make breakthrough vs Falkirk LIVE!",
+        "imageUrl": "https://e0.365dm.com/26/02/800x600/skysports-scottish-premiership_7171020.jpg",
         "source": "Sky Sports",
         "category": "Sports",
         "link": "https://www.skysports.com/football/hearts-vs-falkirk/live/531892",
@@ -1720,273 +1760,253 @@
         "isSaved": 0
     },
     {
-        "id": "https://www.skysports.com/watch/video/13510229/st-helens-20-18-leigh-leopards-super-league-highlights",
-        "title": "St Helens come from behind to beat Leigh",
-        "imageUrl": "https://e1.365dm.com/26/02/800x600/skysports-st-helens-leigh-super-league_7170738.jpg",
-        "source": "Sky Sports",
-        "category": "Sports",
-        "link": "https://www.skysports.com/watch/video/13510229/st-helens-20-18-leigh-leopards-super-league-highlights",
-        "timestamp": "2026-02-21 07:49:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.skysports.com/cricket/news/12040/13509999/the-hundred-england-captain-harry-brook-says-it-would-be-a-shame-if-pakistan-players-were-overlooked",
-        "title": "Brook: 'A shame' if Pakistan players overlooked for Hundred",
-        "imageUrl": "https://e1.365dm.com/26/02/800x600/skysports-harry-brook-england-mens-t20-cricket_7170717.jpg",
-        "source": "Sky Sports",
-        "category": "Sports",
-        "link": "https://www.skysports.com/cricket/news/12040/13509999/the-hundred-england-captain-harry-brook-says-it-would-be-a-shame-if-pakistan-players-were-overlooked",
-        "timestamp": "2026-02-21 07:30:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/art-bundesliga-ache-stunning-overhead-153900562.html",
-        "title": "🔥A work of art in the Bundesliga: Ache’s stunning overhead kick in Köln",
-        "imageUrl": "https://media.zenfs.com/en/onefootball_articles_802/4c61e4ddcf274ded03f4f898d543d950",
+        "id": "https://sports.yahoo.com/articles/canada-fights-off-u-olympic-161605976.html",
+        "title": "Canada fights off U.S. for Olympic women’s curling bronze in high-quality showdown",
+        "imageUrl": "https://media.zenfs.com/en/the_athletic_articles_169/dac01107f852e6cac9e60481b75e42c2",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/art-bundesliga-ache-stunning-overhead-153900562.html",
-        "timestamp": "2026-02-21 15:39:00",
+        "link": "https://sports.yahoo.com/articles/canada-fights-off-u-olympic-161605976.html",
+        "timestamp": "2026-02-21 16:16:05",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/brady-tkachuk-admits-hatred-us-153839861.html",
-        "title": "Brady Tkachuk admits to ‘hatred’ as US and Canada prepare for Olympic men’s ice hockey final",
-        "imageUrl": "https://media.zenfs.com/en/the_guardian_765/2f22645c3c3616a10e763dd3e7411d5d",
+        "id": "https://sports.yahoo.com/articles/juventus-poor-form-continues-home-161500565.html",
+        "title": "Juventus poor form continues with a home loss to Como",
+        "imageUrl": "https://media.zenfs.com/en/juvefc_articles_711/d6441d6e3f56d73c11f5cabd30775d9c",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/brady-tkachuk-admits-hatred-us-153839861.html",
-        "timestamp": "2026-02-21 15:38:39",
+        "link": "https://sports.yahoo.com/articles/juventus-poor-form-continues-home-161500565.html",
+        "timestamp": "2026-02-21 16:15:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/nba/article/clippers-coach-tyronn-lue-says-team-is-playing-to-win-following-up-on-kawhi-leonard-remarks-153732105.html",
-        "title": "Clippers coach Tyronn Lue says team is 'playing to win,' following up on Kawhi Leonard remarks",
+        "id": "https://sports.yahoo.com/articles/official-real-madrid-starting-lineup-161500837.html",
+        "title": "Official: Real Madrid starting lineup to face Osasuna | Carvajal starts",
+        "imageUrl": "https://media.zenfs.com/en/madrid_universal_articles_561/1a5f4c5c6841544a127804cd805d4df0",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/official-real-madrid-starting-lineup-161500837.html",
+        "timestamp": "2026-02-21 16:15:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/keeper-scores-bizarre-own-goal-161400008.html",
+        "title": "Keeper scores bizarre own goal from distance, then subbed off",
+        "imageUrl": "https://media.zenfs.com/en/onefootball_articles_802/4360acb05460e3d1b97a76090caf6436",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/keeper-scores-bizarre-own-goal-161400008.html",
+        "timestamp": "2026-02-21 16:14:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/best-nba-player-props-today-161400746.html",
+        "title": "Best NBA Player Props Today for February 21: Durant Shines Bright at MSG",
+        "imageUrl": "https://media.zenfs.com/en/covers_articles_287/f163097578e9a5b0dadcfc4f929b320f",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/best-nba-player-props-today-161400746.html",
+        "timestamp": "2026-02-21 16:14:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/fatal-hamlin-house-fire-ruled-161216606.html",
+        "title": "Fatal Hamlin house fire ruled accidental; cause unknown",
+        "imageUrl": "https://media.zenfs.com/en/motorsport_articles_445/8147e40136b46d80f3007b529cb07b50",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/fatal-hamlin-house-fire-ruled-161216606.html",
+        "timestamp": "2026-02-21 16:12:16",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/bayern-munich-vs-eintracht-frankfurt-113000663.html",
+        "title": "Bayern Munich 3-1 Eintracht Frankfurt: You have to laugh because if you don’t laugh you’ll simply cry",
+        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/5944d1e5bc3d0fc779ad757c28b8ced9",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/bayern-munich-vs-eintracht-frankfurt-113000663.html",
+        "timestamp": "2026-02-21 16:10:50",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/cleveland-browns-money-strange-geography-161046701.html",
+        "title": "The Cleveland Browns, money, and the strange geography of NFL stadiums",
+        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/0a027cb6cf29cfdf602f4aabc94f6d3a",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/cleveland-browns-money-strange-geography-161046701.html",
+        "timestamp": "2026-02-21 16:10:46",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/49ers-draft-rewind-2017-yeah-161000565.html",
+        "title": "49ers Draft Rewind: 2017 – yeah, but they got George Kittle",
+        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/d07de1cc3a466889f7d44d0134096046",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/49ers-draft-rewind-2017-yeah-161000565.html",
+        "timestamp": "2026-02-21 16:10:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/wonderful-attacker-better-signing-liverpool-161000052.html",
+        "title": "'Wonderful' attacker would be a better signing for Liverpool than Yan Diomande",
+        "imageUrl": "https://media.zenfs.com/en/anfield_watch_articles_625/517ddd0a7c44cbe698a07142b1b473f2",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/wonderful-attacker-better-signing-liverpool-161000052.html",
+        "timestamp": "2026-02-21 16:10:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/anthony-gordon-man-united-target-161000897.html",
+        "title": "Anthony Gordon: Man United target has clear preferred transfer destination",
+        "imageUrl": "https://media.zenfs.com/en/the_peoples_person_articles_356/d06e9ab09cc6ec4aae435e93a233dddb",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/anthony-gordon-man-united-target-161000897.html",
+        "timestamp": "2026-02-21 16:10:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/florida-locks-official-visit-4-160946377.html",
+        "title": "Florida locks in official visit from 4-star safety Jaylen Scott",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/nba/article/clippers-coach-tyronn-lue-says-team-is-playing-to-win-following-up-on-kawhi-leonard-remarks-153732105.html",
-        "timestamp": "2026-02-21 15:37:32",
+        "link": "https://sports.yahoo.com/articles/florida-locks-official-visit-4-160946377.html",
+        "timestamp": "2026-02-21 16:09:46",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/bubba-cunningham-represents-collegiate-athletic-153718369.html",
-        "title": "Bubba Cunningham represents collegiate athletic directors at the Winter Games",
+        "id": "https://sports.yahoo.com/articles/bills-coaching-staff-could-reshape-160941712.html",
+        "title": "How Bills’ new coaching staff could reshape roster through 2026 NFL Draft",
+        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/09c152df25fa0e08e45ab29fa0ae7743",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/bills-coaching-staff-could-reshape-160941712.html",
+        "timestamp": "2026-02-21 16:09:41",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/tage-thompson-injury-team-usa-160927296.html",
+        "title": "Tage Thompson injury update: Team USA forward's Olympic status vs. Canada",
         "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/bubba-cunningham-represents-collegiate-athletic-153718369.html",
-        "timestamp": "2026-02-21 15:37:18",
+        "link": "https://sports.yahoo.com/articles/tage-thompson-injury-team-usa-160927296.html",
+        "timestamp": "2026-02-21 16:09:27",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/edge-jacob-martin-must-sign-153705997.html",
-        "title": "Is EDGE Jacob Martin a ‘must re-sign’ defensive veteran for the Commanders?",
-        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/819373e99f1dc208d1614f9c983e126e",
+        "id": "https://sports.yahoo.com/articles/kelly-holmes-surprises-people-towns-160627824.html",
+        "title": "Kelly Holmes surprises people at town's Parkrun",
+        "imageUrl": "https://media.zenfs.com/en/bbc_us_articles_995/644c6718c7d8442ae8c648db48802d42",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/edge-jacob-martin-must-sign-153705997.html",
-        "timestamp": "2026-02-21 15:37:05",
+        "link": "https://sports.yahoo.com/articles/kelly-holmes-surprises-people-towns-160627824.html",
+        "timestamp": "2026-02-21 16:06:27",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/watch-dodgers-spring-training-games-153700580.html",
-        "title": "How will you watch Dodgers spring training games?",
-        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/f7548ea69037ed7d0f097c12172e3b4e",
+        "id": "https://sports.yahoo.com/articles/cardiff-respond-calmly-plymouth-loss-160544856.html",
+        "title": "Cardiff will respond 'calmly' to Plymouth loss, says Barry-Murphy",
+        "imageUrl": "https://media.zenfs.com/en/bbc_us_articles_995/eccecab47b61fe7c478bbeca9d0b072d",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/watch-dodgers-spring-training-games-153700580.html",
-        "timestamp": "2026-02-21 15:37:00",
+        "link": "https://sports.yahoo.com/articles/cardiff-respond-calmly-plymouth-loss-160544856.html",
+        "timestamp": "2026-02-21 16:05:44",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/relegated-february-why-sheff-wed-191733634.html",
-        "title": "Relegated in February? Why Sheff Wed are on brink of history",
-        "imageUrl": "https://media.zenfs.com/en/bbc_us_articles_995/615be7c7b0e044a982ba0e8be97d3dc7",
+        "id": "https://sports.yahoo.com/articles/nz-pakistan-match-abandoned-because-160520602.html",
+        "title": "NZ-Pakistan match abandoned because of rain",
+        "imageUrl": "https://media.zenfs.com/en/bbc_us_articles_995/0c30efb9c5c7cdc547300ed49dbce512",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/relegated-february-why-sheff-wed-191733634.html",
-        "timestamp": "2026-02-21 15:36:49",
+        "link": "https://sports.yahoo.com/articles/nz-pakistan-match-abandoned-because-160520602.html",
+        "timestamp": "2026-02-21 16:05:20",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/ex-red-says-man-utd-153500846.html",
-        "title": "Ex-Red says Man Utd’s Casemiro successor is already playing in the PL, his agent is ready to move him on in summer",
-        "imageUrl": "https://media.zenfs.com/en/stretty_news_articles_240/03cc6d2bd5a5683e17800bea85e77817",
+        "id": "https://sports.yahoo.com/articles/milner-breaks-premier-league-appearance-150143692.html",
+        "title": "Milner breaks Premier League appearance record",
+        "imageUrl": "https://media.zenfs.com/en/bbc_us_articles_995/10337325254f5f5a9badc4911d8f0e1d",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/ex-red-says-man-utd-153500846.html",
-        "timestamp": "2026-02-21 15:35:00",
+        "link": "https://sports.yahoo.com/articles/milner-breaks-premier-league-appearance-150143692.html",
+        "timestamp": "2026-02-21 16:05:12",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/ac-milan-head-coach-claims-153500060.html",
-        "title": "AC Milan Head Coach Claims ‘Inter Milan Can Surpass 90 Points’ In Serie A But Warns He’ll Be Ready If The Nerazzurri Slip Up",
-        "imageUrl": "https://media.zenfs.com/en/sempreinter_com_articles_209/0dcb85280e213fee783a8d6d185ce63c",
+        "id": "https://sports.yahoo.com/articles/breaking-bayern-munich-star-alphonso-160505190.html",
+        "title": "Breaking: Bayern Munich star Alphonso Davies exits with apparent injury vs. Eintracht Frankfurt",
+        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/a49140030778ec42390efacb4cb0ef20",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/ac-milan-head-coach-claims-153500060.html",
-        "timestamp": "2026-02-21 15:35:00",
+        "link": "https://sports.yahoo.com/articles/breaking-bayern-munich-star-alphonso-160505190.html",
+        "timestamp": "2026-02-21 16:05:05",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/inter-milan-starlet-surprise-argentina-153500157.html",
-        "title": "Inter Milan Starlet Up For Surprise Argentina Call-Up After Promising Start To Life At Estudiantes",
-        "imageUrl": "https://media.zenfs.com/en/sempreinter_com_articles_209/05d39badcb0df114bfdee07d4ad37949",
+        "id": "https://sports.yahoo.com/articles/braden-smith-detroit-lions-best-160504696.html",
+        "title": "Is Braden Smith the Detroit Lions’ Best Replacement Option for Taylor Decker?",
+        "imageUrl": "https://media.zenfs.com/en/detroit_sports_nation_articles_492/0f0fb419793da9e13360d08049ef5170",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/inter-milan-starlet-surprise-argentina-153500157.html",
-        "timestamp": "2026-02-21 15:35:00",
+        "link": "https://sports.yahoo.com/articles/braden-smith-detroit-lions-best-160504696.html",
+        "timestamp": "2026-02-21 16:05:04",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/lecce-vs-inter-milan-cristian-153500141.html",
-        "title": "Lecce Vs Inter Milan – Cristian Chivu Ready To Shuffle Squad Amid Absences To Argentina, Italy & Turkey Stars",
-        "imageUrl": "https://media.zenfs.com/en/sempreinter_com_articles_209/13b0a271ae13dfdcbc524e472dacb20a",
+        "id": "https://sports.yahoo.com/articles/real-madrid-step-pursuit-bundesliga-160500051.html",
+        "title": "Real Madrid step up pursuit of Bundesliga star as Barcelona end interest",
+        "imageUrl": "https://media.zenfs.com/en/football_espana_articles_993/11b8f4f7e8d1e401e13b89526dd523b1",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/lecce-vs-inter-milan-cristian-153500141.html",
-        "timestamp": "2026-02-21 15:35:00",
+        "link": "https://sports.yahoo.com/articles/real-madrid-step-pursuit-bundesliga-160500051.html",
+        "timestamp": "2026-02-21 16:05:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/chicago-white-sox-2026-spring-153353129.html",
-        "title": "Chicago White Sox 2026 Spring Training schedule and results",
-        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/7d6ba1a0323733572622d5770045b8c1",
+        "id": "https://sports.yahoo.com/articles/serie-official-week-26-line-160500286.html",
+        "title": "Serie A official Week 26 line-ups: Lecce vs. Inter",
+        "imageUrl": "https://media.zenfs.com/en/football_italia_articles_132/960780524e4177df884c74a97b0debc2",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/chicago-white-sox-2026-spring-153353129.html",
-        "timestamp": "2026-02-21 15:33:53",
+        "link": "https://sports.yahoo.com/articles/serie-official-week-26-line-160500286.html",
+        "timestamp": "2026-02-21 16:05:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/former-lady-vols-guard-ruby-153320656.html",
-        "title": "Former Lady Vols guard Ruby Whitehorn transfers to Arizona State after dismissal",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "id": "https://sports.yahoo.com/articles/serie-juventus-0-2-como-160500253.html",
+        "title": "Serie A | Juventus 0-2 Como: Fabregas puts Old Lady in crisis mode",
+        "imageUrl": "https://media.zenfs.com/en/football_italia_articles_132/e68ec2549f2d48677060b73ad3647f4a",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/former-lady-vols-guard-ruby-153320656.html",
-        "timestamp": "2026-02-21 15:33:20",
+        "link": "https://sports.yahoo.com/articles/serie-juventus-0-2-como-160500253.html",
+        "timestamp": "2026-02-21 16:05:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/kansas-state-vs-texas-tech-153300505.html",
-        "title": "Kansas State vs Texas Tech Prediction, Picks & Odds for Today's College Basketball Game",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "id": "https://sports.yahoo.com/articles/arsenal-pay-declan-rice-more-160500138.html",
+        "title": "Should Arsenal pay Declan Rice more money than Bukayo Saka?",
+        "imageUrl": "https://media.zenfs.com/en/just_arsenal_articles_463/5a73323b9d8dae357d26e533fb1b5f5a",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/kansas-state-vs-texas-tech-153300505.html",
-        "timestamp": "2026-02-21 15:33:00",
+        "link": "https://sports.yahoo.com/articles/arsenal-pay-declan-rice-more-160500138.html",
+        "timestamp": "2026-02-21 16:05:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/atlanta-nascar-cup-qualifying-cancelled-153251861.html",
-        "title": "Atlanta NASCAR Cup qualifying cancelled, Tyler Reddick on pole",
-        "imageUrl": "https://media.zenfs.com/en/motorsport_articles_445/6962ba33e6f60a2d6d5a77e73eb6b2ae",
+        "id": "https://sports.yahoo.com/articles/anton-stach-equals-11-pl-160200011.html",
+        "title": "📸 Anton Stach equals 11-year PL feat with sublime Leeds goal 💫",
+        "imageUrl": "https://media.zenfs.com/en/onefootball_articles_802/6ebe436438ff0942cfeb8df0a3787552",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/atlanta-nascar-cup-qualifying-cancelled-153251861.html",
-        "timestamp": "2026-02-21 15:32:51",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/ac-milan-coach-provides-positive-153204550.html",
-        "title": "AC Milan coach provides positive injury news on Christian Pulisic",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/ac-milan-coach-provides-positive-153204550.html",
-        "timestamp": "2026-02-21 15:32:04",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/uefa-rule-prevents-liverpool-naming-153200889.html",
-        "title": "UEFA rule prevents Liverpool from naming Wataru Endo replacement in Champions League squad",
-        "imageUrl": "https://media.zenfs.com/en/hitc_articles_832/249fd3a82f8e633a619788b9e586305d",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/uefa-rule-prevents-liverpool-naming-153200889.html",
-        "timestamp": "2026-02-21 15:32:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/fridays-local-scoreboard-feb-20-153100136.html",
-        "title": "Friday's local scoreboard for Feb. 20",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/fridays-local-scoreboard-feb-20-153100136.html",
-        "timestamp": "2026-02-21 15:31:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/claressa-shields-vs-franchon-crews-153031384.html",
-        "title": "Claressa Shields vs Franchon Crews Dezurn: Predictions, how to watch",
-        "imageUrl": "https://media.zenfs.com/en/usa_today_sports_articles_558/d1c844068e6c5d89527d4c51f8a6e36d",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/claressa-shields-vs-franchon-crews-153031384.html",
-        "timestamp": "2026-02-21 15:30:31",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/gianluca-prestianni-reveals-really-told-153000740.html",
-        "title": "Gianluca Prestianni reveals what he really told Vinicius Jr. during UCL clash",
-        "imageUrl": "https://media.zenfs.com/en/hitc_articles_832/e1c26fdcdc48806b4c2d415dd58a797b",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/gianluca-prestianni-reveals-really-told-153000740.html",
-        "timestamp": "2026-02-21 15:30:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/predicted-line-ups-atalanta-vs-153000940.html",
-        "title": "PREDICTED LINE-UPS | Atalanta vs Napoli",
-        "imageUrl": "https://media.zenfs.com/en/get_italian_football_news_article_917/adf32a5553865c8f7b0beaffed90f98d",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/predicted-line-ups-atalanta-vs-153000940.html",
-        "timestamp": "2026-02-21 15:30:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/aews-jeff-jarrett-theory-decline-153000901.html",
-        "title": "AEW's Jeff Jarrett Has A Theory On Decline In WWE WrestleMania 42 Ticket Sales",
-        "imageUrl": "https://media.zenfs.com/en/wrestling_inc_articles_983/c9f0b2239d6513efaaeebb58810a4d2e",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/aews-jeff-jarrett-theory-decline-153000901.html",
-        "timestamp": "2026-02-21 15:30:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/patriots-wr-mack-collins-missed-153000591.html",
-        "title": "Patriots WR Mack Collins missed out on $400K bonus, but team gave him the bonus anyway",
-        "imageUrl": "https://media.zenfs.com/en/hitc_articles_832/f2e5288061654efa2e7bb0ca28abfb3b",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/patriots-wr-mack-collins-missed-153000591.html",
-        "timestamp": "2026-02-21 15:30:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/sidney-crosbys-chances-playing-gold-152928306.html",
-        "title": "Sidney Crosby's chances of playing in gold medal game for Team Canada given specific percentage",
-        "imageUrl": "https://media.zenfs.com/en/the_sporting_news_articles_584/c5686582d37943ad8c1acde1839b69a7",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/sidney-crosbys-chances-playing-gold-152928306.html",
-        "timestamp": "2026-02-21 15:29:28",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/ufc-houston-start-time-full-152900361.html",
-        "title": "UFC Houston Start Time, Full Fight Card Details!",
-        "imageUrl": "https://media.zenfs.com/en/sb_nation_articles_115/bddae5819f4d0831545f9c283b40316a",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/ufc-houston-start-time-full-152900361.html",
-        "timestamp": "2026-02-21 15:29:00",
+        "link": "https://sports.yahoo.com/articles/anton-stach-equals-11-pl-160200011.html",
+        "timestamp": "2026-02-21 16:02:00",
         "isSaved": 0
     },
     {
@@ -2087,6 +2107,16 @@
         "category": "Tech",
         "link": "https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo",
         "timestamp": "2026-02-20 20:30:59",
+        "isSaved": 0
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+        "title": "Google VP warns that two types of AI startups may not survive",
+        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "source": "TechCrunch",
+        "category": "Tech",
+        "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+        "timestamp": "2026-02-21 16:00:00",
         "isSaved": 0
     },
     {
@@ -2277,16 +2307,6 @@
         "category": "Tech",
         "link": "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/",
         "timestamp": "2026-02-20 15:00:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/",
-        "title": "Why investors are going gaga over solid-state transformers",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "TechCrunch",
-        "category": "Tech",
-        "link": "https://techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/",
-        "timestamp": "2026-02-20 14:30:00",
         "isSaved": 0
     },
     {
@@ -2607,16 +2627,6 @@
         "category": "Science",
         "link": "https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/",
         "timestamp": "2026-02-19 16:31:41",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.nasa.gov/image-article/crystals-grown-in-space/",
-        "title": "Crystals Grown in Space",
-        "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2024e038397orig.jpg",
-        "source": "NASA News",
-        "category": "Science",
-        "link": "https://www.nasa.gov/image-article/crystals-grown-in-space/",
-        "timestamp": "2026-02-19 16:12:03",
         "isSaved": 0
     },
     {
@@ -3070,6 +3080,16 @@
         "isSaved": 0
     },
     {
+        "id": "https://www.polygon.com/zelda-40th-anniversary/",
+        "title": "It’s Zelda’s 40th anniversary, and the series is more impressive than ever",
+        "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22740692/zelda_skyward_sword_walkthrough_guide_header.jpg",
+        "source": "Polygon",
+        "category": "Gaming",
+        "link": "https://www.polygon.com/zelda-40th-anniversary/",
+        "timestamp": "2026-02-21 16:00:17",
+        "isSaved": 0
+    },
+    {
         "id": "https://www.polygon.com/3-movie-masterpieces-buried-on-hbo-max-feb-21/",
         "title": "The best movies to watch this weekend are buried on HBO Max",
         "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/vs-max-undefined-31-52.jpg",
@@ -3157,16 +3177,6 @@
         "category": "Gaming",
         "link": "https://www.polygon.com/xbox-phil-spencer-retiring-microsoft-ai-exec-asha-sharma-sarah-bond/",
         "timestamp": "2026-02-20 20:52:22",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.polygon.com/supreme-court-tariff-decision-wingspan-team-stonemaier/",
-        "title": "Supreme Court strikes down Trump tariffs that hit board game publishers",
-        "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/wingspan_trump_tariffs.jpg",
-        "source": "Polygon",
-        "category": "Gaming",
-        "link": "https://www.polygon.com/supreme-court-tariff-decision-wingspan-team-stonemaier/",
-        "timestamp": "2026-02-20 20:41:51",
         "isSaved": 0
     },
     {
@@ -3620,6 +3630,46 @@
         "isSaved": 0
     },
     {
+        "id": "https://fortune.com/article/rise-in-elite-students-seeking-accomodation-gen-z-phenomenon-find-success-in-competitive-job-market-stanford-university-skills-based-hiring/",
+        "title": "40% of Stanford undergrads receive disability accommodations—but it’s become a college-wide phenomenon as Gen Z try to succeed in the current climate",
+        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2148728092-e1765547930288.jpg",
+        "source": "Fortune",
+        "category": "Business",
+        "link": "https://fortune.com/article/rise-in-elite-students-seeking-accomodation-gen-z-phenomenon-find-success-in-competitive-job-market-stanford-university-skills-based-hiring/",
+        "timestamp": "2026-02-21 15:54:41",
+        "isSaved": 0
+    },
+    {
+        "id": "https://fortune.com/2026/02/21/us-military-airlift-small-nuclear-reactor-first-time-c-17-microreactors/",
+        "title": "U.S. military airlifts small nuclear reactor for the first time, flying a minivan-sized microreactor nearly 700 miles on a C-17",
+        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26050704729644-e1771688489941.jpg",
+        "source": "Fortune",
+        "category": "Business",
+        "link": "https://fortune.com/2026/02/21/us-military-airlift-small-nuclear-reactor-first-time-c-17-microreactors/",
+        "timestamp": "2026-02-21 15:49:13",
+        "isSaved": 0
+    },
+    {
+        "id": "https://fortune.com/2026/02/21/hungary-block-eu-106-billion-loan-ukraine-russian-oil-druzhba-pipeline/",
+        "title": "Hungary says it will block the EU’s $106 billion loan to Ukraine until Russian oil resumes flowing through a key pipeline that Moscow damaged",
+        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-94281707-e1771688067291.jpg",
+        "source": "Fortune",
+        "category": "Business",
+        "link": "https://fortune.com/2026/02/21/hungary-block-eu-106-billion-loan-ukraine-russian-oil-druzhba-pipeline/",
+        "timestamp": "2026-02-21 15:38:07",
+        "isSaved": 0
+    },
+    {
+        "id": "https://fortune.com/2026/02/21/us-blockade-cuba-oil-supply-economy-health-system-collapse/",
+        "title": "U.S. blockade of Cuba’s oil supply is not only crippling the island’s economy but also threatening ‘basic human safety,’ minister says",
+        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26051824409280-e1771687037701.jpg",
+        "source": "Fortune",
+        "category": "Business",
+        "link": "https://fortune.com/2026/02/21/us-blockade-cuba-oil-supply-economy-health-system-collapse/",
+        "timestamp": "2026-02-21 15:25:55",
+        "isSaved": 0
+    },
+    {
         "id": "https://fortune.com/2026/02/21/will-ai-take-my-job-coders-software-engineers-really-screwed/",
         "title": "You have 18 months to figure out your office job, $1 billion CEO says. But it’s not going away",
         "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/8OM2ihwQ_400x400.jpg",
@@ -3680,43 +3730,43 @@
         "isSaved": 0
     },
     {
-        "id": "https://fortune.com/2026/02/21/cbo-national-debt-deficit-today-projections/",
-        "title": "New CBO report shows national debt spiraling into uncharted territory by 2035—and Trump’s tariff defeat will make the picture even worse",
-        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2247199647.jpg",
-        "source": "Fortune",
+        "id": "https://www.investing.com/news/economy-news/trump-says-he-will-raise-global-tariff-rate-from-10-to-15-4517520",
+        "title": "Trump says he will raise global tariff rate from 10% to 15%",
+        "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM1K0AP_L.jpg",
+        "source": "Investing.com",
         "category": "Business",
-        "link": "https://fortune.com/2026/02/21/cbo-national-debt-deficit-today-projections/",
-        "timestamp": "2026-02-21 10:00:00",
+        "link": "https://www.investing.com/news/economy-news/trump-says-he-will-raise-global-tariff-rate-from-10-to-15-4517520",
+        "timestamp": "2026-02-21 16:12:27",
         "isSaved": 0
     },
     {
-        "id": "https://fortune.com/2026/02/21/trump-team-livid-dario-amodei-dept-of-war-using-claude-war/",
-        "title": "Trump team livid about Dario Amodei’s principled stand to keep the Defense Department from using his AI tools for warlike purposes",
-        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261514463_ee6ee1-e1771631599604.jpg",
-        "source": "Fortune",
+        "id": "https://www.investing.com/news/world-news/nasa-to-roll-back-artemis-ii-spacecraft-impacting-march-launch-window-4517519",
+        "title": "NASA to roll back Artemis II spacecraft, impacting March launch window",
+        "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM1K0A7_L.jpg",
+        "source": "Investing.com",
         "category": "Business",
-        "link": "https://fortune.com/2026/02/21/trump-team-livid-dario-amodei-dept-of-war-using-claude-war/",
-        "timestamp": "2026-02-21 09:03:00",
+        "link": "https://www.investing.com/news/world-news/nasa-to-roll-back-artemis-ii-spacecraft-impacting-march-launch-window-4517519",
+        "timestamp": "2026-02-21 16:00:29",
         "isSaved": 0
     },
     {
-        "id": "https://fortune.com/2026/02/21/jerome-powell-kevin-warsh-national-debt-treasury-fed-balance-sheet-national-debt/",
-        "title": "Jerome Powell knows the Fed’s balance sheet got too big—Kevin Warsh has a plan, he just has to sell it without freaking out the markets",
-        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2223719638-e1771343953154.jpg",
-        "source": "Fortune",
+        "id": "https://www.investing.com/news/world-news/frances-macron-calls-for-calm-ahead-of-march-for-farright-activist-killed-last-week-4517496",
+        "title": "France’s Macron calls for calm ahead of march for far-right activist killed last week",
+        "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM1K04E_L.jpg",
+        "source": "Investing.com",
         "category": "Business",
-        "link": "https://fortune.com/2026/02/21/jerome-powell-kevin-warsh-national-debt-treasury-fed-balance-sheet-national-debt/",
-        "timestamp": "2026-02-21 08:35:00",
+        "link": "https://www.investing.com/news/world-news/frances-macron-calls-for-calm-ahead-of-march-for-farright-activist-killed-last-week-4517496",
+        "timestamp": "2026-02-21 15:54:24",
         "isSaved": 0
     },
     {
-        "id": "https://fortune.com/2026/02/21/trump-cheap-gas-crude-oil-prices-conflict-iran-strait-hormuz-airstrikes/",
-        "title": "Trump loves cheap gas—but a military conflict in Iran could nearly double your price at the pump",
-        "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2260514608-e1771622339612.jpg",
-        "source": "Fortune",
+        "id": "https://www.investing.com/news/world-news/ukraine-strikes-ballistic-missile-producer-deep-inside-russia-kyiv-says-4517518",
+        "title": "Ukraine strikes ballistic missile producer deep inside Russia, Kyiv says",
+        "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+        "source": "Investing.com",
         "category": "Business",
-        "link": "https://fortune.com/2026/02/21/trump-cheap-gas-crude-oil-prices-conflict-iran-strait-hormuz-airstrikes/",
-        "timestamp": "2026-02-21 06:02:00",
+        "link": "https://www.investing.com/news/world-news/ukraine-strikes-ballistic-missile-producer-deep-inside-russia-kyiv-says-4517518",
+        "timestamp": "2026-02-21 15:48:07",
         "isSaved": 0
     },
     {
@@ -3777,46 +3827,6 @@
         "category": "Business",
         "link": "https://www.investing.com/news/stock-market-news/indigenous-protesters-occupy-cargills-santarem-port-terminal-in-brazil-4517512",
         "timestamp": "2026-02-21 14:12:25",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.investing.com/news/technology-news/should-you-buy-a-dip-in-cyber-stocks-after-a-new-ailed-selloff-4517511",
-        "title": "Should you buy a dip in cyber stocks after a new AI-led selloff?",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Investing.com",
-        "category": "Business",
-        "link": "https://www.investing.com/news/technology-news/should-you-buy-a-dip-in-cyber-stocks-after-a-new-ailed-selloff-4517511",
-        "timestamp": "2026-02-21 14:03:41",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.investing.com/news/economy-news/best-footwear-stock-to-buy-after-ieepa-ruling-4517510",
-        "title": "Best footwear stock to buy after IEEPA ruling",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Investing.com",
-        "category": "Business",
-        "link": "https://www.investing.com/news/economy-news/best-footwear-stock-to-buy-after-ieepa-ruling-4517510",
-        "timestamp": "2026-02-21 13:48:55",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.investing.com/news/world-news/ukrainians-scattered-across-europe-trapped-in-limbo-by-war-4517494",
-        "title": "Ukrainians, scattered across Europe, trapped in limbo by war",
-        "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM1K044_L.jpg",
-        "source": "Investing.com",
-        "category": "Business",
-        "link": "https://www.investing.com/news/world-news/ukrainians-scattered-across-europe-trapped-in-limbo-by-war-4517494",
-        "timestamp": "2026-02-21 13:36:54",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.investing.com/news/technology-news/scotus-strike-down-of-trump-tariffs-whats-the-impact-on-it-hardwarenetworking-4517509",
-        "title": "SCOTUS strike down of Trump tariffs: What’s the impact on IT Hardware/Networking",
-        "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "source": "Investing.com",
-        "category": "Business",
-        "link": "https://www.investing.com/news/technology-news/scotus-strike-down-of-trump-tariffs-whats-the-impact-on-it-hardwarenetworking-4517509",
-        "timestamp": "2026-02-21 13:18:53",
         "isSaved": 0
     },
     {
