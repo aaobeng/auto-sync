@@ -5,97 +5,100 @@ import os
 import time
 import re
 
-# Create data directory if it doesn't exist
+# Ensure data directory exists
 if not os.path.exists('data'):
     os.makedirs('data')
 
-# Your vastly expanded sources list with heavy sports coverage!
+# MEGA SOURCES LIST (Specifics + Search Engines)
 SOURCES = [
-    {"name": "BBC News", "url": "http://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
-    {"name": "The Guardian", "url": "http://feeds.theguardian.com/xml/uk_news_rss.xml", "category": "General"},
-    {"name": "The New York Times", "url": "https://www.nytimes.com/svc/collections/v2/pages/index.html?doc_id=THE_NEW_YORK_TIMES", "category": "General"},
-    
-    # --- EXPANDED SPORTS SECTION ---
+    # --- GENERAL ---
+    {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/world/rss", "category": "General"},
+    {"name": "NYT Home", "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "category": "General"},
+    {"name": "Associated Press", "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com", "category": "General"},
+    {"name": "ABC News", "url": "https://abcnews.go.com/abcnews/topstories", "category": "General"},
+
+    # --- SPORTS (The Mega Section) ---
     {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "category": "Sports"},
     {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040", "category": "Sports"},
     {"name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/", "category": "Sports"},
+    {"name": "Fox Sports", "url": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0ByRq3p6W9bsY&size=30", "category": "Sports"},
     {"name": "Yahoo Sports", "url": "https://sports.yahoo.com/rss/", "category": "Sports"},
-    
+    {"name": "Global Sports Hub", "url": "https://news.google.com/rss/search?q=sports+news+when:24h", "category": "Sports"},
+    {"name": "Transfer Market", "url": "https://news.google.com/rss/search?q=football+transfers+when:24h", "category": "Sports"},
+
+    # --- TECH ---
     {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "Tech"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "Tech"},
+    {"name": "Wired", "url": "https://www.wired.com/feed/rss", "category": "Tech"},
+    {"name": "Global Tech Hub", "url": "https://news.google.com/rss/search?q=technology+when:24h", "category": "Tech"},
+
+    # --- WORLD & MOVIES ---
+    {"name": "CNN World", "url": "http://rss.cnn.com/rss/edition_world.rss", "category": "World"},
+    {"name": "Reuters Global", "url": "https://news.google.com/rss/search?q=world+news+when:24h", "category": "World"},
+    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "World"},
     {"name": "CinemaBlend", "url": "https://www.cinemablend.com/rss/news", "category": "Movies"},
-    {"name": "CNN", "url": "http://rss.cnn.com/rss/edition_world.rss", "category": "World"},
-    {"name": "Reuters", "url": "http://xml.reuters.com/data/xml/synopsis.xml", "category": "World"}
+    {"name": "Variety", "url": "https://variety.com/feed/", "category": "Movies"},
 ]
 
-# --- NEW: Grabs the REAL time the article was posted ---
 def get_real_time(entry):
     try:
-        # Feedparser automatically finds the published date in the RSS
-        time_struct = entry.published_parsed or entry.updated_parsed
-        # Convert it to our standard SQLite format
-        real_time = datetime.datetime.fromtimestamp(time.mktime(time_struct))
-        return real_time.strftime('%Y-%m-%d %H:%M:%S')
-    except:
-        # If the news site forgets to include a time, fallback to right now
-        return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        ts = entry.get('published_parsed') or entry.get('updated_parsed')
+        if ts: return datetime.datetime.fromtimestamp(time.mktime(ts)).strftime('%Y-%m-%d %H:%M:%S')
+    except: pass
+    return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-# --- NEW: Grabs the REAL image URL of the article ---
 def get_image(entry):
-    if 'media_content' in entry and len(entry.media_content) > 0:
-        return entry.media_content[0]['url']
-    if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
-        return entry.media_thumbnail[0]['url']
-    if 'enclosures' in entry:
-        for enc in entry.enclosures:
-            if 'image' in enc.get('type', ''):
-                return enc.get('href')
-    if 'links' in entry:
-        for link in entry.links:
-            if 'image' in link.get('type', ''):
-                return link.get('href')
-
-    # Search inside the HTML text for a hidden image tag
-    html_content = ""
-    if 'content' in entry and len(entry.content) > 0:
-        html_content = entry.content[0].value
-    elif 'summary' in entry:
-        html_content = entry.summary
-        
-    match = re.search(r'img.*?src="([^"]+)"', html_content)
-    if match:
-        return match.group(1)
-
+    url = None
+    if 'media_content' in entry: url = entry.media_content[0]['url']
+    elif 'media_thumbnail' in entry: url = entry.media_thumbnail[-1]['url']
+    elif 'enclosures' in entry:
+        for e in entry.enclosures:
+            if 'image' in e.get('type',''): url = e.get('href'); break
+    if not url:
+        txt = entry.get('summary','') + entry.get('content',[{}])[0].get('value','')
+        m = re.search(r'img.*?src="([^"]+)"', txt)
+        if m: url = m.group(1)
+    if url:
+        url = url.split('?')[0] # Strips tiny thumbnail limits
+        url = re.sub(r'/\d+/', '/800/', url) # Forces BBC HD
+        return url
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1000"
 
-# --- Main Loop to fetch and save the articles ---
 all_articles = []
+seen_links = set()
 
 for src in SOURCES:
-    print(f"Fetching {src['name']}...")
+    print(f"Scraping {src['name']}...")
     try:
         feed = feedparser.parse(src['url'])
+        if not feed.entries: print(f"⚠️ Feed empty: {src['name']}")
         
-        # --- NEW: Warn me if a feed is empty! ---
-        if not feed.entries:
-            print(f"⚠️ WARNING: {src['name']} returned 0 articles. The link might be broken!")
+        for entry in feed.entries[:30]: # Limit set to 30
+            if entry.link in seen_links: continue
             
-        for entry in feed.entries[:15]: 
-            all_articles.append({
-                "id": entry.link,
-                "title": entry.title,
-                "imageUrl": get_image(entry),
-                "source": src['name'],
-                "category": src['category'],
-                "link": entry.link,
-                "timestamp": get_real_time(entry),
-                "isSaved": 0
-            })
-        time.sleep(2) 
+            # STRICT AGE FILTER: Only Today & Yesterday
+            article_time_str = get_real_time(entry)
+            article_time = datetime.datetime.strptime(article_time_str, '%Y-%m-%d %H:%M:%S')
+            
+            if (datetime.datetime.now() - article_time).days <= 1:
+                all_articles.append({
+                    "id": entry.link,
+                    "title": entry.title,
+                    "imageUrl": get_image(entry),
+                    "source": src['name'],
+                    "category": src['category'],
+                    "link": entry.link,
+                    "timestamp": article_time_str,
+                    "isSaved": 0
+                })
+                seen_links.add(entry.link)
+        time.sleep(1) # Be polite to servers
     except Exception as e:
-        print(f"Failed to fetch {src['name']}: {e}")
+        print(f"Error scraping {src['name']}: {e}")
 
-# Save to JSON
+# Save the final JSON
 with open('data/news.json', 'w') as f:
     json.dump(all_articles, f, indent=4)
-    
-print("News successfully scraped and saved!")
+
+print(f"✅ Finished! Found {len(all_articles)} fresh articles.")
