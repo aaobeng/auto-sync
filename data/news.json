@@ -251,12 +251,12 @@
     },
     {
         "id": "https://www.theguardian.com/australia-news/live/2026/feb/22/australia-news-live-tony-burke-home-affairs-syria-albanese-chalmers-productivity-commission-federal-police-labor-liberal-angus-taylor-coalition-ntwnfb",
-        "title": "News live: Burke says ‘we know the state of mind’ of Australian women and children in Syria; authorities seize 28kg of cocaine hidden in luxury bus",
+        "title": "News live: Burke says ‘we know the state of mind’ of Australian women and children in Syria; car fires potentially linked to kidnapping of Sydney grandfather, police say",
         "imageUrl": "https://i.guim.co.uk/img/media/bbac7b624eeebb918f8f40e4230bdc28ea55da90/346_58_4338_3470/master/4338.jpg",
         "source": "The Guardian",
         "category": "Tech",
         "link": "https://www.theguardian.com/australia-news/live/2026/feb/22/australia-news-live-tony-burke-home-affairs-syria-albanese-chalmers-productivity-commission-federal-police-labor-liberal-angus-taylor-coalition-ntwnfb",
-        "timestamp": "2026-02-21 23:17:14",
+        "timestamp": "2026-02-21 23:48:08",
         "isSaved": 0
     },
     {
@@ -420,6 +420,16 @@
         "isSaved": 0
     },
     {
+        "id": "https://www.nytimes.com/2026/02/21/travel/flight-cancellations-blizzard.html",
+        "title": "Traveling This Weekend? Here’s What to Know About the Snowstorm.",
+        "imageUrl": "https://static01.nyt.com/images/2026/02/21/multimedia/21trav-blizzard-photo-qzgb/21trav-blizzard-photo-qzgb-mediumSquareAt3X.jpg",
+        "source": "NYT Home",
+        "category": "General",
+        "link": "https://www.nytimes.com/2026/02/21/travel/flight-cancellations-blizzard.html",
+        "timestamp": "2026-02-21 23:36:14",
+        "isSaved": 0
+    },
+    {
         "id": "https://www.nytimes.com/2026/02/21/arts/music/willie-colon-dead.html",
         "title": "Willie Colón, a Luminary of Salsa Music, Dies at 75",
         "imageUrl": "https://static01.nyt.com/images/2026/02/23/multimedia/21cul-colon-obit01-photo-vpfk/21cul-colon-obit01-photo-vpfk-mediumSquareAt3X.jpg",
@@ -500,16 +510,6 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONzlVaGNXYnl1azZkeFg3QVdBWmZEZEwwa1dFdFcyT2FwTTJiRFVFazRuX1BaOGY2VVVlM3ZVZEVJUk04YmFsUERNamxEWVp2LTNLRkhxZHlpWnVnaDhVTmYzSG13a096Rm9CZFpjS1loXzBCWEtYaVdtWjNoSmRLellwLVNHeE0?oc=5",
-        "title": "Live updates: President ups new global tariffs to 15% - CNN",
-        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "Reuters Global",
-        "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONzlVaGNXYnl1azZkeFg3QVdBWmZEZEwwa1dFdFcyT2FwTTJiRFVFazRuX1BaOGY2VVVlM3ZVZEVJUk04YmFsUERNamxEWVp2LTNLRkhxZHlpWnVnaDhVTmYzSG13a096Rm9CZFpjS1loXzBCWEtYaVdtWjNoSmRLellwLVNHeE0?oc=5",
-        "timestamp": "2026-02-21 22:07:00",
-        "isSaved": 0
-    },
-    {
         "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTRUaUFfVXBKbk1kUHhXeGI4MHhSdFIwU1dqS19vUE96VWpxNmtCbUtGVE82Z3hVbXhOYUQ2S1BEM2dQQU4wZk9MZlI0UjZuS2xHQUpwZV8xc0hpTkk2eEFNTVpjQWdqeEVCMEdfdnBydWRlcHpOdmNNZ0Uzd0VrX0hxTGFwdzlFTjBjN2JicDhQR0tiUS1weS02bzV6SGxZeEVaa2ZTNnVOU2JJWTlYX2RR0gG3AUFVX3lxTE9ORkJPLTBUQjVGZ0xVRE9mZ3hJR1lYMUJEUzZ6M05NejE3YUNqWFQ2VGlGd2NnQjNGTWIyZEcwaDdWeEhDX2J3N3R4dlFuVko0am1qUWQ5TmQybFRwM2FhWEwzcG1KSkR1cW9UVUREX240bzVrbWpCRlJ4QzhldW5xTnV4NjRjam14VVdUS292WGN2RmdQZnN4WG40OFV3bGVGbEd1UW01UmthS1lUWlVta0RzcGtIWQ?oc=5",
         "title": "President Trump increases global tariffs to 15% after Supreme Court decision - PBS",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -520,6 +520,16 @@
         "isSaved": 0
     },
     {
+        "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGYW9jeXVQUEYyalMxUEFucUZscXJGTGNHN0VWRndQTmQ0LUFObFJyTmtZV3Y3MVBVd0VIVGRTbzhfUWdfWk5XU1FwTlhnYjIwakxTSWV0STVKMXlGNHE4UkdKOA?oc=5",
+        "title": "US foreign policy - The Guardian",
+        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "source": "Reuters Global",
+        "category": "Tech",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGYW9jeXVQUEYyalMxUEFucUZscXJGTGNHN0VWRndQTmQ0LUFObFJyTmtZV3Y3MVBVd0VIVGRTbzhfUWdfWk5XU1FwTlhnYjIwakxTSWV0STVKMXlGNHE4UkdKOA?oc=5",
+        "timestamp": "2026-02-21 22:53:03",
+        "isSaved": 0
+    },
+    {
         "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5",
         "title": "Trump says he will increase his new global tariffs to 15% - BBC",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -527,16 +537,6 @@
         "category": "Tech",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5",
         "timestamp": "2026-02-21 20:50:06",
-        "isSaved": 0
-    },
-    {
-        "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU1BvV2dVaEtRMzZyZjhVRlNsQ1lNUXdJamdzdTNtTl9ibmtEQW1VR1Znb0lPLThrM3JSVFNHQjdIOHVmX3V2VlV4a002OW5EV1pxMFM2Y0ZCbExhd3g4Sm5EbkZYT2ZlM2pOaGhidWdxdVpFYzVfZGFKcXNvTmRsOGJxeTBVLUlIRmZzSmF2SWt3YWdPdXdnOHdJRlVwU0ZjekY0dkNIZTVlRXBGbVJfYXdZb3hhczA0SGFnbEF3a1I0YnRaT05zQ0NfeXkxN1FaNHVjU1pUeEE?oc=5",
-        "title": "Tariff ruling live coverage: Trump attacks Supreme Court, says he's imposing 10% 'global tariff' - Yahoo Finance",
-        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "Reuters Global",
-        "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU1BvV2dVaEtRMzZyZjhVRlNsQ1lNUXdJamdzdTNtTl9ibmtEQW1VR1Znb0lPLThrM3JSVFNHQjdIOHVmX3V2VlV4a002OW5EV1pxMFM2Y0ZCbExhd3g4Sm5EbkZYT2ZlM2pOaGhidWdxdVpFYzVfZGFKcXNvTmRsOGJxeTBVLUlIRmZzSmF2SWt3YWdPdXdnOHdJRlVwU0ZjekY0dkNIZTVlRXBGbVJfYXdZb3hhczA0SGFnbEF3a1I0YnRaT05zQ0NfeXkxN1FaNHVjU1pUeEE?oc=5",
-        "timestamp": "2026-02-21 14:30:37",
         "isSaved": 0
     },
     {
@@ -557,16 +557,6 @@
         "category": "Tech",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVldLbEJvLWNhLTNHZmNJS3A3LTVxVWNjV3M4LWFiOU4zbWdWSTE3LUdDbWlxaWpaczF5eEdFemRRNWZTZ194bS0xTHd4bExOSzVLbmV6ZFhjWGRhUDcxMThXTG1zMF82NFZQQ002YjhfenhCS3ZRTzNjV21yWkJUQUlXR002b1hNS0ZIRktJZjE4RmNmcHpINkFtd0xkOWF3MEFfbEZRZGRMdzltbVpPTmVtbHVYVXBhc1duWUdR?oc=5",
         "timestamp": "2026-02-21 23:27:55",
-        "isSaved": 0
-    },
-    {
-        "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
-        "title": "AI (artificial intelligence) - The Guardian",
-        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "Reuters Global",
-        "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
-        "timestamp": "2026-02-21 20:42:25",
         "isSaved": 0
     },
     {
@@ -630,16 +620,6 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQk1kOWp1c1Z3N0pQQTNwWl9MM1pKTW4yalgtRFJ1YUd5TFF1WGkyUXd1bWl2RWFwUEVNY3BIMnFhZ2lhTWxfZ3ROT2xyLWxUQk9kd25wRHpRNk9pS25NMDhDUmpRM3l0WVZzVjdPY3NreHRlUVVuNjFFanpXQ0FyTEVXRWJxcnBfYndqNV9ESHVBend6aTFOaVZWWUlCRzJVQllBS0sxdUo?oc=5",
-        "title": "Trump hikes global tariff to 15 percent after ‘ridiculous’ Supreme Court ruling - The Hill",
-        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "Reuters Global",
-        "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQk1kOWp1c1Z3N0pQQTNwWl9MM1pKTW4yalgtRFJ1YUd5TFF1WGkyUXd1bWl2RWFwUEVNY3BIMnFhZ2lhTWxfZ3ROT2xyLWxUQk9kd25wRHpRNk9pS25NMDhDUmpRM3l0WVZzVjdPY3NreHRlUVVuNjFFanpXQ0FyTEVXRWJxcnBfYndqNV9ESHVBend6aTFOaVZWWUlCRzJVQllBS0sxdUo?oc=5",
-        "timestamp": "2026-02-21 17:04:00",
-        "isSaved": 0
-    },
-    {
         "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQUJSN3pESTVUMnBtQTBVbDhoa2dvRjFzX0cwNG5UZUt2UUlFaTVKU1h1YUxyOERYQ3R6a1F2ZkZKeXo5TzR2WGlVY0xtOUxLaU1peFRTdExqalFMQmZLN1ljbFhfMWVZOG5uYUJoZnU5cktTeGk2NkdvaW4yWk5RdGIzamVYQnUtaV9LSnRVcmZDZHpWMUMzbG9qdE1FT01YTWdwc010UFdhZEV3ZjZkQ1R2LVRtRm5hQkl0SUR2THY5Sm5FM25PcnVMcw?oc=5",
         "title": "Trump hikes US global tariff rate to 15% - Twin States News",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -657,6 +637,16 @@
         "category": "Tech",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80eVlvQlVpUWJUZHA4U2d0LTctWTU2Ym9LU0FCb0RwTmpzWjU1Q0g4aV9TYW9CTW5FTDk3OWdsXzBQenhxdjdwVEVQRHJENk5Cejk5ZE83ejRMUQ?oc=5",
         "timestamp": "2026-02-21 17:39:56",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
+        "title": "AI (artificial intelligence) - The Guardian",
+        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "source": "Reuters Global",
+        "category": "Tech",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
+        "timestamp": "2026-02-21 22:47:07",
         "isSaved": 0
     },
     {
@@ -690,23 +680,53 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
-        "title": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
+        "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUE3cU9uQU1NSTdvLW8zNFV5V3VOWm91bDhLXzdiUTVBbzFHYkRhNktaZWpZb2xxdVo0NDNIRV9wZExXQXpfM0JRaFFTaUVwQkViczNFYURCQy1tcVppWFJ2NWhmNTFGUTBKLTdYV0stMVdLSkVHdjJNNVZSaGx2RWtzbExwOXlucmlwSTc1R2FibDNsSkE?oc=5",
+        "title": "Indonesia president says ready to face all possibilities after US Supreme Court rejects Trump’s global tariffs - Taylorville Daily News",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "AP News",
+        "source": "Reuters Global",
         "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
-        "timestamp": "2026-02-21 23:04:07",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUE3cU9uQU1NSTdvLW8zNFV5V3VOWm91bDhLXzdiUTVBbzFHYkRhNktaZWpZb2xxdVo0NDNIRV9wZExXQXpfM0JRaFFTaUVwQkViczNFYURCQy1tcVppWFJ2NWhmNTFGUTBKLTdYV0stMVdLSkVHdjJNNVZSaGx2RWtzbExwOXlucmlwSTc1R2FibDNsSkE?oc=5",
+        "timestamp": "2026-02-21 17:13:41",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HZHpsQkZWcDQ4UHNUajVJdE5zMEhOa2I3TmhFUjJfRkFFSjlBeEJwekdUOUtMVTMzNGdZQzd5TTgwc0pyeHFOY2FwMkpPN2JJc3diQmN5elRBSWFIRmtTY1kwLXF1OUp2N2tPUEhtd2RqVGt5cmc?oc=5",
-        "title": "AP top stories February 21 - Yahoo News Canada",
+        "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDlkNHVRT2xUOGEwamRyV3ptUlBEdkFxZFNURERHTXJOV2JSbDU3THB6WS1mSmtkamVOQ0dSRlFzR0VSeXdJY3lGcVpIN0ZDa0JKbTNleGdlOFlkN0k0LWk2eGVVNkxwSjRtbTRmTEs1NzBRVmozcC1DbGtlaWFmOExaZWRhVDZNc0swRzlNNk5CRUtBbFE?oc=5",
+        "title": "Germany’s ruling party backs social media curbs for children - Taylorville Daily News",
+        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "source": "Reuters Global",
+        "category": "Tech",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDlkNHVRT2xUOGEwamRyV3ptUlBEdkFxZFNURERHTXJOV2JSbDU3THB6WS1mSmtkamVOQ0dSRlFzR0VSeXdJY3lGcVpIN0ZDa0JKbTNleGdlOFlkN0k0LWk2eGVVNkxwSjRtbTRmTEs1NzBRVmozcC1DbGtlaWFmOExaZWRhVDZNc0swRzlNNk5CRUtBbFE?oc=5",
+        "timestamp": "2026-02-21 17:13:42",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEkzZ2l2cHdFTGhQUTNSb0ZaWng2a2pXR1RUT1h5SVNpMnNscnNaVEJaNzhGWE05MG9lbnlnUElpVkViS1VBRHowNTd2Wm1scHQ1emNIT3o1VTFnLVNNRE5WTS16LUFudXZBajVsenhkZ1NOMGwzRy02Rl9SZHFHLQ?oc=5",
+        "title": "AP top stories February 21 - Yahoo",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "source": "AP News",
         "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HZHpsQkZWcDQ4UHNUajVJdE5zMEhOa2I3TmhFUjJfRkFFSjlBeEJwekdUOUtMVTMzNGdZQzd5TTgwc0pyeHFOY2FwMkpPN2JJc3diQmN5elRBSWFIRmtTY1kwLXF1OUp2N2tPUEhtd2RqVGt5cmc?oc=5",
-        "timestamp": "2026-02-21 22:18:15",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEkzZ2l2cHdFTGhQUTNSb0ZaWng2a2pXR1RUT1h5SVNpMnNscnNaVEJaNzhGWE05MG9lbnlnUElpVkViS1VBRHowNTd2Wm1scHQ1emNIT3o1VTFnLVNNRE5WTS16LUFudXZBajVsenhkZ1NOMGwzRy02Rl9SZHFHLQ?oc=5",
+        "timestamp": "2026-02-21 22:18:13",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3VqX0dqOVVXSEJPbmN0UWRETXNpYUhmaTZJdXpVNEdhWm5iZUdEY211bldCc0RzazBxZWdLNHhLZzRUdEJUZnZXbUt6c0JnTkUtRVJPc2FaQUlXc0Y5U3Y0RTZkQ2FMb19zZlBOQ09lMHpkZjV4Z0o5NGVqWkptU1F5N3l4SDhjclFMeg?oc=5",
+        "title": "AP top stories February 21 - AP News",
+        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "source": "AP News",
+        "category": "Tech",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3VqX0dqOVVXSEJPbmN0UWRETXNpYUhmaTZJdXpVNEdhWm5iZUdEY211bldCc0RzazBxZWdLNHhLZzRUdEJUZnZXbUt6c0JnTkUtRVJPc2FaQUlXc0Y5U3Y0RTZkQ2FMb19zZlBOQ09lMHpkZjV4Z0o5NGVqWkptU1F5N3l4SDhjclFMeg?oc=5",
+        "timestamp": "2026-02-21 22:20:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVFFKSV8yU3FmQm84TzZWSE12UzRYaVNSaW90Tk9FYXdJYXY0cU1tUjBPdVFSWV9MWEZneUlINnpOUjEtbDIzLUFteV9kZDFSZjdvTGxBdUtUYTJHNXhNMkczRW43UFNVU0RxTmVaRThWY2IyNFROdTRoZ01STUk?oc=5",
+        "title": "No. 16 UNC bounces back with 77-64 win over Syracuse - ABC11 Raleigh-Durham",
+        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "source": "AP News",
+        "category": "Tech",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVFFKSV8yU3FmQm84TzZWSE12UzRYaVNSaW90Tk9FYXdJYXY0cU1tUjBPdVFSWV9MWEZneUlINnpOUjEtbDIzLUFteV9kZDFSZjdvTGxBdUtUYTJHNXhNMkczRW43UFNVU0RxTmVaRThWY2IyNFROdTRoZ01STUk?oc=5",
+        "timestamp": "2026-02-21 20:59:55",
         "isSaved": 0
     },
     {
@@ -730,26 +750,6 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR1haVmZXWUhvbDMyVjlDRzZaQU5uME56TlUwY3ZpaHNLWXAtZU8waC1hTFFRZFQ2ek80Q0lwTmlaRjcxYWRBOHlJbldvbkNNWFJFdVJ4QzFLOVQ2a1dtTng4ZHRPR1I5YkRLUUY3dHBxX2czNDFNd3k5d2F3Nnh5S0xQaFRQaF9pclYzNUxVSExnQllyT2toQkVNbDRjUTVVVUZSbDVKWkdiRkQtQVJGRjU4VjJMbG9PRWlQWTF6Q3F1NGVuYjUzWFdGTFZLb01KNG9GdlVSSy02TkE?oc=5",
-        "title": "No. 16 UNC bounces back with 77-64 win over Syracuse - The Washington Post",
-        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "AP News",
-        "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR1haVmZXWUhvbDMyVjlDRzZaQU5uME56TlUwY3ZpaHNLWXAtZU8waC1hTFFRZFQ2ek80Q0lwTmlaRjcxYWRBOHlJbldvbkNNWFJFdVJ4QzFLOVQ2a1dtTng4ZHRPR1I5YkRLUUY3dHBxX2czNDFNd3k5d2F3Nnh5S0xQaFRQaF9pclYzNUxVSExnQllyT2toQkVNbDRjUTVVVUZSbDVKWkdiRkQtQVJGRjU4VjJMbG9PRWlQWTF6Q3F1NGVuYjUzWFdGTFZLb01KNG9GdlVSSy02TkE?oc=5",
-        "timestamp": "2026-02-21 21:04:02",
-        "isSaved": 0
-    },
-    {
-        "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3VqX0dqOVVXSEJPbmN0UWRETXNpYUhmaTZJdXpVNEdhWm5iZUdEY211bldCc0RzazBxZWdLNHhLZzRUdEJUZnZXbUt6c0JnTkUtRVJPc2FaQUlXc0Y5U3Y0RTZkQ2FMb19zZlBOQ09lMHpkZjV4Z0o5NGVqWkptU1F5N3l4SDhjclFMeg?oc=5",
-        "title": "AP top stories February 21 - AP News",
-        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "AP News",
-        "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3VqX0dqOVVXSEJPbmN0UWRETXNpYUhmaTZJdXpVNEdhWm5iZUdEY211bldCc0RzazBxZWdLNHhLZzRUdEJUZnZXbUt6c0JnTkUtRVJPc2FaQUlXc0Y5U3Y0RTZkQ2FMb19zZlBOQ09lMHpkZjV4Z0o5NGVqWkptU1F5N3l4SDhjclFMeg?oc=5",
-        "timestamp": "2026-02-21 22:20:00",
-        "isSaved": 0
-    },
-    {
         "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTQyNVJUYnF0S2g4QWNpSlRLby13NnB2LVdtOWRuSzVXRjhwUTIzY1FxamctXy1CXzQzWFQtT3o2M092NFVad2syRjdhc2M2b0p5M29FUGxsWjlRN1pZNXhkUzZYMWRTSjRwYjB2cFNMUm50VWNEYzI5emZrYVBocjJxQTBSWHVQbGxUbEFfUWN6cWFmRlZUOHpoMXFORjVyZElKaGF2X1Frd3NtZ09PUThxVQ?oc=5",
         "title": "Top-ranked Canada beats US for bronze medal in women's curling at the Olympics - WRAL",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
@@ -760,23 +760,23 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUJqZGs5TmY2VVBfbFFqbVV5cU5lR3VlNUYwZ3c2Y3ZwcUFDbEVrd0hEbU9qdTdlbW5wRndlM2N5dHJoWXZUV3UzNG1NMnF3NHdTM0o3STRrSVpza1hKNTJ5ODJheTludV9OSXJPUzd6T0xaNmgwWG1jak5OMzRUcGZ5ZG9HaXJ2d1FLOWJSaV9wUlExb0FkQmJyUUtmQl8xbG1zUldHaG5DZ3JMdUU1VmFR0gGyAUFVX3lxTE1xQmpkazlOZjZVUF9sUWptVXlxTmVHdWU1RjBndzZjdnBxQUNsRWt3SERtT2p1N2VtbnBGd2UzY3l0cmhZdlRXdTM0bU0ycXc0d1MzSjdJNGtJWnNrWEo1Mnk4MmF5OW51X05Jck9TN3pPTFo2aDBYbWNqTk4zNFRwZnlkb0dpcnZ3UUs5YlJpX3BSUTFvQWRCYnJRS2ZCXzFsbXNSV0dobkNnckx1RTVWYVE?oc=5",
-        "title": "No. 17 St. John’s routs Creighton 81-52 for longest winning streak in 4 decades - WTNH.com",
+        "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeE5MM25pVXRPb0Q3NGtJUGZ0VllmRTdOR3E1SXNZTGozZHFZbHRrdkJkWnZKR1hYUUN0aXlvWWNoR1lCR2tpbVc1VVhyYWhqRmZoeC1kUTM3cDFiZUFPaXZOTGlReXRMMjd5azRMbVFSQmxsMERZdVk1Z3RxX24tSzRaOVlYZktJdlB1bFZJekNQc1pjQnNEaE52clZfS2V4dWhqR2VCWW9xbnBocUM3ZGtQU2JHazg1aHZJdk9CNEc1dXPSAcMBQVVfeXFMTXhOTDNuaVV0T29ENzRrSVBmdFZZZkU3TkdxNUlzWUxqM2RxWWx0a3ZCZFp2SkdYWFFDdGl5b1ljaEdZQkdraW1XNVVYcmFoakZmaHgtZFEzN3AxYmVBT2l2TkxpUXl0TDI3eWs0TG1RUkJsbDBEWXVZNWd0cV9uLUs0WjlZWGZLSXZQdWxWSXpDUHNaY0JzRGhOdnJWX0tleHVoakdlQllvcW5waHFDN2RrUFNiR2s4NWh2SXZPQjRHNXVz?oc=5",
+        "title": "Thiam scores career-high 28 to lead Cincinnati to an 84-68 upset of No. 8 Kansas - wivb.com",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "source": "AP News",
         "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUJqZGs5TmY2VVBfbFFqbVV5cU5lR3VlNUYwZ3c2Y3ZwcUFDbEVrd0hEbU9qdTdlbW5wRndlM2N5dHJoWXZUV3UzNG1NMnF3NHdTM0o3STRrSVpza1hKNTJ5ODJheTludV9OSXJPUzd6T0xaNmgwWG1jak5OMzRUcGZ5ZG9HaXJ2d1FLOWJSaV9wUlExb0FkQmJyUUtmQl8xbG1zUldHaG5DZ3JMdUU1VmFR0gGyAUFVX3lxTE1xQmpkazlOZjZVUF9sUWptVXlxTmVHdWU1RjBndzZjdnBxQUNsRWt3SERtT2p1N2VtbnBGd2UzY3l0cmhZdlRXdTM0bU0ycXc0d1MzSjdJNGtJWnNrWEo1Mnk4MmF5OW51X05Jck9TN3pPTFo2aDBYbWNqTk4zNFRwZnlkb0dpcnZ3UUs5YlJpX3BSUTFvQWRCYnJRS2ZCXzFsbXNSV0dobkNnckx1RTVWYVE?oc=5",
-        "timestamp": "2026-02-21 14:46:37",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeE5MM25pVXRPb0Q3NGtJUGZ0VllmRTdOR3E1SXNZTGozZHFZbHRrdkJkWnZKR1hYUUN0aXlvWWNoR1lCR2tpbVc1VVhyYWhqRmZoeC1kUTM3cDFiZUFPaXZOTGlReXRMMjd5azRMbVFSQmxsMERZdVk1Z3RxX24tSzRaOVlYZktJdlB1bFZJekNQc1pjQnNEaE52clZfS2V4dWhqR2VCWW9xbnBocUM3ZGtQU2JHazg1aHZJdk9CNEc1dXPSAcMBQVVfeXFMTXhOTDNuaVV0T29ENzRrSVBmdFZZZkU3TkdxNUlzWUxqM2RxWWx0a3ZCZFp2SkdYWFFDdGl5b1ljaEdZQkdraW1XNVVYcmFoakZmaHgtZFEzN3AxYmVBT2l2TkxpUXl0TDI3eWs0TG1RUkJsbDBEWXVZNWd0cV9uLUs0WjlZWGZLSXZQdWxWSXpDUHNaY0JzRGhOdnJWX0tleHVoakdlQllvcW5waHFDN2RrUFNiR2s4NWh2SXZPQjRHNXVz?oc=5",
+        "timestamp": "2026-02-21 15:29:43",
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1VCTFEySFFzbmlBRzFZNm9JRHA5T0huTjhpcFJ1REVLZEJ2ZHpFWF9URlZkLXRXUlNKbG1ZM1NMbVlvN3djeWo4MDNJaUctYlg1MnE1V1drb0F4cmJhVjNYRzgtQkJuZjcwZVFCMXF3ZkhUQWdUMER5OTB6ZENXWWR3MTdndHlkYXpoQ3RRdDFaYUxzX1poREtHM3F0dHBLMF85MDJYQ0l1X0cybnh1RUlkNi1vZ9IBtgFBVV95cUxQR1VCTFEySFFzbmlBRzFZNm9JRHA5T0huTjhpcFJ1REVLZEJ2ZHpFWF9URlZkLXRXUlNKbG1ZM1NMbVlvN3djeWo4MDNJaUctYlg1MnE1V1drb0F4cmJhVjNYRzgtQkJuZjcwZVFCMXF3ZkhUQWdUMER5OTB6ZENXWWR3MTdndHlkYXpoQ3RRdDFaYUxzX1poREtHM3F0dHBLMF85MDJYQ0l1X0cybnh1RUlkNi1vZw?oc=5",
-        "title": "Thiam scores career-high 28 to lead Cincinnati to an 84-68 upset of No. 8 Kansas - KRQE",
+        "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDF1TW0tVnAxUFJyWERXNEVoejJQLVJkOW9wYUtMRWtkWEl6cjZLRTFRUVNvNF9MZXF2aU5NZnhBajBSTGhfenNjTUd4SzhzMU1FN1E5c1RZWkZ3ck9BY2M1WjVmODBhMXExdzF3djJ4MXZtaVV3aks1Z3kzNnVtQjZuTWNxVmlIcWNYVkpaM1BsOGlKZDV4MkdzRURSVWg3RGpfcEFVT2RodDZZSjhTLUxqTllkeEItVXJCaVdOYjF5QWfSAcMBQVVfeXFMT3gxdU1tLVZwMVBSclhEVzRFaHoyUC1SZDlvcGFLTEVrZFhJenI2S0UxUVFTbzRfTGVxdmlOTWZ4QWowUkxoX3pzY01HeEs4czFNRTdROXNUWVpGd3JPQWNjNVo1ZjgwYTFxMXcxd3YyeDF2bWlVd2pLNWd5MzZ1bUI2bk1jcVZpSHFjWFZKWjNQbDhpSmQ1eDJHc0VEUlVoN0RqX3BBVU9kaHQ2WUo4Uy1Mak5ZZHhCLVVyQmlXTmIxeUFn?oc=5",
+        "title": "No. 17 St. John’s routs Creighton 81-52 for longest winning streak in 4 decades - FOX 56 News",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "source": "AP News",
         "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1VCTFEySFFzbmlBRzFZNm9JRHA5T0huTjhpcFJ1REVLZEJ2ZHpFWF9URlZkLXRXUlNKbG1ZM1NMbVlvN3djeWo4MDNJaUctYlg1MnE1V1drb0F4cmJhVjNYRzgtQkJuZjcwZVFCMXF3ZkhUQWdUMER5OTB6ZENXWWR3MTdndHlkYXpoQ3RRdDFaYUxzX1poREtHM3F0dHBLMF85MDJYQ0l1X0cybnh1RUlkNi1vZ9IBtgFBVV95cUxQR1VCTFEySFFzbmlBRzFZNm9JRHA5T0huTjhpcFJ1REVLZEJ2ZHpFWF9URlZkLXRXUlNKbG1ZM1NMbVlvN3djeWo4MDNJaUctYlg1MnE1V1drb0F4cmJhVjNYRzgtQkJuZjcwZVFCMXF3ZkhUQWdUMER5OTB6ZENXWWR3MTdndHlkYXpoQ3RRdDFaYUxzX1poREtHM3F0dHBLMF85MDJYQ0l1X0cybnh1RUlkNi1vZw?oc=5",
-        "timestamp": "2026-02-21 13:29:43",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDF1TW0tVnAxUFJyWERXNEVoejJQLVJkOW9wYUtMRWtkWEl6cjZLRTFRUVNvNF9MZXF2aU5NZnhBajBSTGhfenNjTUd4SzhzMU1FN1E5c1RZWkZ3ck9BY2M1WjVmODBhMXExdzF3djJ4MXZtaVV3aks1Z3kzNnVtQjZuTWNxVmlIcWNYVkpaM1BsOGlKZDV4MkdzRURSVWg3RGpfcEFVT2RodDZZSjhTLUxqTllkeEItVXJCaVdOYjF5QWfSAcMBQVVfeXFMT3gxdU1tLVZwMVBSclhEVzRFaHoyUC1SZDlvcGFLTEVrZFhJenI2S0UxUVFTbzRfTGVxdmlOTWZ4QWowUkxoX3pzY01HeEs4czFNRTdROXNUWVpGd3JPQWNjNVo1ZjgwYTFxMXcxd3YyeDF2bWlVd2pLNWd5MzZ1bUI2bk1jcVZpSHFjWFZKWjNQbDhpSmQ1eDJHc0VEUlVoN0RqX3BBVU9kaHQ2WUo4Uy1Mak5ZZHhCLVVyQmlXTmIxeUFn?oc=5",
+        "timestamp": "2026-02-21 15:37:58",
         "isSaved": 0
     },
     {
@@ -786,7 +786,7 @@
         "source": "AP News",
         "category": "Tech",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1YwLW84elZ4UE1oanBNVGxEXzh4ZjloWGpPSzFxTlhwM1VCVmgzVVJ3bVEzR1ZLNDBJV2NzR00yQXVxb0VZSXJ4R2FrV19BOEtXU19GWXBfaGx1bVBFUHYzMHg1TENDNGtlMVpkejFwR0ZmdENEVm5Bb3dITWd4aXB2bEFSVXNlR3RhY3NDLUJESlBjQ2V1V1UtRzFqN083QnVYQUZ2cTFZZi04WjBxN1RmUGNzcUN3b0NpZ1hTelo5LWFiNk9EV2Z3X0lYNkpP0gHWAUFVX3lxTE9nNFhDelV5dFNMck9wTkd2akpjd0thZEhJLU0tX0NrdXp4WXNJUHhIcHVmZ2Q1Z0VId2pYUzRzS2kyV3M1WmZhZ2Nhb2JndnVLOUIxeEt5X1dpZHl0YkQ2QXNQNEdiM3R1ZWFkcFU3RV9oS2tHdmRsSkRDNlpCMVhOXzdmRnVGTkRSUEY4RFJ5cFFDcHMwQXB5WHFUS3BaTThYMlNvdVpDemJWRVF2SDE4d1ZtS0Z3Y1BTRjFVQVI5UWJDblB4RVVISTZVNXpCaEpOczZmSXc?oc=5",
-        "timestamp": "2026-02-21 18:32:24",
+        "timestamp": "2026-02-21 20:31:08",
         "isSaved": 0
     },
     {
@@ -800,13 +800,13 @@
         "isSaved": 0
     },
     {
-        "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGNlBjOHVONnZhNzhKVEFlZFYybExEdEltRnJzMnlqUkZhZE0wYkFKNmx6ZFdjcW9BWGN4Wk1SQ1FOWHlKNXkwWDVvcldSY1dabkEtclotaFE0ZnV3ZkFxdXhGLXJselVYWFJuYmdPSzlic25DOGc?oc=5",
-        "title": "AP top stories February 20 - Yahoo News Canada",
+        "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGdrMEJEMzFIWl9JNEhaSjlCUzFyamlaMXg3elQwWUVkakp2RDZWZERpejZxUGFyeTFBSlpuV2tOZ1lsSmZ2bk1FcGlrV2VaNndrV0VoTkEtbHFiMjFCMERtVmlCQVY1TG5uTTU5NWt1cWRLbTk1X1FaRjNKc29kY3FBZzEycGU3bzZIeVc2N29nTkVJSGtmbm9rWlBVaGpLdl81Q0IzX2FkZ1BJRXNCU2s3c1hTMUFfakpSUUx6UWgtWVXSAcMBQVVfeXFMUHBnazBCRDMxSFpfSTRIWko5QlMxcmppWjF4N3pUMFlFZGpKdkQ2VmREaXo2cVBhcnkxQUpabldrTmdZbEpmdm5NRXBpa1dlWjZ3a1dFaE5BLWxxYjIxQjBEbVZpQkFWNUxubk01OTVrdXFkS205NV9RWkYzSnNvZGNxQWcxMnBlN282SHlXNjdvZ05FSUhrZm5va1pQVWhqS3ZfNUNCM19hZGdQSUVzQlNrN3NYUzFBX2pKUlFMelFoLVlV?oc=5",
+        "title": "Michigan, Duke, Arizona, Iowa State headline preliminary seeds from NCAA selection committee - KRQE",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "source": "AP News",
         "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGNlBjOHVONnZhNzhKVEFlZFYybExEdEltRnJzMnlqUkZhZE0wYkFKNmx6ZFdjcW9BWGN4Wk1SQ1FOWHlKNXkwWDVvcldSY1dabkEtclotaFE0ZnV3ZkFxdXhGLXJselVYWFJuYmdPSzlic25DOGc?oc=5",
-        "timestamp": "2026-02-20 23:31:35",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGdrMEJEMzFIWl9JNEhaSjlCUzFyamlaMXg3elQwWUVkakp2RDZWZERpejZxUGFyeTFBSlpuV2tOZ1lsSmZ2bk1FcGlrV2VaNndrV0VoTkEtbHFiMjFCMERtVmlCQVY1TG5uTTU5NWt1cWRLbTk1X1FaRjNKc29kY3FBZzEycGU3bzZIeVc2N29nTkVJSGtmbm9rWlBVaGpLdl81Q0IzX2FkZ1BJRXNCU2s3c1hTMUFfakpSUUx6UWgtWVXSAcMBQVVfeXFMUHBnazBCRDMxSFpfSTRIWko5QlMxcmppWjF4N3pUMFlFZGpKdkQ2VmREaXo2cVBhcnkxQUpabldrTmdZbEpmdm5NRXBpa1dlWjZ3a1dFaE5BLWxxYjIxQjBEbVZpQkFWNUxubk01OTVrdXFkS205NV9RWkYzSnNvZGNxQWcxMnBlN282SHlXNjdvZ05FSUhrZm5va1pQVWhqS3ZfNUNCM19hZGdQSUVzQlNrN3NYUzFBX2pKUlFMelFoLVlV?oc=5",
+        "timestamp": "2026-02-21 11:06:14",
         "isSaved": 0
     },
     {
@@ -861,22 +861,12 @@
     },
     {
         "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeF9yM3FqVmxBTkFJU3hyMlV1dUZTMFFFYUdpOVZQanltR2pTTTB4WkVscTNaeUFGYVpRTnZGdUwxZjR3Wk5SQjlWLURpdlpXbkZrSnVtY0pHejVxU0x5Sm1fWFpFY2ZGQ2ZhMXI3UDFuMkY2TXZqeFpuV2RrRi0tQ1ZUaDNSX29XbXZTenlvWHBDVkV4T0lBQU04X0ZvWGFfM2hpb3FyVDlILWhsOU01bUl4ekdtbGI00gG-AUFVX3lxTE9GbU1tbjB1dUtoNEJDTHZfOFgtSXdFb09nR0lIV3FLVEJQVm9YY1FVZzZ0cXlnUElteUNnOGNXLTdza3VtYXhtcVY3cENyTndQWmFOMUdjVVV6WFhUWHZ1RUI0V3YyUlFvbl8yODJibmw2WkVIdkV0MzBXcTI5d044REs2UFR5Ql96MkVZNVZjQl9MaFN2YURmY0F1OHFva0dkSFlodHc4UTl4QU5VQy1FUkljd2UyTlVrUHNzYnc?oc=5",
-        "title": "No. 17 St. John’s rides Darling and Mitchell to longest winning streak in 41 years - KFOR",
+        "title": "No. 17 St. John’s rides Darling and Mitchell to longest winning streak in 41 years - KFOR.com",
         "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "source": "AP News",
         "category": "Tech",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeF9yM3FqVmxBTkFJU3hyMlV1dUZTMFFFYUdpOVZQanltR2pTTTB4WkVscTNaeUFGYVpRTnZGdUwxZjR3Wk5SQjlWLURpdlpXbkZrSnVtY0pHejVxU0x5Sm1fWFpFY2ZGQ2ZhMXI3UDFuMkY2TXZqeFpuV2RrRi0tQ1ZUaDNSX29XbXZTenlvWHBDVkV4T0lBQU04X0ZvWGFfM2hpb3FyVDlILWhsOU01bUl4ekdtbGI00gG-AUFVX3lxTE9GbU1tbjB1dUtoNEJDTHZfOFgtSXdFb09nR0lIV3FLVEJQVm9YY1FVZzZ0cXlnUElteUNnOGNXLTdza3VtYXhtcVY3cENyTndQWmFOMUdjVVV6WFhUWHZ1RUI0V3YyUlFvbl8yODJibmw2WkVIdkV0MzBXcTI5d044REs2UFR5Ql96MkVZNVZjQl9MaFN2YURmY0F1OHFva0dkSFlodHc4UTl4QU5VQy1FUkljd2UyTlVrUHNzYnc?oc=5",
         "timestamp": "2026-02-21 22:06:45",
-        "isSaved": 0
-    },
-    {
-        "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXBmeHFKMUNPZ0FzTUJOamhfNFdtR1lqVDBuNXBXZGtUaTQ2eEtxUGVyTEUyazU1cFhRU0duT2VRVnVlVVVQMUVEMU80bVhxN3dUWFZtaHFMdTdMN3hoZmd1cWNSdG00blhrYnQxZ0pBMTFGXzdqbjJRbDU0SlU1V2FmVHY4c280Zmtha0RWT0RXc0dCQ2dhSGs3dmdzV3NmSnhUaGh6MDhyVllrckNVMUZlUGJEMXQ1ZGdkRGtiakY5em1hSUHSAcsBQVVfeXFMUDIxWGJ3RTdmMkl4Tm5oUEJHTDB3N2FpNE1wYkZzWU1QZWJQT00wZ0d2WTNZQUtaYXh4TEtSZW5rMzRwd0JRTHl2UTJZOC16czFJVlNDSFZpRTZVQU1zQ3pDbndOM2U4V3NoMUV4OGgwQ0s4cnl5bFdtWmFmWkxYUV9OWUN3Rk05azMtYncxdDhUZUduSElvX0g3WHQ1T0Q4eUNEOWVEY0o5R2lWU2NwVDBLMXJZaGtQREhOMDQzbjlKcjgwSnBLazNBZ28?oc=5",
-        "title": "Michigan, Duke, Arizona, Iowa State headline preliminary seeds from NCAA selection committee - KFOR",
-        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "source": "AP News",
-        "category": "Tech",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXBmeHFKMUNPZ0FzTUJOamhfNFdtR1lqVDBuNXBXZGtUaTQ2eEtxUGVyTEUyazU1cFhRU0duT2VRVnVlVVVQMUVEMU80bVhxN3dUWFZtaHFMdTdMN3hoZmd1cWNSdG00blhrYnQxZ0pBMTFGXzdqbjJRbDU0SlU1V2FmVHY4c280Zmtha0RWT0RXc0dCQ2dhSGs3dmdzV3NmSnhUaGh6MDhyVllrckNVMUZlUGJEMXQ1ZGdkRGtiakY5em1hSUHSAcsBQVVfeXFMUDIxWGJ3RTdmMkl4Tm5oUEJHTDB3N2FpNE1wYkZzWU1QZWJQT00wZ0d2WTNZQUtaYXh4TEtSZW5rMzRwd0JRTHl2UTJZOC16czFJVlNDSFZpRTZVQU1zQ3pDbndOM2U4V3NoMUV4OGgwQ0s4cnl5bFdtWmFmWkxYUV9OWUN3Rk05azMtYncxdDhUZUduSElvX0g3WHQ1T0Q4eUNEOWVEY0o5R2lWU2NwVDBLMXJZaGtQREhOMDQzbjlKcjgwSnBLazNBZ28?oc=5",
-        "timestamp": "2026-02-21 20:31:08",
         "isSaved": 0
     },
     {
@@ -887,6 +877,16 @@
         "category": "Tech",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbWVJZmh0VG0za2kycUROWmJLX0x3MG1LcEtsUWJhbFNzTEFsSmZhLTRJbDdZSzRXeWFzNTBrNWYzODREeVJzb0g1ZlhLUjNGaEpaUktybWxZRFc4b0ktYnJTNF9mMksxTmJzQ25rYmx6dnRwbXlFb2hRaXpnZ1NqUXQtLUwxeUl1Z1NlcUJyck91QktHVG1nY1kzeHNkUWs5b0twMDFoLVBIUE9nTklIZjFuUG9tMjIzOS1UMWUzcG9DZzI0ckdBLVRxOUx1eTA3aXp2NUdycWdIZGxhQnpGLWczejEwblVxMDBuTtIB8gFBVV95cUxNZ2VkOHMtc0hPOXp5R2x2ZlhwOUhvS2o4RWx2aE5fd0YwVkxtZkx2MExNTDEzRkFKUlVjWE12SWh5bXhVeHJhZ1plakE5NmZtU0JON29faUV1cl8zcUZ6d3lzNjFDMVBKYTNlaG93S240NUVHTDZaTnZqRUlNVDRlbzZOcUFRaUFZMFJ3SzNXZDBxbmE2amNDbm4xQ0ZESUN1X2pVTmdFWkVCZGlaSFRfUDJPcldiUGwtLUlWTHkxNjR5cnNnUUdFMDZuZ0xrWFR5RXdwSUNjZ3M5d2NOd19Ba0d1bndWbzZjYm9qZjFHWER0dw?oc=5",
         "timestamp": "2026-02-21 06:54:36",
+        "isSaved": 0
+    },
+    {
+        "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZ0UxLTUwNDZHeFpMb19NRTlraFlENHVLTkhaVnAxR1VqTjc2NXphWng1Qk1CWmdhd1ZvRS12XzRQUzRXeEhBbkhRSlVUSTUyLU1US21FYlg?oc=5",
+        "title": "Minnesota's Crocker-Johnson out indefinitely with foot injury - theScore.com",
+        "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "source": "AP News",
+        "category": "Tech",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZ0UxLTUwNDZHeFpMb19NRTlraFlENHVLTkhaVnAxR1VqTjc2NXphWng1Qk1CWmdhd1ZvRS12XzRQUzRXeEhBbkhRSlVUSTUyLU1US21FYlg?oc=5",
+        "timestamp": "2026-02-21 02:13:05",
         "isSaved": 0
     },
     {
@@ -1180,16 +1180,6 @@
         "isSaved": 0
     },
     {
-        "id": "https://www.espn.com/mens-college-basketball/story/_/id/47983216/michigan-frontcourt-yaxel-lendeborg-morez-johnson-aday-mara",
-        "title": "Michigan rode a supersized frontcourt to No. 1 -- now it hopes a title is next",
-        "imageUrl": "https://a4.espncdn.com/combiner/i",
-        "source": "ESPN",
-        "category": "Sports",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/47983216/michigan-frontcourt-yaxel-lendeborg-morez-johnson-aday-mara",
-        "timestamp": "2026-02-21 23:20:04",
-        "isSaved": 0
-    },
-    {
         "id": "https://www.espn.com/olympics/story/_/id/47990030/2026-milan-cortina-italy-winter-olympics-best-moments-saturday",
         "title": "2026 Winter Olympics: U.S.' first-ever mass start medal, women's freeski halfpipe final postponed",
         "imageUrl": "https://a4.espncdn.com/combiner/i",
@@ -1290,6 +1280,16 @@
         "isSaved": 0
     },
     {
+        "id": "https://www.espn.com/mlb/story/_/id/47900545/mlb-2026-buster-olney-top-10-positions-ranking-first-basemen",
+        "title": "Ranking the top 10 first basemen in MLB: Is Vlad Jr. or Kurtz No. 1?",
+        "imageUrl": "https://a.espncdn.com/combiner/i",
+        "source": "ESPN",
+        "category": "Sports",
+        "link": "https://www.espn.com/mlb/story/_/id/47900545/mlb-2026-buster-olney-top-10-positions-ranking-first-basemen",
+        "timestamp": "2026-02-20 16:39:12",
+        "isSaved": 0
+    },
+    {
         "id": "https://www.skysports.com/football/st-mirren-vs-motherwell/report/531894",
         "title": "Motherwell romp to victory over St Mirren",
         "imageUrl": "https://e0.365dm.com/26/02/800x600/skysports-motherwell-ibrahim-said_7171457.jpg",
@@ -1340,6 +1340,16 @@
         "isSaved": 0
     },
     {
+        "id": "https://www.skysports.com/boxing/news/12040/13510535/leigh-wood-defeats-josh-warrington-as-sandy-ryan-becomes-two-weight-world-champion-after-beating-karla-ramos-zamora",
+        "title": "Wood defeats Warrington as Ryan becomes two-weight champion",
+        "imageUrl": "https://e2.365dm.com/26/02/800x600/skysports-leigh-wood-josh-warrington_7171512.jpg",
+        "source": "Sky Sports",
+        "category": "Sports",
+        "link": "https://www.skysports.com/boxing/news/12040/13510535/leigh-wood-defeats-josh-warrington-as-sandy-ryan-becomes-two-weight-world-champion-after-beating-karla-ramos-zamora",
+        "timestamp": "2026-02-21 22:38:00",
+        "isSaved": 0
+    },
+    {
         "id": "https://www.skysports.com/rugby-union/news/12040/13510499/england-under-scrutiny-for-back-to-back-six-nations-defeats-with-chris-robshaw-suggesting-heads-may-be-on-the-block",
         "title": "'Heads on the block' - England flounder vs Ireland as Genge apologises to fans",
         "imageUrl": "https://e2.365dm.com/26/02/800x600/skysports-itoje-genge-cowan-dickie_7171409.jpg",
@@ -1367,6 +1377,16 @@
         "category": "Sports",
         "link": "https://www.skysports.com/football/news/12040/13510606/wesley-fofana-and-hannibal-subjected-to-racist-abuse-after-chelseas-draw-against-burnley",
         "timestamp": "2026-02-21 22:10:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://www.skysports.com/football/news/12040/13510358/igor-tudor-spurs-sporting-director-johan-lange-opens-door-to-head-coach-staying-but-what-does-he-need-to-do-to-keep-job",
+        "title": "What Tudor must change at Spurs if he is to stay for 'long time'",
+        "imageUrl": "https://e1.365dm.com/26/02/800x600/skysports-igor-tudor-tottenham_7164200.jpg",
+        "source": "Sky Sports",
+        "category": "Sports",
+        "link": "https://www.skysports.com/football/news/12040/13510358/igor-tudor-spurs-sporting-director-johan-lange-opens-door-to-head-coach-staying-but-what-does-he-need-to-do-to-keep-job",
+        "timestamp": "2026-02-21 16:02:00",
         "isSaved": 0
     },
     {
@@ -1470,223 +1490,203 @@
         "isSaved": 0
     },
     {
-        "id": "https://www.skysports.com/watch/video/13510272/jack-rudoni-rocket-extends-coventry-lead",
-        "title": "Rudoni rocket extends Coventry lead | 'An absolute STUNNER!'",
-        "imageUrl": "https://e0.365dm.com/26/02/800x600/skysports-goal-coventry_7170844.jpg",
-        "source": "Sky Sports",
-        "category": "Sports",
-        "link": "https://www.skysports.com/watch/video/13510272/jack-rudoni-rocket-extends-coventry-lead",
-        "timestamp": "2026-02-21 13:06:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.skysports.com/winter-olympics/news/12040/13510267/winter-olympics-johannes-klaebo-makes-history-with-sixth-gold-in-single-games-norwegian-wins-50km-mass-start",
-        "title": "Klaebo makes history with sixth gold of 2026 Winter Olympics",
-        "imageUrl": "https://e1.365dm.com/26/02/800x600/skysports-johannes-hoesflot-klaebo_7170836.jpg",
-        "source": "Sky Sports",
-        "category": "Sports",
-        "link": "https://www.skysports.com/winter-olympics/news/12040/13510267/winter-olympics-johannes-klaebo-makes-history-with-sixth-gold-in-single-games-norwegian-wins-50km-mass-start",
-        "timestamp": "2026-02-21 13:00:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/mountain-ridges-defense-locks-down-231700355.html",
-        "title": "Mountain Ridge's defense locks down Keyser in 54-34 win",
-        "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "id": "https://sports.yahoo.com/articles/nfl-mock-draft-brings-aidan-235030886.html",
+        "title": "NFL mock draft brings Aidan Hutchinson sidekick to Detroit Lions",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0WZ6G3XlVeXtMxBWLeOLXA",
         "source": "Yahoo Sports",
         "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/mountain-ridges-defense-locks-down-231700355.html",
-        "timestamp": "2026-02-21 23:17:00",
+        "link": "https://sports.yahoo.com/articles/nfl-mock-draft-brings-aidan-235030886.html",
+        "timestamp": "2026-02-21 23:50:30",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/leigh-wood-vs-josh-warrington-231643248.html",
-        "title": "Leigh Wood vs Josh Warrington 2 results: Wood outpoints Warrington by wide unanimous decision",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OG1mfokYCQDdCJMnHIPFIQ",
+        "id": "https://sports.yahoo.com/articles/team-usa-men-hockey-odds-234922856.html",
+        "title": "Team USA Men’s hockey odds revealed ahead of match against Team Canada",
+        "imageUrl": "https://s.yimg.com/os/en/the_big_lead_articles_114/0a30b5982cde223338502fbfdc04d954",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/leigh-wood-vs-josh-warrington-231643248.html",
-        "timestamp": "2026-02-21 23:16:43",
+        "link": "https://sports.yahoo.com/articles/team-usa-men-hockey-odds-234922856.html",
+        "timestamp": "2026-02-21 23:49:22",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/no-1-fort-hill-defeats-231600934.html",
-        "title": "No. 1 Fort Hill defeats No. 2 Southern, 47-35, for 4th straight WestMAC title",
+        "id": "https://sports.yahoo.com/olympics/article/winter-olympics-2026-figure-skatings-exhilarating-gala-shows-the-olympics-at-their-best-234856024.html",
+        "title": "Winter Olympics 2026: Figure skating’s exhilarating Gala shows the Olympics at their best",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/co_7WGiitm64sqHakne3fQ",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/olympics/article/winter-olympics-2026-figure-skatings-exhilarating-gala-shows-the-olympics-at-their-best-234856024.html",
+        "timestamp": "2026-02-21 23:48:56",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/darryn-peterson-viral-kansas-moment-234622568.html",
+        "title": "Darryn Peterson’s viral Kansas moment raises new questions ahead of NBA Draft",
+        "imageUrl": "https://s.yimg.com/os/en/the_sporting_news_articles_584/b87ce344758cd460e7db10176519a6d1",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/darryn-peterson-viral-kansas-moment-234622568.html",
+        "timestamp": "2026-02-21 23:46:22",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/agbim-yessoufou-help-baylor-end-234314015.html",
+        "title": "Agbim, Yessoufou help Baylor end four-game skid with 73-68 victory over Arizona State",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_KpwnutMYLrb1W8FH_rGVw",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/agbim-yessoufou-help-baylor-end-234314015.html",
+        "timestamp": "2026-02-21 23:43:14",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/premier-league-top-goal-scorers-143500924.html",
+        "title": "Premier League top goal scorers 2025/2026: Updated Golden Boot rankings with Haaland out in front",
+        "imageUrl": "https://s.yimg.com/os/en/the_sporting_news_articles_584/21d5d75c13de735cd2899a73f2776e7f",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/premier-league-top-goal-scorers-143500924.html",
+        "timestamp": "2026-02-21 23:43:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/wood-outpoints-warrington-rematch-lacking-234219127.html",
+        "title": "Wood outpoints Warrington in rematch lacking spark",
+        "imageUrl": "https://s.yimg.com/os/en/bbc_us_articles_995/874c80a7d1496c0065818498f3073154",
+        "source": "Yahoo Sports",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/wood-outpoints-warrington-rematch-lacking-234219127.html",
+        "timestamp": "2026-02-21 23:42:19",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/close-ct-school-swept-boys-234100655.html",
+        "title": "It was close, but this CT school swept the boys and girls State Open track titles",
         "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
         "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/no-1-fort-hill-defeats-231600934.html",
-        "timestamp": "2026-02-21 23:16:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/alex-rychwalski-why-cant-along-231600024.html",
-        "title": "Alex Rychwalski | Why can't we all get along?",
-        "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-        "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/alex-rychwalski-why-cant-along-231600024.html",
-        "timestamp": "2026-02-21 23:16:00",
+        "link": "https://sports.yahoo.com/articles/close-ct-school-swept-boys-234100655.html",
+        "timestamp": "2026-02-21 23:41:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/eagles-fall-smu-94-70-231541051.html",
-        "title": "Eagles fall to SMU, 94-70",
-        "imageUrl": "https://s.yimg.com/os/en/sb_nation_articles_115/7cc6584db82e5448ea3bf4db78bdee95",
-        "source": "Yahoo Sports",
-        "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/eagles-fall-smu-94-70-231541051.html",
-        "timestamp": "2026-02-21 23:15:41",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/narrow-wins-bedrock-success-leaders-231523107.html",
-        "title": "Narrow wins 'bedrock of success' as leaders Hearts edge Falkirk",
+        "id": "https://sports.yahoo.com/articles/antrim-secure-impressive-victory-over-234025178.html",
+        "title": "Antrim secure impressive victory over Cork",
         "imageUrl": "https://s.yimg.com/os/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
         "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/narrow-wins-bedrock-success-leaders-231523107.html",
-        "timestamp": "2026-02-21 23:15:23",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/antrim-secure-impressive-victory-over-234025178.html",
+        "timestamp": "2026-02-21 23:40:25",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/howe-pleased-players-effort-tough-231500530.html",
-        "title": "Howe pleased with players effort after &#8216;tough run of fixtures&#8217;",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7NSrv6RJIV4r6kqvTmZ2Jw",
+        "id": "https://sports.yahoo.com/articles/tkachuk-brothers-controversy-explained-why-233840458.html",
+        "title": "Tkachuk brothers controversy, explained: Why world (especially Canada) loves to hate USA's hockey siblings",
+        "imageUrl": "https://s.yimg.com/os/en/the_sporting_news_articles_584/9c075fe00abd45793968ff1f5d553ac8",
         "source": "Yahoo Sports",
         "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/howe-pleased-players-effort-tough-231500530.html",
-        "timestamp": "2026-02-21 23:15:00",
+        "link": "https://sports.yahoo.com/articles/tkachuk-brothers-controversy-explained-why-233840458.html",
+        "timestamp": "2026-02-21 23:38:40",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/niko-kovac-evokes-past-judo-231500740.html",
-        "title": "Niko Kovac evokes past Judo training in complaining about non-penalty call: &#8220;A clear sickle sweep!&#8221;",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fpyYt1oCtZzn.Bw6sDBQ4g",
-        "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/niko-kovac-evokes-past-judo-231500740.html",
-        "timestamp": "2026-02-21 23:15:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/duck-baseball-coach-mark-wasikowski-231433208.html",
-        "title": "Duck baseball coach Mark Wasikowski earns win No. 300 with shutout win",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/J1ujVjJz73.lNucb.grfcw",
+        "id": "https://sports.yahoo.com/articles/o-paulo-ruthless-see-off-233800885.html",
+        "title": "📹 São Paulo ruthless, see off RB Bragantino to reach Paulistão semis",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hid1c2zRPCIw7bgWfinJ9Q",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/duck-baseball-coach-mark-wasikowski-231433208.html",
-        "timestamp": "2026-02-21 23:14:33",
+        "link": "https://sports.yahoo.com/articles/o-paulo-ruthless-see-off-233800885.html",
+        "timestamp": "2026-02-21 23:38:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/match-preview-chelsea-vs-manchester-231423372.html",
-        "title": "Match Preview: Chelsea vs. Manchester United Women",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4L7aX2wsAD8gHdytuuUpQg",
+        "id": "https://sports.yahoo.com/articles/yoshinobu-yamamoto-begins-2026-ended-233554823.html",
+        "title": "Yoshinobu Yamamoto begins 2026 how he ended 2025: Dominating for Dodgers",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/646mgIz6IWXaQ5B4JG8YMw",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/match-preview-chelsea-vs-manchester-231423372.html",
-        "timestamp": "2026-02-21 23:14:23",
+        "link": "https://sports.yahoo.com/articles/yoshinobu-yamamoto-begins-2026-ended-233554823.html",
+        "timestamp": "2026-02-21 23:35:54",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
-        "title": "Cubs current record, schedule, MLB standings, broadcast information",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/w1oTakd.zdP4EmqccVzYtg",
+        "id": "https://sports.yahoo.com/articles/five-takeaways-uncs-bounce-back-233541518.html",
+        "title": "Five takeaways from UNC's bounce-back Saturday win at Syracuse",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/F_evOGApjVVszHS2rmVUgg",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
-        "timestamp": "2026-02-21 23:10:00",
+        "link": "https://sports.yahoo.com/articles/five-takeaways-uncs-bounce-back-233541518.html",
+        "timestamp": "2026-02-21 23:35:41",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/goal-final-seconds-lifts-uaf-231000765.html",
-        "title": "Goal in final seconds lifts UAF hockey past UAA in Governor's Cup game",
-        "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "id": "https://sports.yahoo.com/articles/gu-shoots-elusive-gold-klaebo-133710443.html",
+        "title": "Klaebo makes Olympic history as Gu forced to wait",
+        "imageUrl": "https://s.yimg.com/os/en/afp.com/b52237387c5537c9e5963d97c873a5bc",
+        "source": "Yahoo Sports",
+        "category": "Tech",
+        "link": "https://sports.yahoo.com/articles/gu-shoots-elusive-gold-klaebo-133710443.html",
+        "timestamp": "2026-02-21 23:35:20",
+        "isSaved": 0
+    },
+    {
+        "id": "https://sports.yahoo.com/articles/celtic-v-hibs-matthew-macdermid-233500445.html",
+        "title": "Celtic v Hibs: Matthew MacDermid handed whistle for clash",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aWNx187YlT_DXdTB0SZuyw",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/goal-final-seconds-lifts-uaf-231000765.html",
-        "timestamp": "2026-02-21 23:10:00",
+        "link": "https://sports.yahoo.com/articles/celtic-v-hibs-matthew-macdermid-233500445.html",
+        "timestamp": "2026-02-21 23:35:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/bruno-fernandes-fires-message-juan-231000338.html",
-        "title": "Bruno Fernandes fires message to Juan Mata after his stunning double for Melbourne Victory",
-        "imageUrl": "https://s.yimg.com/os/en/the_peoples_person_articles_356/79838cb4508f0bb6f9883101bd2ef84d",
-        "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/bruno-fernandes-fires-message-juan-231000338.html",
-        "timestamp": "2026-02-21 23:10:00",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/colorado-rides-big-start-big-230953093.html",
-        "title": "Colorado rides big start, big finish to 83-69 win over Oklahoma State",
-        "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "id": "https://sports.yahoo.com/articles/keep-going-never-guardiola-rallying-233500958.html",
+        "title": "&#8216;We keep going, never give up&#8217; &#8211; Guardiola&#8217;s rallying call to players ahead of title race finale",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QBQP3sPE7J2INvR4fX3Whw",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/colorado-rides-big-start-big-230953093.html",
-        "timestamp": "2026-02-21 23:09:53",
+        "link": "https://sports.yahoo.com/articles/keep-going-never-guardiola-rallying-233500958.html",
+        "timestamp": "2026-02-21 23:35:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/high-school-girls-basketball-green-230846775.html",
-        "title": "High school girls basketball: Green Canyon rallies in second half to beat Dixie in 4A state championship",
-        "imageUrl": "https://s.yimg.com/os/en/deseret_news_992/84b3a13343d96bc5a2bf8913456bfe9f",
-        "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/high-school-girls-basketball-green-230846775.html",
-        "timestamp": "2026-02-21 23:08:46",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/liam-lawson-reveals-max-verstappen-230846151.html",
-        "title": "Liam Lawson reveals how Max Verstappen supported him after Red Bull demotion",
-        "imageUrl": "https://s.yimg.com/os/en/motorsport_articles_445/c6ef6fea6bd245f55f0571c76883ea97",
+        "id": "https://sports.yahoo.com/articles/rangers-3-cubs-2-well-233500423.html",
+        "title": "Rangers 3, Cubs 2: Well, there were a lot of strikeouts",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tru8LWZ06RmeuaDvnbDNXg",
         "source": "Yahoo Sports",
         "category": "Sports",
-        "link": "https://sports.yahoo.com/articles/liam-lawson-reveals-max-verstappen-230846151.html",
-        "timestamp": "2026-02-21 23:08:46",
+        "link": "https://sports.yahoo.com/articles/rangers-3-cubs-2-well-233500423.html",
+        "timestamp": "2026-02-21 23:35:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/let-overreact-spring-training-game-230839910.html",
-        "title": "Let’s overreact to a spring training game",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SVMRUi6zUThyDYGYaGlHQw",
+        "id": "https://sports.yahoo.com/articles/night-where-manchester-city-had-233500644.html",
+        "title": "On a night where Manchester City had to win a young midfielder made his mark",
+        "imageUrl": "https://s.yimg.com/os/en/esteemed_kompany_articles_332/2cfde1b93772cb5a4c91ed4563989578",
         "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/let-overreact-spring-training-game-230839910.html",
-        "timestamp": "2026-02-21 23:08:39",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/night-where-manchester-city-had-233500644.html",
+        "timestamp": "2026-02-21 23:35:00",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/duke-had-one-request-simulate-230824265.html",
-        "title": "Duke had one request to simulate NCAA Tournament play against Michigan",
-        "imageUrl": "https://s.yimg.com/os/en/the_sporting_news_articles_584/381fc634ad1e90f3e84dc662ce19c903",
+        "id": "https://sports.yahoo.com/articles/texas-baseball-see-photos-longhorns-233444793.html",
+        "title": "Texas baseball: See photos as the Longhorns take on Michigan State Spartans",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Vkm7Wvc3sCHDRSFWw8D5rg",
         "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/duke-had-one-request-simulate-230824265.html",
-        "timestamp": "2026-02-21 23:08:24",
+        "category": "Sports",
+        "link": "https://sports.yahoo.com/articles/texas-baseball-see-photos-longhorns-233444793.html",
+        "timestamp": "2026-02-21 23:34:44",
         "isSaved": 0
     },
     {
-        "id": "https://sports.yahoo.com/articles/pascal-siakam-andrew-nembhard-questionable-230631115.html",
-        "title": "Pascal Siakam, Andrew Nembhard questionable for Pacers vs. Mavericks",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sqJ9zPSm1mdHiW5f.iwd3w",
+        "id": "https://sports.yahoo.com/articles/jose-miranda-stays-hot-leads-233423414.html",
+        "title": "Jose Miranda stays hot, leads Padres to 10-3 win",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UccRxbEXrUyi3bckrofWBg",
         "source": "Yahoo Sports",
         "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/pascal-siakam-andrew-nembhard-questionable-230631115.html",
-        "timestamp": "2026-02-21 23:06:31",
-        "isSaved": 0
-    },
-    {
-        "id": "https://sports.yahoo.com/articles/psg-win-reclaim-ligue-1-230548611.html",
-        "title": "PSG win to reclaim Ligue 1 lead after Lens lose to Monaco",
-        "imageUrl": "https://s.yimg.com/os/en/afp.com/bbf58c0d2479080ea192fc5feddab862",
-        "source": "Yahoo Sports",
-        "category": "Tech",
-        "link": "https://sports.yahoo.com/articles/psg-win-reclaim-ligue-1-230548611.html",
-        "timestamp": "2026-02-21 23:05:48",
+        "link": "https://sports.yahoo.com/articles/jose-miranda-stays-hot-leads-233423414.html",
+        "timestamp": "2026-02-21 23:34:23",
         "isSaved": 0
     },
     {
@@ -2360,22 +2360,22 @@
         "isSaved": 0
     },
     {
-        "id": "https://www.space.com/stargazing/astrophotography/fujifilm-x-m5-review",
-        "title": "Fujifilm X-M5 review — impressive astro in a small package",
-        "imageUrl": "https://cdn.mos.cms.futurecdn.net/4dKYoq2te6yr4RUStyovkH-1280-80.jpg",
-        "source": "Space.com",
-        "category": "Movies",
-        "link": "https://www.space.com/stargazing/astrophotography/fujifilm-x-m5-review",
-        "timestamp": "2026-02-20 14:00:00",
-        "isSaved": 0
-    },
-    {
         "id": "https://www.space.com/stargazing/a-mini-planetary-parade-is-visible-tonight-can-you-spot-them-all-feb-20-2026",
         "title": "A mini 'planetary parade' is visible tonight. Can you spot them all?",
         "imageUrl": "https://cdn.mos.cms.futurecdn.net/5zXCWcE5ri2RzMc3ns7GqF-1280-80.jpg",
         "source": "Space.com",
         "category": "Science",
         "link": "https://www.space.com/stargazing/a-mini-planetary-parade-is-visible-tonight-can-you-spot-them-all-feb-20-2026",
+        "timestamp": "2026-02-20 14:00:00",
+        "isSaved": 0
+    },
+    {
+        "id": "https://www.space.com/stargazing/astrophotography/fujifilm-x-m5-review",
+        "title": "Fujifilm X-M5 review — impressive astro in a small package",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/4dKYoq2te6yr4RUStyovkH-1280-80.jpg",
+        "source": "Space.com",
+        "category": "Movies",
+        "link": "https://www.space.com/stargazing/astrophotography/fujifilm-x-m5-review",
         "timestamp": "2026-02-20 14:00:00",
         "isSaved": 0
     },
@@ -3206,7 +3206,17 @@
         "source": "Investing.com",
         "category": "Business",
         "link": "https://www.investing.com/news/commodities-news/blizzard-warnings-issued-for-new-york-area-as-storm-heads-to-east-coast-4517524",
-        "timestamp": "2026-02-21 23:18:25",
+        "timestamp": "2026-02-21 23:24:47",
+        "isSaved": 0
+    },
+    {
+        "id": "https://www.investing.com/news/world-news/frances-macron-calls-for-calm-ahead-of-march-for-farright-activist-killed-last-week-4517496",
+        "title": "Thousands march in Lyon after French far-right activist killed last week",
+        "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM1K04E_L.jpg",
+        "source": "Investing.com",
+        "category": "Business",
+        "link": "https://www.investing.com/news/world-news/frances-macron-calls-for-calm-ahead-of-march-for-farright-activist-killed-last-week-4517496",
+        "timestamp": "2026-02-21 23:24:30",
         "isSaved": 0
     },
     {
@@ -3290,13 +3300,13 @@
         "isSaved": 0
     },
     {
-        "id": "https://www.investing.com/news/cryptocurrency-news/crypto-holds-steady-amid-inflation-outlook-and-geopolitics-risks-nexo-says-4517532",
-        "title": "Crypto holds steady amid inflation outlook and geopolitics risks, Nexo says",
-        "imageUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=80",
-        "source": "Investing.com",
-        "category": "Tech",
-        "link": "https://www.investing.com/news/cryptocurrency-news/crypto-holds-steady-amid-inflation-outlook-and-geopolitics-risks-nexo-says-4517532",
-        "timestamp": "2026-02-21 20:30:29",
+        "id": "https://variety.com/2026/music/news/bruce-springsteen-ticket-prices-variations-1236669375/",
+        "title": "How Much Are Bruce Springsteen Tickets? The Promised Range for ‘The Promised Land’ Is  $87-$3,007, With Nearly Row-by-Row Variations In-Between",
+        "imageUrl": "https://variety.com/wp-content/uploads/2024/04/BUC_4998.jpg",
+        "source": "Variety",
+        "category": "Movies",
+        "link": "https://variety.com/2026/music/news/bruce-springsteen-ticket-prices-variations-1236669375/",
+        "timestamp": "2026-02-21 23:55:16",
         "isSaved": 0
     },
     {
@@ -3390,13 +3400,13 @@
         "isSaved": 0
     },
     {
-        "id": "https://variety.com/2026/shopping/news/how-to-watch-ufc-fight-night-strickland-vs-hernandez-live-online-free-1236666739/",
-        "title": "UFC Fight Night: Strickland vs. Hernandez Livestream — Here’s How to Watch the MMA Event Online for Free",
-        "imageUrl": "https://variety.com/wp-content/uploads/2026/02/UFC-Fight-Night-Strickland-vs.-Hernandez-Getty-VR-Featured.jpg",
-        "source": "Variety",
-        "category": "Movies",
-        "link": "https://variety.com/2026/shopping/news/how-to-watch-ufc-fight-night-strickland-vs-hernandez-live-online-free-1236666739/",
-        "timestamp": "2026-02-21 19:00:00",
+        "id": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hilary-duff-ashley-tisdale-toxic-mom-group-essay-drama-1236511571/",
+        "title": "Hilary Duff Breaks Silence on “Toxic Mom Group” Drama After Ashley Tisdale’s Essay: “This Is Not New for Me”",
+        "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-2262728036.jpg",
+        "source": "The Hollywood Reporter",
+        "category": "Tech",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hilary-duff-ashley-tisdale-toxic-mom-group-essay-drama-1236511571/",
+        "timestamp": "2026-02-21 23:33:43",
         "isSaved": 0
     },
     {
@@ -3487,16 +3497,6 @@
         "category": "Movies",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/eulogy-tv-industry-1236510632/",
         "timestamp": "2026-02-21 13:03:47",
-        "isSaved": 0
-    },
-    {
-        "id": "https://www.hollywoodreporter.com/movies/movie-news/four-minus-three-wins-europa-cinemas-prize-berlin-1236510621/",
-        "title": "‘Four Minus Three’ Wins Europa Cinemas Prize",
-        "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/FOUR-MINUS-THREE_2Alamode-Film_Polyfilm.jpg",
-        "source": "The Hollywood Reporter",
-        "category": "Movies",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/four-minus-three-wins-europa-cinemas-prize-berlin-1236510621/",
-        "timestamp": "2026-02-21 12:30:00",
         "isSaved": 0
     }
 ]
