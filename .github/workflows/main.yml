@@ -1,7 +1,7 @@
 name: News Auto-Sync
 on:
   schedule:
-    - cron: '0 * * * *' # Runs at the top of every hour
+    - cron: '*/22 * * * *' # Runs at the top of every hour
   workflow_dispatch: # Lets you click a button to run it manually
 
 jobs:
