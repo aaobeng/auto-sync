@@ -22,21 +22,14 @@ USER_AGENTS = [
 ]
 
 SOURCES = [
-    # --- DAILY MAIL ---
     {"name": "Daily Mail Sport", "url": "https://www.dailymail.co.uk/sport/index.rss", "category": "Sports"},
     {"name": "Daily Mail Boxing", "url": "https://www.dailymail.co.uk/sport/boxing/index.rss", "category": "Sports"},
-    
-    # --- THE SUN ---
     {"name": "The Sun - Sport", "url": "https://www.thesun.co.uk/sport/feed/", "category": "Sports"},
     {"name": "The Sun - Football", "url": "https://www.thesun.co.uk/sport/football/feed/", "category": "Sports"},
     {"name": "The Sun - News", "url": "https://www.thesun.co.uk/news/feed/", "category": "General"},
-
-    # --- THE MIRROR ---
     {"name": "Mirror Sport", "url": "https://www.mirror.co.uk/sport/rss.xml", "category": "Sports"},
     {"name": "Mirror Football", "url": "https://www.mirror.co.uk/sport/football/rss.xml", "category": "Sports"},
     {"name": "Mirror News", "url": "https://www.mirror.co.uk/news/rss.xml", "category": "General"},
-
-    # --- GLOBAL & TECH ---
     {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "category": "Sports"},
     {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml", "category": "General"},
     {"name": "Reuters Global", "url": "https://news.google.com/rss/search?q=world+news+when:24h", "category": "World"},
@@ -44,7 +37,6 @@ SOURCES = [
 ]
 
 def get_random_headers():
-    """Generates fresh headers and random referers for every request."""
     return {
         "User-Agent": random.choice(USER_AGENTS),
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
@@ -56,55 +48,65 @@ def get_image(entry):
     url = None
     link = entry.get('link', '')
 
-    # 1. RSS MEDIA TAGS (Fastest)
+    # 1. RSS MEDIA TAGS
     if 'media_content' in entry and len(entry.media_content) > 0:
         url = entry.media_content[0].get('url')
     elif 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
         url = entry.media_thumbnail[-1].get('url')
 
-    # 2. AT-ALL-COSTS DEEP SCRAPE (For Mirror, Sun, and ESPN Video)
+    # 2. AT-ALL-COSTS DEEP SCRAPE
     if not url or "unsplash" in url:
         try:
-            # Human Delay: Mimics a user 'clicking' and 'scrolling'
+            # Human Delay: Mimics a user reading/scrolling
             time.sleep(random.uniform(2.0, 4.0)) 
             
             resp = requests.get(link, timeout=10, headers=get_random_headers())
             if resp.status_code == 200:
+                # A. Check Standard Meta Tags
                 soup = BeautifulSoup(resp.text, 'html.parser')
-                
-                # Check Meta (OG) tags
                 meta = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
                 if meta:
                     url = meta.get("content")
                 
-                # Check JSON-LD (Common in Mirror/Daily Mail for video/top stories)
+                # B. THE SILVER BULLET: Regex Hunt (For ESPN/Video Posters hidden in JS)
+                if not url:
+                    # Rips any link from ESPN's CDN out of the raw JavaScript text
+                    hidden_images = re.findall(r'(https://a\d?\.espncdn\.com/[^"\']+\.(?:jpg|png))', resp.text)
+                    if hidden_images:
+                        for img in hidden_images:
+                            if '16x9' in img or 'picture' in img:
+                                url = img
+                                break
+                        if not url: url = hidden_images[0]
+
+                # C. Check JSON-LD (For Mirror/Daily Mail video stories)
                 if not url:
                     scripts = soup.find_all("script", type="application/ld+json")
                     for s in scripts:
                         try:
                             data = json.loads(s.string)
-                            if 'image' in data:
-                                if isinstance(data['image'], dict): url = data['image'].get('url')
-                                else: url = data['image']
-                                break
+                            items = data if isinstance(data, list) else [data]
+                            for item in items:
+                                if 'image' in item:
+                                    url = item['image'].get('url') if isinstance(item['image'], dict) else item['image']
+                                    break
+                            if url: break
                         except: continue
         except: pass
 
-    # 3. SPEED & SPINNER FIX: Image Resizing
+    # 3. SPEED & SPINNER FIX: Optimization for Flutter
     if url and isinstance(url, str) and len(url) > 10:
-        # Clean the URL
-        url = url.split('?')[0]
+        url = url.split('?')[0] # Remove junk tracking
         if url.startswith('//'): url = 'https:' + url
         
-        # Mirror/Sun often use massive URLs. We shrink them for Flutter.
-        url = re.sub(r'/\d+x\d+/', '/600x450/', url)
-        if "espn" in url: url += "?width=600"
+        # Shrink to 400px - This stops the purple spinner lag in Flutter
+        url = re.sub(r'/\d+x\d+/', '/400x300/', url)
+        if "espn" in url: url += "?width=400"
         if "thesun.co.uk" in url: url = url.replace("original", "thumbnail")
         
         return url
     
-    # Solid default if nothing works
-    return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80"
+    return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80"
 
 # --- EXECUTION ---
 all_articles = []
@@ -113,16 +115,13 @@ seen_links = set()
 for src in SOURCES:
     print(f"🔄 Scrutinizing {src['name']}...")
     try:
-        # Rotate user identity for the RSS fetch
         feedparser.USER_AGENT = random.choice(USER_AGENTS)
         feed = feedparser.parse(src['url'])
         
-        # Take top 10 to keep the Flutter JSON fast
         for entry in feed.entries[:10]:
             link = entry.get('link', '')
             if not link or link in seen_links: continue
             
-            # Deep Scrape occurs here with human delays
             img = get_image(entry)
             
             all_articles.append({
@@ -140,8 +139,8 @@ for src in SOURCES:
     except Exception as e:
         print(f"❌ Error with {src['name']}: {e}")
 
-# Save results for your Flutter App
+# Final JSON Save
 with open(f'{DATA_DIR}/news.json', 'w', encoding='utf-8') as f:
     json.dump(all_articles, f, indent=4, ensure_ascii=False)
 
-print(f"✅ SUCCESS! {len(all_articles)} items ready for Flutter.")
+print(f"✅ SUCCESS! {len(all_articles)} items processed.")
