@@ -2,7 +2,7 @@ name: News Auto-Sync
 
 on:
   schedule:
-    # Triggering at minutes 7, 29, and 51 to avoid heavy server traffic at :00
+    # Triggering at 22 minutes past the hour
     - cron: '22 * * * *' 
   workflow_dispatch: # Allows manual triggering
 
@@ -14,10 +14,13 @@ jobs:
       
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4 # Updated to v4 for latest security/speed
+        uses: actions/checkout@v4
+        with:
+          # CRITICAL FIX 1: Fetch all history so the bot can perform a clean rebase
+          fetch-depth: 0 
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated to v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -39,6 +42,16 @@ jobs:
           git config --global user.name 'AutoSportSync Bot'
           git config --global user.email 'bot@autosportsync.com'
           git add .
-          # Ensures the workflow doesn't fail if there are no new news updates
-          git commit -m "Mega Update: $(date)" || echo "No changes to commit"
-          git push
+          
+          # CRITICAL FIX 2 & 3: Smartly check for changes, pull new remote code, and push
+          if ! git diff-index --quiet HEAD; then
+            echo "Changes detected. Committing and pushing..."
+            git commit -m "Mega Update: $(date)"
+            
+            # Pause and fetch any remote changes made by you or other bots first!
+            git pull --rebase origin main
+            
+            git push origin main
+          else
+            echo "No new news data to commit. Skipping push!"
+          fi
