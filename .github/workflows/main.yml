@@ -2,7 +2,8 @@ name: News Auto-Sync
 
 on:
   schedule:
-    - cron: '*/22 * * * *' # Runs every 22nd minute
+    # Triggering at minutes 7, 29, and 51 to avoid heavy server traffic at :00
+    - cron: '22 * * * *' 
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -13,10 +14,10 @@ jobs:
       
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4 for latest security/speed
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Updated to v5
         with:
           python-version: '3.10'
 
