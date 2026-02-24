@@ -151,6 +151,9 @@ for src in SOURCES:
             
             img = get_image(entry)
             
+           # Try to grab the official publish time. If the site hides it, fall back to the bot's current time.
+            published_time = entry.get('published') or entry.get('updated') or datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
             article_data = {
                 "id": link,
                 "title": entry.get('title', 'No Title'),
@@ -158,7 +161,7 @@ for src in SOURCES:
                 "source": src['name'],
                 "category": src['category'],
                 "link": link,
-                "timestamp": datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                "timestamp": published_time, # <--- NOW IT USES THE REAL DATE
                 "isSaved": 0
             }
             
