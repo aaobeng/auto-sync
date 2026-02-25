@@ -1,6 +1,26 @@
 {
     "Football": [
         {
+            "id": "https://www.thesun.co.uk/sport/38340472/real-madrid-raul-asencio-stretchered-off-champions-league-benfica/",
+            "title": "Real Madrid star Raul Asencio stretchered off after sickening clash with team-mate in Champions League game vs Benfica",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2FHB-OFF-PLATFORM-ASCENCIO.jpg",
+            "source": "The Sun - Football",
+            "category": "Football",
+            "link": "https://www.thesun.co.uk/sport/38340472/real-madrid-raul-asencio-stretchered-off-champions-league-benfica/",
+            "timestamp": "2026-02-25 21:41:21",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/sport/38340269/newcastle-lloyd-kelly-kicks-tunnel-bizarre-red-card/",
+            "title": "‘Never seen that before’ – Fuming Newcastle flop Lloyd Kelly KICKS tunnel after he is sent off in bizarre situation",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2FDF-OP-KELLY-2.jpg",
+            "source": "The Sun - Football",
+            "category": "Football",
+            "link": "https://www.thesun.co.uk/sport/38340269/newcastle-lloyd-kelly-kicks-tunnel-bizarre-red-card/",
+            "timestamp": "2026-02-25 21:25:17",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.thesun.co.uk/sport/38339583/chelsea-cole-palmer-girlfriend-olivia-holder-sideboob-dress/",
             "title": "Chelsea star Cole Palmer’s girlfriend shows off major sideboob as she goes braless in daring dress",
             "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2FDF-OP-PALMER_f10cab.jpg",
@@ -81,23 +101,13 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/sport/38337881/gyokeres-arsenal-missing-link-thierry-henry-ray-parlour/",
-            "title": "Gyokeres tipped to be ‘missing link’ that pushes Arsenal to title after playing like ‘prime Thierry Henry’",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fah-OFF-PLATFORM-gyokeres-link.jpg",
-            "source": "The Sun - Football",
+            "id": "https://www.mirror.co.uk/sport/football/news/breaking-raul-asencio-real-madrid-36782131",
+            "title": "Real Madrid star leaves pitch on a stretcher and in neck brace after horror clash",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782166.ece/ALTERNATES/s615/0_GettyImages-2263002934.jpg",
+            "source": "Mirror Football",
             "category": "Football",
-            "link": "https://www.thesun.co.uk/sport/38337881/gyokeres-arsenal-missing-link-thierry-henry-ray-parlour/",
-            "timestamp": "2026-02-25 17:55:50",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/sport/38336959/england-play-hill-dickinson-stadium-lionesses/",
-            "title": "England set to play at £800million Premier League stadium for first time ever",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Falessia-russo-england-celebrates-scoring-1012755938.jpg",
-            "source": "The Sun - Football",
-            "category": "Football",
-            "link": "https://www.thesun.co.uk/sport/38336959/england-play-hill-dickinson-stadium-lionesses/",
-            "timestamp": "2026-02-25 17:16:13",
+            "link": "https://www.mirror.co.uk/sport/football/news/breaking-raul-asencio-real-madrid-36782131",
+            "timestamp": "2026-02-25 21:40:12",
             "isSaved": 0
         },
         {
@@ -191,16 +201,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-kai-man-utd-36781175",
-            "title": "Kai Rooney relaxes golden rule for dad Wayne as Man Utd team-mate outshines him",
-            "imageUrl": "https://i2-prod.dailystar.co.uk/incoming/article36781232.ece/ALTERNATES/s615/0_Manchester-United-U18-v-Derby-County-U18-U18-Premier-League.jpg",
-            "source": "Mirror Football",
-            "category": "Football",
-            "link": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-kai-man-utd-36781175",
-            "timestamp": "2026-02-25 17:46:44",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.skysports.com/tennis/news/12040/13512180/jack-drapers-atp-tour-comeback-from-injury-ended-by-arthur-rinderknech-at-dubai-tennis-championships-after-gruelling-encounter",
             "title": "Draper's tour comeback ended by Rinderknech in Dubai",
             "imageUrl": "https://e0.365dm.com/26/02/400x300/skysports-jack-draper-tennis_7175088.jpg",
@@ -208,6 +208,16 @@
             "category": "Football",
             "link": "https://www.skysports.com/tennis/news/12040/13512180/jack-drapers-atp-tour-comeback-from-injury-ended-by-arthur-rinderknech-at-dubai-tennis-championships-after-gruelling-encounter",
             "timestamp": "2026-02-25 20:30:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.skysports.com/podcasts/36578/13326329/sky-sports-netball-off-the-court-with-tamsin-greenway-and-tracey-neville",
+            "title": "Off the Court: Netball Super Cup reflections and ranking England players",
+            "imageUrl": "https://e0.365dm.com/26/02/400x300/skysports-netball-off-the-court_7173659.png",
+            "source": "Sky Sports Football",
+            "category": "Football",
+            "link": "https://www.skysports.com/podcasts/36578/13326329/sky-sports-netball-off-the-court-with-tamsin-greenway-and-tracey-neville",
+            "timestamp": "2026-02-25 21:36:00",
             "isSaved": 0
         },
         {
@@ -222,7 +232,7 @@
         },
         {
             "id": "https://www.skysports.com/football/news/12040/13512052/sheffield-wednesday-takeover-consortium-led-by-dunfermline-co-owner-james-bord-withdraws-interest-in-beleaguered-owls",
-            "title": "Consortium seeking to buy Sheff Wed withdraws interest",
+            "title": "Sheff Wed preferred bidders withdraw as Ashley in contact with administrators",
             "imageUrl": "https://e0.365dm.com/25/10/400x300/skysports-sheffield-wednesday_7046544.jpg",
             "source": "Sky Sports Football",
             "category": "Football",
@@ -291,23 +301,13 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-            "title": "World Cup latest: Infantino confident in Mexico staging matches despite violence",
-            "imageUrl": "https://e0.365dm.com/26/02/400x300/skysports-mexico-akron-stadium_7174572.jpg",
-            "source": "Sky Sports Football",
-            "category": "Football",
-            "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-            "timestamp": "2026-02-25 10:43:00",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.theguardian.com/football/live/2026/feb/25/real-madrid-v-benfica-champions-league-knockout-round-playoff-second-leg-live",
             "title": "Real Madrid v Benfica: Champions League knockout round playoff, second leg – live",
             "imageUrl": "https://i.guim.co.uk/img/media/d4e4b67f9317d7378fe6d5181f437d92678a78de/209_49_2258_1807/master/2258.jpg",
             "source": "The Guardian Football",
             "category": "Football",
             "link": "https://www.theguardian.com/football/live/2026/feb/25/real-madrid-v-benfica-champions-league-knockout-round-playoff-second-leg-live",
-            "timestamp": "2026-02-25 20:52:42",
+            "timestamp": "2026-02-25 21:40:13",
             "isSaved": 0
         },
         {
@@ -399,9 +399,139 @@
             "link": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
             "timestamp": "2022-11-14 09:05:50",
             "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4009258/real-madrid-raul-asencio-injury-neck-brace-champions-league/",
+            "title": "Real Madrid star stretchered off in neck brace after collision with teammate as match stopped",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2025/12/17-raul-asencio-lies-motionless-1062066136.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4009258/real-madrid-raul-asencio-injury-neck-brace-champions-league/",
+            "timestamp": "2026-02-25 21:52:51",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4009116/atalanta-borussia-dortmund-three-red-cards-penalty-champions-league/",
+            "title": "Last-gasp penalty and THREE red cards given as Champions League tie descends into chaos",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/DF-TALKSPORT-ATALANTA.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4009116/atalanta-borussia-dortmund-three-red-cards-penalty-champions-league/",
+            "timestamp": "2026-02-25 20:09:41",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4009036/ivan-toney-golden-boot-cristiano-ronaldo-saudi-pro-league/",
+            "title": "Ivan Toney determined to deny Cristiano Ronaldo making history",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4009036/ivan-toney-golden-boot-cristiano-ronaldo-saudi-pro-league/",
+            "timestamp": "2026-02-25 19:26:37",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4007672/alan-brazil-tottenham-former-manager-pochettino/",
+            "title": "Alan Brazil gobsmacked Tottenham Hotspur have not asked former manager to come back",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/general-view-inside-stadium-prior-1059784361.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4007672/alan-brazil-tottenham-former-manager-pochettino/",
+            "timestamp": "2026-02-25 18:18:28",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008290/manchester-sesko-benjamin-sesko-viktor-gyokeres-hugo-ekitike/",
+            "title": "Manchester United star labelled better signing than Liverpool&#8217;s Hugo Ekitike and Arsenal&#8217;s Viktor Gyokeres",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008290/manchester-sesko-benjamin-sesko-viktor-gyokeres-hugo-ekitike/",
+            "timestamp": "2026-02-25 17:46:58",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008295/liverpool-arne-slot-dominik-szoboszlai-experiment-shake-up/",
+            "title": "Arne Slot told to stop Dominik Szoboszlai experiment and drop Liverpool first team star in major shake-up",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/liverpools-manager-arne-slot-looks-1061383281.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008295/liverpool-arne-slot-dominik-szoboszlai-experiment-shake-up/",
+            "timestamp": "2026-02-25 17:24:29",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008173/simon-jordan-premier-league-stadium-plans-newcastle/",
+            "title": "Simon Jordan urges Premier League club to splurge on new stadium to &#8216;level up&#8217;",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/2025-26-league-phase-md7-1062019156.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008173/simon-jordan-premier-league-stadium-plans-newcastle/",
+            "timestamp": "2026-02-25 16:58:03",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008292/tottenham-hotspur-transfers-exodus-cristian-romero-rumours/",
+            "title": "&#8216;Disgraceful&#8217; Tottenham Hotspur star told to leave as club urged to make summer firesale",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008292/tottenham-hotspur-transfers-exodus-cristian-romero-rumours/",
+            "timestamp": "2026-02-25 16:47:46",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008258/arsenal-spurs-relegation-embarrassing-season/",
+            "title": "Arsenal can have a more embarrassing season than Tottenham even if Spurs are relegated",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/HB-TALKSPORT-MASTER-ARSENAL-TOTTENHAM-BAD_OP.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008258/arsenal-spurs-relegation-embarrassing-season/",
+            "timestamp": "2026-02-25 15:59:02",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008102/sheffield-wednesday-takeover-collapse-efl-championship/",
+            "title": "Sheffield Wednesday takeover collapses with ex-Premier League owner waiting in the wings",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/general-view-hillsborough-stadium-prior-1059106250.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008102/sheffield-wednesday-takeover-collapse-efl-championship/",
+            "timestamp": "2026-02-25 14:32:50",
+            "isSaved": 0
         }
     ],
     "News": [
+        {
+            "id": "https://www.mirror.co.uk/money/majority-jobs-go-popular-soft-36781848",
+            "title": "Majority of jobs to go at popular soft drink firm in huge blow to staff",
+            "imageUrl": "https://i2-prod.mirror.co.uk/news/uk-news/article36781847.ece/ALTERNATES/s615/0_CFR_NJL_280918fentimans_02.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/money/majority-jobs-go-popular-soft-36781848",
+            "timestamp": "2026-02-25 21:43:42",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/uk-news/major-update-after-two-workers-36782021",
+            "title": "Major update after two workers found frozen to death at chicken factory",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782062.ece/ALTERNATES/s615/0_Coronavirus-Thu-Aug-27-2020.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/uk-news/major-update-after-two-workers-36782021",
+            "timestamp": "2026-02-25 21:36:25",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/uk-news/breaking-young-footballer-dies-after-36781992",
+            "title": "Young footballer dies after falling in river under the influence of drugs",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article35394615.ece/ALTERNATES/s615/1_PAY-WNS_120625_Teen_River_Death_006JPG.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/uk-news/breaking-young-footballer-dies-after-36781992",
+            "timestamp": "2026-02-25 21:01:28",
+            "isSaved": 0
+        },
         {
             "id": "https://www.mirror.co.uk/news/uk-news/breaking-woman-tragically-found-dead-36780015",
             "title": "BREAKING: Woman tragically found dead in woodland as police swarm scene",
@@ -460,36 +590,6 @@
             "category": "News",
             "link": "https://www.mirror.co.uk/news/us-news/dad-starved-beat--tortured-36781199",
             "timestamp": "2026-02-25 19:55:23",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/world-news/breaking-multiple-people-dead-cuban-36780018",
-            "title": "Multiple people dead as Cuban forces open fire on US vessel off coast",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781725.ece/ALTERNATES/s615/0_Cuban-Military-Exercise-Near-Havana-Cuba.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/world-news/breaking-multiple-people-dead-cuban-36780018",
-            "timestamp": "2026-02-25 19:41:53",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/husband-accused-raping-wife-claims-36781261",
-            "title": "Husband accused of raping wife claims audio of 'abuse' was 'kinky bondage sex'",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781483.ece/ALTERNATES/s615/0_Christopher-Trybus-court-case.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/husband-accused-raping-wife-claims-36781261",
-            "timestamp": "2026-02-25 19:23:23",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/breaking-body-found-search-man-36781627",
-            "title": "Body found in search for man, 84, who disappeared from Weir Meadow Holiday Park",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781636.ece/ALTERNATES/s615/0_Malcolm-Hunt.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/breaking-body-found-search-man-36781627",
-            "timestamp": "2026-02-25 19:19:19",
             "isSaved": 0
         },
         {
@@ -584,12 +684,12 @@
         },
         {
             "id": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-            "title": "Four shot dead on US-registered speedboat by border guard, Cuba says",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0049/live/a95b7df0-1282-11f1-8c67-57f0ddb6f757.jpg",
+            "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d04a/live/67d87ed0-1293-11f1-968e-4d50907d82c2.jpg",
             "source": "BBC News",
             "category": "News",
             "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 20:53:23",
+            "timestamp": "2026-02-25 21:51:46",
             "isSaved": 0
         }
     ],
@@ -689,21 +789,21 @@
         {
             "id": "https://www.dailymail.co.uk/sport/football/article-15590873/Real-Madrid-vs-Benfica-2025-26-knockout-phase-Champions-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "title": "Real Madrid vs Benfica - Champions League LIVE: Latest score, team news and updates as Vinicius Jr racism storm hangs over second leg tie",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/20/106678999-0-image-a-24_1772050259886.jpg",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/20/106679933-0-image-a-9_1772052981058.jpg",
             "source": "Daily Mail Sport",
             "category": "Sports",
             "link": "https://www.dailymail.co.uk/sport/football/article-15590873/Real-Madrid-vs-Benfica-2025-26-knockout-phase-Champions-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 20:49:06",
+            "timestamp": "2026-02-25 21:48:43",
             "isSaved": 0
         },
         {
-            "id": "https://www.dailymail.co.uk/sport/winterolympics/article-15591857/olympics-alysa-liu-father-china-spy-truth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Alysa Liu's father tells the real story of how brush with Chinese spies came close to derailing daughter's Olympic skating dream",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/17/106676059-0-image-a-21_1772041260584.jpg",
+            "id": "https://www.dailymail.co.uk/sport/football/article-15592461/Edinson-Cavani-retire-Boca-Juniors-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Edinson Cavani, 39, told he 'HAS to stop playing' by World Cup winner as his twilight years in Argentina turn sour - after fans booed ex-Man United star amid dismal spell at Boca Juniors",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/18/106677341-0-image-a-31_1772045908999.jpg",
             "source": "Daily Mail Sport",
             "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/winterolympics/article-15591857/olympics-alysa-liu-father-china-spy-truth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 20:39:41",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15592461/Edinson-Cavani-retire-Boca-Juniors-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 21:43:20",
             "isSaved": 0
         },
         {
@@ -713,7 +813,27 @@
             "source": "Daily Mail Sport",
             "category": "Sports",
             "link": "https://www.dailymail.co.uk/sport/football/article-15592811/Atalanta-dump-Borussia-Dortmund-Champions-League-final-kick-game-brutal-high-tackle-leads-THREE-red-cards-blood-soaked-player.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 20:39:00",
+            "timestamp": "2026-02-25 21:35:33",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15592937/Benfica-fans-Spanish-riot-police-Real-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Benfica fans clash with Spanish riot police in violent scenes ahead of Real Madrid's Champions League game - before large sections of supporters BOO Vinicius Jr during the fixture",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/21/106680229-0-image-a-46_1772053958218.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15592937/Benfica-fans-Spanish-riot-police-Real-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 21:34:55",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15592769/Xavi-World-Cup-Morocco-Barcelona-Walid-Regragui.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Xavi is the 'leading candidate' to land top international job just months before the World Cup - as he weighs up managerial return two years after Barcelona exit",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/20/106679885-0-image-a-42_1772053036658.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15592769/Xavi-World-Cup-Morocco-Barcelona-Walid-Regragui.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 20:58:57",
             "isSaved": 0
         },
         {
@@ -734,16 +854,6 @@
             "category": "Sports",
             "link": "https://www.dailymail.co.uk/sport/rugbyunion/article-15592361/England-Alex-Mitchell-injury-Raffi-Quirke-Six-Nations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "timestamp": "2026-02-25 20:14:08",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15592461/Edinson-Cavani-retire-Boca-Juniors-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Edinson Cavani, 39, told he 'HAS to stop playing' by World Cup winner as his twilight years in Argentina turn sour - after fans booed ex-Man United star amid dismal spell at Boca Juniors",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/18/106677341-0-image-a-31_1772045908999.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15592461/Edinson-Cavani-retire-Boca-Juniors-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 19:36:08",
             "isSaved": 0
         },
         {
@@ -774,16 +884,6 @@
             "category": "Sports",
             "link": "https://www.dailymail.co.uk/sport/football/article-15557337/chelsea-liam-rosenior-changing-room-rants.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "timestamp": "2026-02-25 17:54:54",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15591761/Proud-father-Wayne-Rooney-watches-son-Kai-plays-Man-United-18s-youngsters-wonderkid-team-mate-steals-scores-AGAIN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Proud father Wayne Rooney watches on as son Kai plays for Man United Under 18s... but youngster's wonderkid team-mate steals the show as he scores AGAIN!",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/15/106672731-0-image-a-8_1772035109028.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15591761/Proud-father-Wayne-Rooney-watches-son-Kai-plays-Man-United-18s-youngsters-wonderkid-team-mate-steals-scores-AGAIN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 17:37:55",
             "isSaved": 0
         },
         {
@@ -1019,6 +1119,46 @@
     ],
     "Ghana News": [
         {
+            "id": "https://www.myjoyonline.com/ghana-reaffirms-commitment-multilingual-education-at-international-mother-language-day-event-in-uk-parliament/",
+            "title": "Ghana reaffirms commitment multilingual education at International Mother Language Day event in UK Parliament",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/c909529b-40e3-4fbb-8f40-e65eeecafa4f-1024x768.jpeg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/ghana-reaffirms-commitment-multilingual-education-at-international-mother-language-day-event-in-uk-parliament/",
+            "timestamp": "2026-02-25 21:42:16",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/nvidia-forecasts-first-quarter-sales-above-estimates/",
+            "title": "Nvidia forecasts first-quarter sales above estimates",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-2325-1024x576.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/nvidia-forecasts-first-quarter-sales-above-estimates/",
+            "timestamp": "2026-02-25 21:32:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/fda-orders-removal-of-mixed-drinks-containing-both-alcohol-and-stimulants-from-market-by-march/",
+            "title": "FDA orders removal of mixed drinks containing both alcohol and stimulants from market by March",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/FDA.jpg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/fda-orders-removal-of-mixed-drinks-containing-both-alcohol-and-stimulants-from-market-by-march/",
+            "timestamp": "2026-02-25 21:12:35",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/nothing-new-you-just-renamed-bawumias-g4r-policy-ganrap-gideon-boako-to-finance-minister/",
+            "title": "Nothing new; you just renamed Bawumia’s G4R policy GANRAP – Gideon Boako to Finance Minister",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/a8b71dd0-92be-4f0a-a194-5fcd6a1f5bd3-772x1024.jpeg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/nothing-new-you-just-renamed-bawumias-g4r-policy-ganrap-gideon-boako-to-finance-minister/",
+            "timestamp": "2026-02-25 21:03:21",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.myjoyonline.com/john-jinapor-commissions-mbh-power-ghana-ltd-s-energy-meter-manufacturing-unit/",
             "title": "John Jinapor commissions MBH Power Ghana Ltd.’s energy meter manufacturing unit",
             "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/56af3c8d-c837-4319-95c0-524a1d5db1d4-1024x682.jpeg",
@@ -1079,52 +1219,52 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/accras-power-demand-can-consume-akosombo-output-ecg/",
-            "title": "Accra’s power demand can consume Akosombo output – ECG",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/ECG.jpg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Ghanaians-want-employment-not-economic-theories-Minority-2023316",
+            "title": "Ghanaians want employment, not economic theories - Minority",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/122/12200813.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/accras-power-demand-can-consume-akosombo-output-ecg/",
-            "timestamp": "2026-02-25 20:04:23",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Ghanaians-want-employment-not-economic-theories-Minority-2023316",
+            "timestamp": "2026-02-25 21:30:15",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/award-winning-photographer-tolani-alli-encourages-creatives-to-build-lasting-impact/",
-            "title": "Award-winning photographer, Tolani Alli encourages creatives to build lasting impact",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/MG_0955.JPG-1-1024x768.jpeg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Infantino-commends-Ghana-football-progress-during-10-year-reign-2023314",
+            "title": "Infantino commends Ghana football progress during 10-year reign",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/719/71995443.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/award-winning-photographer-tolani-alli-encourages-creatives-to-build-lasting-impact/",
-            "timestamp": "2026-02-25 19:54:23",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Infantino-commends-Ghana-football-progress-during-10-year-reign-2023314",
+            "timestamp": "2026-02-25 20:58:55",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/5g-by-2027-govt-directive-puts-telecom-regulator-on-the-clock/",
-            "title": "5G by 2027: Gov’t directive puts telecom regulator on the clock",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/George.jpg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/GH-12-million-for-Black-Stars-while-cocoa-farmers-struggle-Old-Tafo-MP-questions-2023313",
+            "title": "GH¢12 million for Black Stars while cocoa farmers struggle? - Old Tafo MP questions",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/927/92739173.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/5g-by-2027-govt-directive-puts-telecom-regulator-on-the-clock/",
-            "timestamp": "2026-02-25 19:49:10",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/GH-12-million-for-Black-Stars-while-cocoa-farmers-struggle-Old-Tafo-MP-questions-2023313",
+            "timestamp": "2026-02-25 20:57:33",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/osei-assibey-antwi-engages-bekwai-mp-ralph-poku-adusei-as-counsel-in-gh%c2%a2530m-financial-loss-case/",
-            "title": "Osei Assibey Antwi engages Bekwai MP Ralph Poku-Adusei as counsel in GH¢530m financial loss case",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/84f242de-f7bd-4602-9cfb-b4e0e8895fce-683x1024.jpeg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Heavy-duty-equipment-operators-petition-Ghana-Shippers-Authority-2023312",
+            "title": "Heavy-duty equipment operators petition Ghana Shippers’ Authority",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/790/79053216.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/osei-assibey-antwi-engages-bekwai-mp-ralph-poku-adusei-as-counsel-in-gh%c2%a2530m-financial-loss-case/",
-            "timestamp": "2026-02-25 19:29:39",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Heavy-duty-equipment-operators-petition-Ghana-Shippers-Authority-2023312",
+            "timestamp": "2026-02-25 20:53:35",
             "isSaved": 0
         },
         {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/My-Son-is-traumatised-fighting-to-heal-Father-of-assaulted-Obrachire-student-speaks-out-2023311",
-            "title": "‘My Son is traumatised, fighting to heal’ - Father of assaulted Obrachire student speaks out",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/My-son-is-traumatised-fighting-to-heal-Father-of-assaulted-Obrachire-student-speaks-out-2023311",
+            "title": "‘My son is traumatised, fighting to heal’ - Father of assaulted Obrachire student speaks out",
             "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/314/31491195.jpg",
             "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/My-Son-is-traumatised-fighting-to-heal-Father-of-assaulted-Obrachire-student-speaks-out-2023311",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/My-son-is-traumatised-fighting-to-heal-Father-of-assaulted-Obrachire-student-speaks-out-2023311",
             "timestamp": "2026-02-25 20:50:14",
             "isSaved": 0
         },
@@ -1177,46 +1317,6 @@
             "link": "https://www.ghanaweb.com/GhanaHomePage/business/Finance-Minister-unveils-national-policy-designed-to-build-external-reserves-2023300",
             "timestamp": "2026-02-25 18:03:03",
             "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/business/GIFF-demands-independent-probe-into-18-truck-BOE-incident-warns-against-transit-policy-backlash-2023299",
-            "title": "GIFF demands independent probe into 18-truck BOE incident, warns against transit policy backlash",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/788/78879800.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/business/GIFF-demands-independent-probe-into-18-truck-BOE-incident-warns-against-transit-policy-backlash-2023299",
-            "timestamp": "2026-02-25 18:02:10",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghanaian-nationals-confirmed-as-prisoners-of-war-in-Ukraine-2023298",
-            "title": "Ghanaian nationals confirmed as prisoners of war in Ukraine",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/682/68281569.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghanaian-nationals-confirmed-as-prisoners-of-war-in-Ukraine-2023298",
-            "timestamp": "2026-02-25 17:58:43",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/4-police-officers-among-41-injured-in-bee-attack-at-Gomoa-East-2023296",
-            "title": "4 police officers among 41 injured in bee attack at Gomoa East",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/309/30989058.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/4-police-officers-among-41-injured-in-bee-attack-at-Gomoa-East-2023296",
-            "timestamp": "2026-02-25 17:41:55",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Dr-Clement-Apaak-justifies-consumption-of-dog-and-cat-meat-2023295",
-            "title": "Dr Clement Apaak justifies consumption of dog and cat meat",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/889/88987235.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Dr-Clement-Apaak-justifies-consumption-of-dog-and-cat-meat-2023295",
-            "timestamp": "2026-02-25 17:41:16",
-            "isSaved": 0
         }
     ],
     "World": [
@@ -1227,7 +1327,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-            "timestamp": "2026-02-25 20:59:14",
+            "timestamp": "2026-02-25 21:54:14",
             "isSaved": 0
         },
         {
@@ -1257,7 +1357,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://cnn.it/411KYN7",
-            "timestamp": "2026-02-25 20:59:14",
+            "timestamp": "2026-02-25 21:54:14",
             "isSaved": 0
         },
         {
@@ -1267,7 +1367,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-            "timestamp": "2026-02-25 20:59:14",
+            "timestamp": "2026-02-25 21:54:14",
             "isSaved": 0
         },
         {
@@ -1423,11 +1523,11 @@
         {
             "id": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
             "title": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
-            "imageUrl": "https://static01.nyt.com/images/2026/02/25/multimedia/25cuba-boat-prmo/25cuba-boat-prmo-mediumSquareAt3X.png",
+            "imageUrl": "https://static01.nyt.com/images/2026/02/25/multimedia/25cuba-boat-flags-phjf/25cuba-boat-flags-phjf-mediumSquareAt3X.jpg",
             "source": "NYT World",
             "category": "World",
             "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
-            "timestamp": "2026-02-25 20:57:47",
+            "timestamp": "2026-02-25 21:50:40",
             "isSaved": 0
         },
         {
@@ -1534,7 +1634,7 @@
         },
         {
             "id": "https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump",
-            "title": "Trump claims he’ll make data centers pay for their own power supply",
+            "title": "Trump claims tech companies will sign deals next week to pay for their own power supply",
             "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg",
             "source": "The Verge",
             "category": "Tech",
@@ -1723,6 +1823,16 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.wired.com/story/everyone-speaks-incel-now/",
+            "title": "Everyone Speaks Incel Now",
+            "imageUrl": "https://media.wired.com/photos/69964e836a79d569b06431c0/191:100/w_1280,c_limit/Mog-Goblins-and-Why-We-All-Use-Incel-Speak-Now-Culture.jpg",
+            "source": "Wired",
+            "category": "Tech",
+            "link": "https://www.wired.com/story/everyone-speaks-incel-now/",
+            "timestamp": "2026-02-25 20:59:50",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.wired.com/story/openai-hires-riley-walz/",
             "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
             "imageUrl": "https://media.wired.com/photos/699e0e94458686361c3c0d25/191:100/w_1280,c_limit/OpenAI-Hires-Riley-Walz-Business-2236469090.jpg",
@@ -1813,13 +1923,63 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop/",
-            "title": "Kubuntu Focus Zr Gen 1 Review: A Powerhouse Linux Laptop",
-            "imageUrl": "https://media.wired.com/photos/699e38bebbe6062950a501c3/191:100/w_1280,c_limit/Review-%20Kubuntu%20Focus%20Zr%20Gen%201%20Linux%20Laptop.png",
-            "source": "Wired",
+            "id": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
+            "title": "Galaxy Unpacked 2026 Live Updates: Samsung's S26 Reveal Is Here",
+            "imageUrl": "https://www.cnet.com/a/img/resize/4b3deeea01b3008b51766628c13c5e19393b1dcf/hub/2026/02/19/9d93598b-de0a-4044-949b-ff6b0592a797/samsung-unpacked-live-blog.jpg",
+            "source": "CNET",
             "category": "Tech",
-            "link": "https://www.wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop/",
-            "timestamp": "2026-02-25 11:30:00",
+            "link": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
+            "timestamp": "2026-02-25 21:01:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-26-991/",
+            "title": "Today's NYT Connections Hints, Answers and Help for Feb. 26, #991",
+            "imageUrl": "https://www.cnet.com/a/img/resize/3986ca4ac5b498c6114118e0dfa25b2a05ae6531/hub/2025/03/26/c70b0a32-884a-4379-b77b-de75776952ba/nyt-word-games-connections-2798.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-26-991/",
+            "timestamp": "2026-02-25 21:00:58",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-26-1713/",
+            "title": "Today's Wordle Hints, Answer and Help for Feb. 26, #1713",
+            "imageUrl": "https://www.cnet.com/a/img/resize/837b400de41f50a97b52a8c799b193be01cea440/hub/2024/05/28/20480816-214e-4fcc-a9b4-b02f0ac71e7c/wordle-word-game-hints-puzzle-8667.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-26-1713/",
+            "timestamp": "2026-02-25 21:00:57",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-26-725/",
+            "title": "Today's NYT Strands Hints, Answers and Help for Feb. 26 #725",
+            "imageUrl": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-26-725/",
+            "timestamp": "2026-02-25 21:00:40",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/services-and-software/dear-samsung-i-dont-need-ai-to-handle-every-task-for-me/",
+            "title": "Dear Samsung, I Don't Need AI to Handle Every Task for Me",
+            "imageUrl": "https://www.cnet.com/a/img/resize/19700bd6b35e8559cc703e9b9c2e4a9b404bec92/hub/2026/02/25/dd611800-ae2d-40df-b8b9-6fa33ad8602b/screenshot-2026-02-25-at-2-05-58pm.png",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/services-and-software/dear-samsung-i-dont-need-ai-to-handle-every-task-for-me/",
+            "timestamp": "2026-02-25 20:54:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/services-and-software/samsung-galaxy-unpacked-2026-ai-environment-commentary/",
+            "title": "Samsung Said 'AI' a Lot at Unpacked. Except When It Talked About the Environment",
+            "imageUrl": "https://www.cnet.com/a/img/resize/9b2037aa518bc8a31012e95dc7bc7f89aae3d9c4/hub/2026/02/25/e017b1af-34ba-419f-ae8e-a4a0ca0317a4/galaxy-for-the-planet-unpacked-2026.png",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/services-and-software/samsung-galaxy-unpacked-2026-ai-environment-commentary/",
+            "timestamp": "2026-02-25 20:46:00",
             "isSaved": 0
         },
         {
@@ -1830,16 +1990,6 @@
             "category": "Tech",
             "link": "https://www.cnet.com/tech/services-and-software/podcasts-officially-outrank-talk-radio-for-the-first-time-in-history/",
             "timestamp": "2026-02-25 20:25:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
-            "title": "Galaxy Unpacked 2026 Live Updates: Samsung's S26 Reveal Is Here",
-            "imageUrl": "https://www.cnet.com/a/img/resize/4b3deeea01b3008b51766628c13c5e19393b1dcf/hub/2026/02/19/9d93598b-de0a-4044-949b-ff6b0592a797/samsung-unpacked-live-blog.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
-            "timestamp": "2026-02-25 20:17:00",
             "isSaved": 0
         },
         {
@@ -1854,12 +2004,12 @@
         },
         {
             "id": "https://www.cnet.com/tech/mobile/samsung-s26-ultras-privacy-display-feature-makes-shoulder-surfing-a-thing-of-the-past/",
-            "title": "Samsung S26 Ultra's Privacy Display Makes Shoulder Surfing a Thing of the Past",
+            "title": "Galaxy S26 Ultra's Privacy Display Makes Shoulder Surfing a Thing of the Past",
             "imageUrl": "https://www.cnet.com/a/img/resize/f7d13fbb421dfd9fde802945d36db5e1c807868b/hub/2026/02/25/8ad37cb9-a972-4703-a0b7-feded43cd0ff/screenshot-2026-02-25-at-2-18-44pm.png",
             "source": "CNET",
             "category": "Tech",
             "link": "https://www.cnet.com/tech/mobile/samsung-s26-ultras-privacy-display-feature-makes-shoulder-surfing-a-thing-of-the-past/",
-            "timestamp": "2026-02-25 19:56:21",
+            "timestamp": "2026-02-25 19:56:00",
             "isSaved": 0
         },
         {
@@ -1870,56 +2020,6 @@
             "category": "Tech",
             "link": "https://www.cnet.com/tech/services-and-software/using-ai-as-a-therapist-why-professionals-say-you-should-think-again/",
             "timestamp": "2026-02-25 19:51:22",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/roadshow/news/waymo-autonomous-ride-service-expands-texas-florida/",
-            "title": "Waymo's Autonomous Ride Service Expands to New Cities",
-            "imageUrl": "https://www.cnet.com/a/img/resize/ee6d979207b18d7bd001c946b4eb1cfa5c37eb34/hub/2026/02/24/9dcedd91-55c0-4fd7-b9ab-496e03aa6a1e/dal-sat-hou-orl-blogheader.png",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/roadshow/news/waymo-autonomous-ride-service-expands-texas-florida/",
-            "timestamp": "2026-02-25 19:48:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-camera-updates/",
-            "title": "Big Shock: Samsung's Galaxy S26 Ultra Camera Updates Have a Ton of AI",
-            "imageUrl": "https://www.cnet.com/a/img/resize/ab5e9f9e7da639cbcbeb5d5efc10041b2bbca350/hub/2026/02/25/c48cc1e6-768b-4743-95ad-b2dc49f3eece/s26-ultra-cameras.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-camera-updates/",
-            "timestamp": "2026-02-25 19:24:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/services-and-software/discord-delays-age-verification-changes/",
-            "title": "After Backlash, Discord Will Delay Age Verification Changes to Its Platform",
-            "imageUrl": "https://www.cnet.com/a/img/resize/3e3bcfdbed65f1e30a07a5514cb5d3429f8e0e7b/hub/2024/04/04/89787e5e-2f52-4348-b914-4fd156b579e7/discord-logo-8805.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/services-and-software/discord-delays-age-verification-changes/",
-            "timestamp": "2026-02-25 19:22:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/health/oura-ring-ai-model-womens-health/",
-            "title": "Oura Ring Dropped Its First AI Model for Women: How to Get Access Today",
-            "imageUrl": "https://www.cnet.com/a/img/resize/7a9b41b12346743a6fc3ba9fab38e475ac859bf6/hub/2026/02/25/682be3fa-6df6-43ee-bb20-eb8c4d23a2f3/oura-ring-pink.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/health/oura-ring-ai-model-womens-health/",
-            "timestamp": "2026-02-25 18:55:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/mobile/this-one-killer-feature-sets-the-samsung-galaxy-s26-ultra-apart-from-all-other-phones/",
-            "title": "This One Killer Feature Sets the Samsung Galaxy S26 Ultra Apart From All Other Phones",
-            "imageUrl": "https://www.cnet.com/a/img/resize/6f44df78d99398b38ecf4973f7e77678fd85183f/hub/2026/02/25/14df5fd1-15a7-4e76-97e1-4089daa15a1e/screenshot-2026-02-25-at-1-34-26pm.png",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/mobile/this-one-killer-feature-sets-the-samsung-galaxy-s26-ultra-apart-from-all-other-phones/",
-            "timestamp": "2026-02-25 18:40:00",
             "isSaved": 0
         }
     ]
