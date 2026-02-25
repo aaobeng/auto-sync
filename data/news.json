@@ -101,6 +101,16 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.mirror.co.uk/sport/football/news/benfica-fans-spanish-police-real-36782243",
+            "title": "Benfica fans clash with Spanish police before Real Madrid match in violent scenes",
+            "imageUrl": "https://i2-prod.dailystar.co.uk/incoming/article36782376.ece/ALTERNATES/s615/0_Madrid-Benfica-police-2.jpg",
+            "source": "Mirror Football",
+            "category": "Football",
+            "link": "https://www.mirror.co.uk/sport/football/news/benfica-fans-spanish-police-real-36782243",
+            "timestamp": "2026-02-25 23:13:54",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.mirror.co.uk/sport/football/news/champions-league-last-16-draw-36781983",
             "title": "Champions League last-16 draw as Premier League clubs learn potential opponents",
             "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781978.ece/ALTERNATES/s615/0_GettyImages-2251210235.jpg",
@@ -188,16 +198,6 @@
             "category": "Football",
             "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-kobbie-mainoo-transfer-36781472",
             "timestamp": "2026-02-25 18:42:22",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/sport/football/news/soccer-bosses-claim-world-cup-36781364",
-            "title": "US soccer bosses claim World Cup will be \"100 times\" bigger than the Super Bowl",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36775784.ece/ALTERNATES/s615/0_FIFA-World-Cup-File-Photo.jpg",
-            "source": "Mirror Football",
-            "category": "Football",
-            "link": "https://www.mirror.co.uk/sport/football/news/soccer-bosses-claim-world-cup-36781364",
-            "timestamp": "2026-02-25 18:17:53",
             "isSaved": 0
         },
         {
@@ -312,12 +312,22 @@
         },
         {
             "id": "https://www.theguardian.com/football/2026/feb/25/champions-league-playoffs-roundup-psg-monaco-juventus-galatasaray-atalanta-borussia-dortmund",
-            "title": "Champions League roundup: Atalanta oust Dortmund thanks to last-minute penalty",
+            "title": "Champions League roundup: Atalanta oust Dortmund, Galatasaray thwart Juventus fightback",
             "imageUrl": "https://i.guim.co.uk/img/media/55859414dc9f6e80d43e5f238f082f8997c3ef68/142_0_2560_2048/master/2560.jpg",
             "source": "The Guardian Football",
             "category": "Football",
             "link": "https://www.theguardian.com/football/2026/feb/25/champions-league-playoffs-roundup-psg-monaco-juventus-galatasaray-atalanta-borussia-dortmund",
-            "timestamp": "2026-02-25 22:18:55",
+            "timestamp": "2026-02-25 23:02:09",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.theguardian.com/football/2026/feb/25/championship-roundup-sheffield-united-coventry-millwall-birmingham-norwich-wednesday-stoke-oxford",
+            "title": "Championship roundup: Coventry battle back to see off Sheffield United",
+            "imageUrl": "https://i.guim.co.uk/img/media/864bcaec676652a9aaa2d2c7c8892b78ad86dca6/0_62_4084_3267/master/4084.jpg",
+            "source": "The Guardian Football",
+            "category": "Football",
+            "link": "https://www.theguardian.com/football/2026/feb/25/championship-roundup-sheffield-united-coventry-millwall-birmingham-norwich-wednesday-stoke-oxford",
+            "timestamp": "2026-02-25 23:12:25",
             "isSaved": 0
         },
         {
@@ -341,33 +351,23 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.theguardian.com/football/2026/feb/25/west-bromwich-albion-beauty-of-the-struggle-football-daily-newsletter",
-            "title": "Football Daily | West Bromwich Albion and the beauty of the struggle",
-            "imageUrl": "https://i.guim.co.uk/img/media/c897e571557cceeb80cf4322ab95ba8e4dc7aa44/408_0_5001_4000/master/5001.jpg",
+            "id": "https://www.theguardian.com/football/2026/feb/25/mary-earps-learned-tough-lessons-book-backlash-sarina-wiegman",
+            "title": "Mary Earps says she ‘learned some tough lessons’ from book backlash",
+            "imageUrl": "https://i.guim.co.uk/img/media/b7cc9a14a1b9c00712757a1920f22e91b9d50d94/619_61_6399_5119/master/6399.jpg",
             "source": "The Guardian Football",
             "category": "Football",
-            "link": "https://www.theguardian.com/football/2026/feb/25/west-bromwich-albion-beauty-of-the-struggle-football-daily-newsletter",
-            "timestamp": "2026-02-25 15:51:02",
+            "link": "https://www.theguardian.com/football/2026/feb/25/mary-earps-learned-tough-lessons-book-backlash-sarina-wiegman",
+            "timestamp": "2026-02-25 09:00:06",
             "isSaved": 0
         },
         {
-            "id": "https://www.theguardian.com/football/2026/feb/25/scotland-fans-allowed-wear-sporrans-world-cup-matches",
-            "title": "Scotland fans given all-clear to wear their sporrans at World Cup matches",
-            "imageUrl": "https://i.guim.co.uk/img/media/33dcbd209b73b8b58cc9e210091fcf2aaae4ffd3/573_0_5000_4000/master/5000.jpg",
+            "id": "https://www.theguardian.com/football/2026/feb/25/outrage-in-austria-after-man-secretly-filmed-dressing-room-female-players",
+            "title": "Outrage in Austria after man ordered to pay female footballers €625 each for secretly filming dressing room",
+            "imageUrl": "https://i.guim.co.uk/img/media/95e8133a9a5789ec354c152bd5f8f6432fc18f00/489_0_4215_3371/master/4215.jpg",
             "source": "The Guardian Football",
             "category": "Football",
-            "link": "https://www.theguardian.com/football/2026/feb/25/scotland-fans-allowed-wear-sporrans-world-cup-matches",
-            "timestamp": "2026-02-25 15:24:03",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.theguardian.com/football/2026/feb/25/sheffield-wednesday-buyers-end-takeover-interest",
-            "title": "Sheffield Wednesday takeover collapses as would-be buyers end their interest",
-            "imageUrl": "https://i.guim.co.uk/img/media/05b99d356ad40d33a279738df3754e005fd14365/12_0_4688_3750/master/4688.jpg",
-            "source": "The Guardian Football",
-            "category": "Football",
-            "link": "https://www.theguardian.com/football/2026/feb/25/sheffield-wednesday-buyers-end-takeover-interest",
-            "timestamp": "2026-02-25 13:52:48",
+            "link": "https://www.theguardian.com/football/2026/feb/25/outrage-in-austria-after-man-secretly-filmed-dressing-room-female-players",
+            "timestamp": "2026-02-25 10:43:23",
             "isSaved": 0
         },
         {
@@ -381,13 +381,13 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.theguardian.com/football/2026/feb/25/mary-earps-learned-tough-lessons-book-backlash-sarina-wiegman",
-            "title": "Mary Earps says she ‘learned some tough lessons’ from book backlash",
-            "imageUrl": "https://i.guim.co.uk/img/media/b7cc9a14a1b9c00712757a1920f22e91b9d50d94/619_61_6399_5119/master/6399.jpg",
+            "id": "https://www.theguardian.com/football/2026/feb/25/scotland-fans-allowed-wear-sporrans-world-cup-matches",
+            "title": "Scotland fans given all-clear to wear their sporrans at World Cup matches",
+            "imageUrl": "https://i.guim.co.uk/img/media/33dcbd209b73b8b58cc9e210091fcf2aaae4ffd3/573_0_5000_4000/master/5000.jpg",
             "source": "The Guardian Football",
             "category": "Football",
-            "link": "https://www.theguardian.com/football/2026/feb/25/mary-earps-learned-tough-lessons-book-backlash-sarina-wiegman",
-            "timestamp": "2026-02-25 09:00:06",
+            "link": "https://www.theguardian.com/football/2026/feb/25/scotland-fans-allowed-wear-sporrans-world-cup-matches",
+            "timestamp": "2026-02-25 15:24:03",
             "isSaved": 0
         },
         {
@@ -399,9 +399,119 @@
             "link": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
             "timestamp": "2022-11-14 09:05:50",
             "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4009122/cristiano-ronaldo-new-celebration-al-nassr-siu/",
+            "title": "Cristiano Ronaldo debuts new celebration after goal for Al Nassr",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/crop-4009273.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4009122/cristiano-ronaldo-new-celebration-al-nassr-siu/",
+            "timestamp": "2026-02-25 21:55:53",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4009258/real-madrid-raul-asencio-neck-brace-ambulance-champions-league/",
+            "title": "Real Madrid star taken away in ambulance after being stretchered off in neck brace following collision with teammate",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4009258/real-madrid-raul-asencio-neck-brace-ambulance-champions-league/",
+            "timestamp": "2026-02-25 21:52:51",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4009116/atalanta-borussia-dortmund-three-red-cards-penalty-champions-league/",
+            "title": "Last-gasp penalty and THREE red cards given as Champions League tie descends into chaos",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/DF-TALKSPORT-ATALANTA.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4009116/atalanta-borussia-dortmund-three-red-cards-penalty-champions-league/",
+            "timestamp": "2026-02-25 20:09:41",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4009036/ivan-toney-golden-boot-cristiano-ronaldo-saudi-pro-league/",
+            "title": "Ivan Toney determined to deny Cristiano Ronaldo making history",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/crop-3966140.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4009036/ivan-toney-golden-boot-cristiano-ronaldo-saudi-pro-league/",
+            "timestamp": "2026-02-25 19:26:37",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4007672/alan-brazil-tottenham-former-manager-pochettino/",
+            "title": "Alan Brazil gobsmacked Tottenham Hotspur have not asked former manager to come back",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/general-view-inside-stadium-prior-1059784361.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4007672/alan-brazil-tottenham-former-manager-pochettino/",
+            "timestamp": "2026-02-25 18:18:28",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008290/manchester-sesko-benjamin-sesko-viktor-gyokeres-hugo-ekitike/",
+            "title": "Manchester United star labelled better signing than Liverpool&#8217;s Hugo Ekitike and Arsenal&#8217;s Viktor Gyokeres",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008290/manchester-sesko-benjamin-sesko-viktor-gyokeres-hugo-ekitike/",
+            "timestamp": "2026-02-25 17:46:58",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008295/liverpool-arne-slot-dominik-szoboszlai-experiment-shake-up/",
+            "title": "Arne Slot told to stop Dominik Szoboszlai experiment and drop Liverpool first team star in major shake-up",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008295/liverpool-arne-slot-dominik-szoboszlai-experiment-shake-up/",
+            "timestamp": "2026-02-25 17:24:29",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008173/simon-jordan-premier-league-stadium-plans-newcastle/",
+            "title": "Simon Jordan urges Premier League club to splurge on new stadium to &#8216;level up&#8217;",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/2025-26-league-phase-md7-1062019156.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008173/simon-jordan-premier-league-stadium-plans-newcastle/",
+            "timestamp": "2026-02-25 16:58:03",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008292/tottenham-hotspur-transfers-exodus-cristian-romero-rumours/",
+            "title": "&#8216;Disgraceful&#8217; Tottenham Hotspur star told to leave as club urged to make summer firesale",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008292/tottenham-hotspur-transfers-exodus-cristian-romero-rumours/",
+            "timestamp": "2026-02-25 16:47:46",
+            "isSaved": 0
+        },
+        {
+            "id": "https://talksport.com/football/4008258/arsenal-spurs-relegation-embarrassing-season/",
+            "title": "Arsenal can have a more embarrassing season than Tottenham even if Spurs are relegated",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/HB-TALKSPORT-MASTER-ARSENAL-TOTTENHAM-BAD_OP.jpg",
+            "source": "TalkSport Football",
+            "category": "Football",
+            "link": "https://talksport.com/football/4008258/arsenal-spurs-relegation-embarrassing-season/",
+            "timestamp": "2026-02-25 15:59:02",
+            "isSaved": 0
         }
     ],
     "News": [
+        {
+            "id": "https://www.thesun.co.uk/news/38340700/child-killer-200-sex-images-prison-cell-madeleine-mcann/",
+            "title": "Notorious child killer Marc Dutroux ‘found with 200 abuse images in his prison cell’",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38340843.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38340700/child-killer-200-sex-images-prison-cell-madeleine-mcann/",
+            "timestamp": "2026-02-25 23:17:44",
+            "isSaved": 0
+        },
         {
             "id": "https://www.thesun.co.uk/news/38341057/iran-rebuild-nuclear-weapons-trump-jd-vance/",
             "title": "Iran is trying to rebuild nuclear program after Trump bombings, JD Vance warns as US armada builds off coast",
@@ -493,13 +603,23 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38338970/fury-uk-france-channel-migrant-deal/",
-            "title": "Fury as UK hands France £8k for EACH Channel migrant they’ve stopped in ‘unsuccessful’ deal paid for by YOU",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-w47w4vwof-1772045283701.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/world-news/heartbreak-two-teens-killed-donegal-36782354",
+            "title": "Heartbreak as two teens killed in Donegal horror crash pictured after car hits lorry",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782371.ece/ALTERNATES/s615/0_Teenage-friends-killed-in-Donegal-crash-named-locally-as-community-left-in-total-shock.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38338970/fury-uk-france-channel-migrant-deal/",
-            "timestamp": "2026-02-25 21:00:00",
+            "link": "https://www.mirror.co.uk/news/world-news/heartbreak-two-teens-killed-donegal-36782354",
+            "timestamp": "2026-02-25 23:14:38",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/uk-news/shepherdess-faces-huge-six-figure-36782165",
+            "title": "Shepherdess faces huge six-figure bill after mad row with neighbour over a GATE",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782356.ece/ALTERNATES/s615/0_PAY-PeterAndKellyLeonard1.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/uk-news/shepherdess-faces-huge-six-figure-36782165",
+            "timestamp": "2026-02-25 23:03:41",
             "isSaved": 0
         },
         {
@@ -514,7 +634,7 @@
         },
         {
             "id": "https://www.mirror.co.uk/news/world-news/breaking-two-men-charged-murder-36761481",
-            "title": "BREAKING: Two men charged with murder of grandad, 85, pictured after pensioner 'kidnapped'",
+            "title": "Two men charged with murder of grandad, 85, pictured after pensioner 'kidnapped'",
             "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782278.ece/ALTERNATES/s615/0_Police-say-Chris-Baghsarian-85-was-kidnapped-by-mistake.jpg",
             "source": "Mirror News",
             "category": "News",
@@ -570,36 +690,6 @@
             "category": "News",
             "link": "https://www.mirror.co.uk/money/majority-jobs-go-popular-soft-36781848",
             "timestamp": "2026-02-25 21:43:42",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/major-update-after-two-workers-36782021",
-            "title": "Major update after two workers found frozen to death at chicken factory",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782062.ece/ALTERNATES/s615/0_Coronavirus-Thu-Aug-27-2020.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/major-update-after-two-workers-36782021",
-            "timestamp": "2026-02-25 21:36:25",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/breaking-young-footballer-dies-after-36781992",
-            "title": "Young footballer dies after falling in river under the influence of drugs",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article35394615.ece/ALTERNATES/s615/1_PAY-WNS_120625_Teen_River_Death_006JPG.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/breaking-young-footballer-dies-after-36781992",
-            "timestamp": "2026-02-25 21:01:28",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/breaking-woman-tragically-found-dead-36780015",
-            "title": "Woman tragically found dead in woodland as police swarm scene",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781897.ece/ALTERNATES/s615/0_An-area-off-Woodside-Lane-was-cordoned-off.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/breaking-woman-tragically-found-dead-36780015",
-            "timestamp": "2026-02-25 20:31:00",
             "isSaved": 0
         },
         {
@@ -699,7 +789,7 @@
             "source": "BBC News",
             "category": "News",
             "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 22:48:01",
+            "timestamp": "2026-02-25 23:23:13",
             "isSaved": 0
         }
     ],
@@ -807,13 +897,33 @@
     ],
     "Sports": [
         {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15590873/Real-Madrid-vs-Benfica-2025-26-knockout-phase-Champions-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Real Madrid vs Benfica - Champions League LIVE: Latest score, team news and updates as Vinicius Jr dances with joy after scoring decisive goal to eliminate visitors just a week after being embroiled in racism storm",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/22/106681809-0-image-a-5_1772057189897.jpg",
+            "id": "https://www.dailymail.co.uk/sport/football/article-15593257/Forgotten-Newcastle-flop-furiously-KICKS-tunnel-shown-controversial-red-card-thrilling-Champions-League-clash-Juventus-Galatasaray.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Forgotten Newcastle flop furiously KICKS the tunnel after being shown controversial red card during thrilling Champions League clash between Juventus and Galatasaray",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/22/106682559-0-image-a-49_1772059790099.jpg",
             "source": "Daily Mail Sport",
             "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15590873/Real-Madrid-vs-Benfica-2025-26-knockout-phase-Champions-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 22:42:03",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15593257/Forgotten-Newcastle-flop-furiously-KICKS-tunnel-shown-controversial-red-card-thrilling-Champions-League-clash-Juventus-Galatasaray.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 23:15:25",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15593213/Jose-Mourinho-Real-Madrid-Benfica-return.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Inside Jose Mourinho's frosty Real Madrid return: How Benfica boss fooled everyone by watching the game from mystery location - and hid from journalists after refusing to fulfil media duties",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/23/106683055-0-image-a-73_1772060597053.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15593213/Jose-Mourinho-Real-Madrid-Benfica-return.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 23:07:34",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15593085/Vinicius-Jr-final-say-Real-Madrid-triumph-night-animosity-football-felt-inconsequential-Jose-Mourinhos-selfish-approach-didnt-help-writes-DOMINIC-KING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Vinicius Jr has the final say as Real Madrid triumph on a night of animosity, but the football felt inconsequential - and Jose Mourinho's selfish approach didn't help, writes DOMINIC KING",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/22/106682565-0-image-a-28_1772058642462.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15593085/Vinicius-Jr-final-say-Real-Madrid-triumph-night-animosity-football-felt-inconsequential-Jose-Mourinhos-selfish-approach-didnt-help-writes-DOMINIC-KING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 22:59:31",
             "isSaved": 0
         },
         {
@@ -887,26 +997,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.dailymail.co.uk/sport/rugbyunion/article-15592361/England-Alex-Mitchell-injury-Raffi-Quirke-Six-Nations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "How England can turn Alex Mitchell hammer blow into a dramatic shift that saves their Six Nations",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/19/106677831-0-image-a-7_1772046976571.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/rugbyunion/article-15592361/England-Alex-Mitchell-injury-Raffi-Quirke-Six-Nations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 20:14:08",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15592275/fifa-world-cup-mexico-cartel-violence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "FIFA refuses to move World Cup games from Mexico despite cartel violence and fans' safety fears: 'Everything will turn out for the best'",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/17/106675949-0-image-a-15_1772041173579.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15592275/fifa-world-cup-mexico-cartel-violence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 19:34:49",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.mirror.co.uk/sport/boxing/hearn-white-benn-zuffa-sonnen-36782105",
             "title": "Eddie Hearn told he 'f***** up' by doing one thing in Dana White drama saga",
             "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782132.ece/ALTERNATES/s615/0_Boxing-In-Nottingham-Last-Man-Standing-Leigh-Wood-v-Josh-Warrington.jpg",
@@ -927,16 +1017,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.mirror.co.uk/sport/boxing/fabio-wardley-reveals-mistake-world-36781466",
-            "title": "Fabio Wardley reveals mistake on world title belt ahead of Daniel Dubois fight",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781473.ece/ALTERNATES/s615/0_GettyImages-2263519408.jpg",
-            "source": "Mirror Sport",
-            "category": "Sports",
-            "link": "https://www.mirror.co.uk/sport/boxing/fabio-wardley-reveals-mistake-world-36781466",
-            "timestamp": "2026-02-25 19:00:00",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.espn.com/nba/story/_/id/48016100/inside-secret-history-black-mamba-kobe-bryant-michael-jordan-air-jordan-19",
             "title": "Inside the secret history of the black mamba",
             "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0912%2Fnba_nike%2Dblack%2Dmamba_16x9.jpg?width=400",
@@ -953,7 +1033,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nhl/story/_/id/48033965/hilary-knight-responds-trump-comment-women",
-            "timestamp": "2026-02-25 22:38:28",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
@@ -963,7 +1043,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/college-football/story/_/id/48035774/cincinnati-sues-sorsby-1m-exit-fee-texas-tech-transfer",
-            "timestamp": "2026-02-25 22:38:28",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
@@ -973,7 +1053,17 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nba/story/_/id/48035589/suns-owner-mat-ishbia-wants-offer-1-million-prize-winners-all-star-weekend-slam-dunk-contest-three-point-contest",
-            "timestamp": "2026-02-25 22:38:29",
+            "timestamp": "2026-02-25 23:40:50",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.espn.com/nba/story/_/id/48036464/porter-banned-nba-signs-usbl-superhawks",
+            "title": "Banned NBA'er Porter joins USBL's Superhawks",
+            "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0412%2Fr1318077_1296x729_16%2D9.jpg?width=400",
+            "source": "ESPN",
+            "category": "Sports",
+            "link": "https://www.espn.com/nba/story/_/id/48036464/porter-banned-nba-signs-usbl-superhawks",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
@@ -983,7 +1073,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nfl/story/_/id/48034214/source-bears-allow-lb-tremaine-edmunds-seek-trade",
-            "timestamp": "2026-02-25 22:38:29",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
@@ -993,27 +1083,17 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/espn/betting/story/_/id/48033806/shai-gilgeous-alexander-nikola-jokic-nearing-mvp-ineligibility",
-            "timestamp": "2026-02-25 22:38:28",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
             "id": "https://www.espn.com/soccer/story/_/id/48034957/vinicius-junior-boo-benfica-fans-real-madrid-banner",
             "title": "Vinícius seals Madrid progress amid Benfica boos",
-            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1619995_1296x729_16%2D9.jpg?width=400",
+            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1620029_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/soccer/story/_/id/48034957/vinicius-junior-boo-benfica-fans-real-madrid-banner",
-            "timestamp": "2026-02-25 22:38:28",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.espn.com/nfl/story/_/id/48033989/source-colorado-dc-returning-nfl-broncos-coordinator",
-            "title": "Source: Broncos bring Colorado DC onto staff",
-            "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1619928_1296x729_16%2D9.jpg?width=400",
-            "source": "ESPN",
-            "category": "Sports",
-            "link": "https://www.espn.com/nfl/story/_/id/48033989/source-colorado-dc-returning-nfl-broncos-coordinator",
-            "timestamp": "2026-02-25 22:38:28",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
@@ -1023,7 +1103,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nba/story/_/id/48034058/cavaliers-james-harden-non-displaced-fracture-right-thumb",
-            "timestamp": "2026-02-25 22:38:28",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
@@ -1033,7 +1113,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nfl/draft2026/story/_/id/47989848/2026-nfl-mock-draft-kiper-32-picks-pre-combine-predictions-round-1",
-            "timestamp": "2026-02-25 22:38:28",
+            "timestamp": "2026-02-25 23:40:50",
             "isSaved": 0
         },
         {
@@ -1239,12 +1319,22 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GOLDBOD-detains-Western-North-Council-of-State-representative-over-gold-transaction-breaches-2023320",
-            "title": "GOLDBOD detains Western North Council of State representative over gold transaction breaches",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Illegal-mining-in-forest-reserves-expanded-by-70-between-2021-and-2024-Forestry-Commission-2023322",
+            "title": "Illegal mining in forest reserves expanded by 70% between 2021 and 2024 - Forestry Commission",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/806/80676381.jpg",
+            "source": "GhanaWeb General",
+            "category": "Ghana News",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Illegal-mining-in-forest-reserves-expanded-by-70-between-2021-and-2024-Forestry-Commission-2023322",
+            "timestamp": "2026-02-25 23:47:08",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GoldBod-detains-Western-North-Council-of-State-rep-over-gold-transaction-breaches-2023320",
+            "title": "GoldBod detains Western North Council of State rep over gold transaction breaches",
             "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/870/87023890.jpg",
             "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GOLDBOD-detains-Western-North-Council-of-State-representative-over-gold-transaction-breaches-2023320",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GoldBod-detains-Western-North-Council-of-State-rep-over-gold-transaction-breaches-2023320",
             "timestamp": "2026-02-25 22:42:00",
             "isSaved": 0
         },
@@ -1327,16 +1417,6 @@
             "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Parents-churches-must-help-curb-moral-breakdown-in-schools-FMI-2023310",
             "timestamp": "2026-02-25 19:27:37",
             "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Assembly-member-faces-backlash-for-using-sex-as-punishment-for-teenagers-2023308",
-            "title": "Assembly member faces backlash for using sex as ‘punishment’ for teenagers",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/320/32053441.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Assembly-member-faces-backlash-for-using-sex-as-punishment-for-teenagers-2023308",
-            "timestamp": "2026-02-25 19:18:55",
-            "isSaved": 0
         }
     ],
     "World": [
@@ -1347,7 +1427,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-            "timestamp": "2026-02-25 22:57:38",
+            "timestamp": "2026-02-25 23:50:14",
             "isSaved": 0
         },
         {
@@ -1377,7 +1457,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://cnn.it/411KYN7",
-            "timestamp": "2026-02-25 22:57:38",
+            "timestamp": "2026-02-25 23:50:14",
             "isSaved": 0
         },
         {
@@ -1387,7 +1467,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-            "timestamp": "2026-02-25 22:57:38",
+            "timestamp": "2026-02-25 23:50:14",
             "isSaved": 0
         },
         {
@@ -1438,6 +1518,26 @@
             "category": "World",
             "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
             "timestamp": "2023-04-03 12:13:24",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/economy/2026/2/25/will-mexicos-jalisco-cartels-violent-biz-model-survive-el-menchos-death?traffic_source=rss",
+            "title": "Will Mexico’s Jalisco cartel’s violent biz model survive El Mencho’s death?",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/ap_699d4ddf3040e-1771916767.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/economy/2026/2/25/will-mexicos-jalisco-cartels-violent-biz-model-survive-el-menchos-death?traffic_source=rss",
+            "timestamp": "2026-02-25 22:57:27",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/25/zelenskyy-speaks-with-trump-about-peace-efforts-eyes-leaders-level-talks?traffic_source=rss",
+            "title": "Zelenskyy speaks with Trump about peace efforts, eyes leaders-level talks",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2025-02-12T181951Z_1144574243_RC26TCA6OZXR_RTRMADP_3_UKRAINE-CRISIS-USA-ZELENSKIY-TRUMP-1772056635.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/25/zelenskyy-speaks-with-trump-about-peace-efforts-eyes-leaders-level-talks?traffic_source=rss",
+            "timestamp": "2026-02-25 22:47:39",
             "isSaved": 0
         },
         {
@@ -1521,33 +1621,13 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.aljazeera.com/news/2026/2/25/cuban-border-agents-fire-upon-florida-tagged-speedboat-killing-four?traffic_source=rss",
-            "title": "Cuban border agents fire upon Florida-tagged speedboat, killing four",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/epa_699f4e162261-1772047894.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/25/cuban-border-agents-fire-upon-florida-tagged-speedboat-killing-four?traffic_source=rss",
-            "timestamp": "2026-02-25 19:37:04",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/video/the-stream/2026/2/25/why-do-we-miss-2016?traffic_source=rss",
-            "title": "Why do we miss 2016?",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/image-1772025705.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/video/the-stream/2026/2/25/why-do-we-miss-2016?traffic_source=rss",
-            "timestamp": "2026-02-25 19:30:00",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
-            "title": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
+            "title": "Live Updates: Cuba Says Troops Kill 4 and Wound 6 on Florida Speedboat",
             "imageUrl": "https://static01.nyt.com/images/2026/02/25/multimedia/25cuba-boat-flags-phjf/25cuba-boat-flags-phjf-mediumSquareAt3X.jpg",
             "source": "NYT World",
             "category": "World",
             "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
-            "timestamp": "2026-02-25 22:51:26",
+            "timestamp": "2026-02-25 23:34:44",
             "isSaved": 0
         },
         {
@@ -1587,7 +1667,7 @@
             "source": "NYT World",
             "category": "World",
             "link": "https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html",
-            "timestamp": "2026-02-25 20:51:07",
+            "timestamp": "2026-02-25 23:39:03",
             "isSaved": 0
         },
         {
@@ -1642,6 +1722,16 @@
         }
     ],
     "Tech": [
+        {
+            "id": "https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit",
+            "title": "New York sues Valve, alleging its loot boxes are ‘quintessential gambling’",
+            "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.1920x1080.jpg",
+            "source": "The Verge",
+            "category": "Tech",
+            "link": "https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit",
+            "timestamp": "2026-02-25 23:22:18",
+            "isSaved": 0
+        },
         {
             "id": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
             "title": "How the new Galaxy S26 phones stack up against each other on paper",
@@ -1733,13 +1823,23 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.theverge.com/tech/884239/samsung-galaxy-s26-plus-price-specs-gemini",
-            "title": "Hands on: the Galaxy S26 and S26 Plus are more of the same for more money",
-            "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268373_Samsung_Galaxy_Unpacked_Feb_2026_AJohnson_0011.jpg",
-            "source": "The Verge",
+            "id": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+            "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg",
+            "source": "TechCrunch",
             "category": "Tech",
-            "link": "https://www.theverge.com/tech/884239/samsung-galaxy-s26-plus-price-specs-gemini",
-            "timestamp": "2026-02-25 18:00:00",
+            "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+            "timestamp": "2026-02-25 23:49:19",
+            "isSaved": 0
+        },
+        {
+            "id": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+            "title": "Nvidia has another record quarter amid record capex spends",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg",
+            "source": "TechCrunch",
+            "category": "Tech",
+            "link": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+            "timestamp": "2026-02-25 23:04:42",
             "isSaved": 0
         },
         {
@@ -1823,26 +1923,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-            "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/CUDIS-002-Sporty-05.png",
-            "source": "TechCrunch",
-            "category": "Tech",
-            "link": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-            "timestamp": "2026-02-25 19:10:04",
-            "isSaved": 0
-        },
-        {
-            "id": "https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/",
-            "title": "Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/mrbeastburger.jpg",
-            "source": "TechCrunch",
-            "category": "Tech",
-            "link": "https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/",
-            "timestamp": "2026-02-25 19:08:04",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.wired.com/story/everyone-speaks-incel-now/",
             "title": "Everyone Speaks Incel Now",
             "imageUrl": "https://media.wired.com/photos/69964e836a79d569b06431c0/191:100/w_1280,c_limit/Mog-Goblins-and-Why-We-All-Use-Incel-Speak-Now-Culture.jpg",
@@ -1913,22 +1993,22 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/",
-            "title": "Kalshi Suspended a California Politician and a YouTuber for Insider Trading",
-            "imageUrl": "https://media.wired.com/photos/699f113794854663df474cba/191:100/w_1280,c_limit/biz-kalshi-insidertrading-2260402751.jpg",
-            "source": "Wired",
-            "category": "Tech",
-            "link": "https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/",
-            "timestamp": "2026-02-25 16:00:00",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.wired.com/story/maga-is-still-very-angry-about-epstein-but-they-wont-blame-trump/",
             "title": "MAGA Is Raging Over the Epstein Files. But They’re Not Mad at Donald Trump",
             "imageUrl": "https://media.wired.com/photos/699e50342df982983a45949a/191:100/w_1280,c_limit/politics_trump_epstein_patel_bondi.jpg",
             "source": "Wired",
             "category": "Tech",
             "link": "https://www.wired.com/story/maga-is-still-very-angry-about-epstein-but-they-wont-blame-trump/",
+            "timestamp": "2026-02-25 16:00:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/",
+            "title": "Kalshi Suspended a California Politician and a YouTuber for Insider Trading",
+            "imageUrl": "https://media.wired.com/photos/699f113794854663df474cba/191:100/w_1280,c_limit/biz-kalshi-insidertrading-2260402751.jpg",
+            "source": "Wired",
+            "category": "Tech",
+            "link": "https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/",
             "timestamp": "2026-02-25 16:00:00",
             "isSaved": 0
         },
@@ -1940,6 +2020,36 @@
             "category": "Tech",
             "link": "https://www.wired.com/story/ailias-hologram-avatars/",
             "timestamp": "2026-02-25 12:00:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/gaming/the-top-25-best-pokemon-games-of-all-time-ranked/",
+            "title": "The Top 25 Best Pokemon Games of All Time, Ranked",
+            "imageUrl": "https://www.cnet.com/a/img/resize/8dee8ae8a65006c91b12b691b3138fc34fcd9a04/hub/2025/09/17/e946d05e-dd05-49c9-afb6-593accb8ac0a/legends-za-promo-hed.png",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/gaming/the-top-25-best-pokemon-games-of-all-time-ranked/",
+            "timestamp": "2026-02-25 23:00:31",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
+            "title": "Galaxy Unpacked 2026 Live Updates: Samsung's S26 Reveal Is Here",
+            "imageUrl": "https://www.cnet.com/a/img/resize/4b3deeea01b3008b51766628c13c5e19393b1dcf/hub/2026/02/19/9d93598b-de0a-4044-949b-ff6b0592a797/samsung-unpacked-live-blog.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
+            "timestamp": "2026-02-25 22:33:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/services-and-software/how-to-watch-the-survivor-50-premiere-without-cable/",
+            "title": "How to Watch the 'Survivor 50' Premiere Without Cable",
+            "imageUrl": "https://www.cnet.com/a/img/resize/96fd476f91bbf9b889f4c80a478476e2e367318c/hub/2026/02/23/873908b8-fcd6-4d62-ac75-f7be9293ca0f/3088139-1333b.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/services-and-software/how-to-watch-the-survivor-50-premiere-without-cable/",
+            "timestamp": "2026-02-25 22:30:42",
             "isSaved": 0
         },
         {
@@ -1960,16 +2070,6 @@
             "category": "Tech",
             "link": "https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/",
             "timestamp": "2026-02-25 22:02:59",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
-            "title": "Galaxy Unpacked 2026 Live Updates: Samsung's S26 Reveal Is Here",
-            "imageUrl": "https://www.cnet.com/a/img/resize/4b3deeea01b3008b51766628c13c5e19393b1dcf/hub/2026/02/19/9d93598b-de0a-4044-949b-ff6b0592a797/samsung-unpacked-live-blog.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
-            "timestamp": "2026-02-25 21:01:00",
             "isSaved": 0
         },
         {
@@ -2020,26 +2120,6 @@
             "category": "Tech",
             "link": "https://www.cnet.com/tech/services-and-software/samsung-galaxy-unpacked-2026-ai-environment-commentary/",
             "timestamp": "2026-02-25 20:46:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/services-and-software/podcasts-officially-outrank-talk-radio-for-the-first-time-in-history/",
-            "title": "Podcast Listenership Outranks Talk Radio for the First Time in History",
-            "imageUrl": "https://www.cnet.com/a/img/resize/19628d32785c21ae2b8201460dbb72becc573d6d/hub/2026/02/25/53a24f50-3877-440c-b636-ddc40b08c1de/gettyimages-1847504892.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/services-and-software/podcasts-officially-outrank-talk-radio-for-the-first-time-in-history/",
-            "timestamp": "2026-02-25 20:25:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/services-and-software/when-to-watch-bridgerton-season-4-part-2-on-netflix/",
-            "title": "When to Watch 'Bridgerton' Season 4, Part 2 on Netflix",
-            "imageUrl": "https://www.cnet.com/a/img/resize/2eda1113b9025ee858e7c84e10133a09b0aa6781/hub/2026/02/23/edd5ed17-9421-4ac1-915f-cd91c04d7f95/bridgerton-407-unit-01924r-4.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/services-and-software/when-to-watch-bridgerton-season-4-part-2-on-netflix/",
-            "timestamp": "2026-02-25 20:00:41",
             "isSaved": 0
         }
     ]
