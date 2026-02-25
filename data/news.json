@@ -221,6 +221,16 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.theguardian.com/football/2026/feb/25/west-brom-sack-head-coach-eric-ramsay-44-days-championship",
+            "title": "West Brom sack head coach Eric Ramsay after only 44 days in charge",
+            "imageUrl": "https://i.guim.co.uk/img/media/c04d55b511d647377ee3cae1edbf0909fe03a8ec/426_0_4561_3648/master/4561.jpg",
+            "source": "The Guardian Football",
+            "category": "Football",
+            "link": "https://www.theguardian.com/football/2026/feb/25/west-brom-sack-head-coach-eric-ramsay-44-days-championship",
+            "timestamp": "2026-02-25 00:22:19",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.theguardian.com/football/2026/feb/24/swansea-preston-snoop-dogg-championship-roundup",
             "title": "Swansea bow to co-owner Snoop Dogg with guard of honour before kick-off",
             "imageUrl": "https://i.guim.co.uk/img/media/9476f743fe3c252de707764819f179652a5e36b1/335_0_3108_2488/master/3108.jpg",
@@ -248,16 +258,6 @@
             "category": "Football",
             "link": "https://www.theguardian.com/football/2026/feb/24/england-womens-world-cup-qualifier-everton-hill-dickinson-stadium-ukraine-june",
             "timestamp": "2026-02-24 20:27:42",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.theguardian.com/football/2026/feb/24/arbeloa-courtois-uefa-stand-against-racism-vinicius-junior-gianluca-prestianni",
-            "title": "Arbeloa and Courtois call on Uefa to take stand against racism after Vinícius incident",
-            "imageUrl": "https://i.guim.co.uk/img/media/be250661f3d5342fcab70d7c895b285743b5fd70/289_0_3750_3000/master/3750.jpg",
-            "source": "The Guardian Football",
-            "category": "Football",
-            "link": "https://www.theguardian.com/football/2026/feb/24/arbeloa-courtois-uefa-stand-against-racism-vinicius-junior-gianluca-prestianni",
-            "timestamp": "2026-02-24 15:25:38",
             "isSaved": 0
         },
         {
@@ -303,103 +303,63 @@
     ],
     "News": [
         {
-            "id": "https://www.thesun.co.uk/news/38328999/professor-stephen-hawking-epstein-files-bikini-girls/",
-            "title": "Professor Stephen Hawking pictured in Epstein files as physics genius snapped next to bikini-clad girls with cocktails",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-ludr6avq6-1771974489517.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/health/consuming-50p-spice-14-days-36773829",
+            "title": "Consuming this 50p spice for 14 days could help with arthritis and depression",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36773926.ece/ALTERNATES/s615/0_GettyImages-1414198799.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38328999/professor-stephen-hawking-epstein-files-bikini-girls/",
-            "timestamp": "2026-02-24 23:41:17",
+            "link": "https://www.mirror.co.uk/news/health/consuming-50p-spice-14-days-36773829",
+            "timestamp": "2026-02-25 03:01:00",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38329040/boys-wear-skirts-school-explore-gender-bridget-phillipson/",
-            "title": "Boys should be allowed to wear skirts at school to let them explore gender, says Education Secretary Bridget Phillipson",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38329127.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/health/doctor-says-simple-morning-drink-36774467",
+            "title": "Doctor says simple morning drink could help with weight loss",
+            "imageUrl": "https://i2-prod.ok.co.uk/incoming/article36774367.ece/ALTERNATES/s615/0_GettyImages-1316037129-1.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38329040/boys-wear-skirts-school-explore-gender-bridget-phillipson/",
-            "timestamp": "2026-02-24 23:06:02",
+            "link": "https://www.mirror.co.uk/news/health/doctor-says-simple-morning-drink-36774467",
+            "timestamp": "2026-02-25 03:00:00",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38329148/king-harald-norway-hospital-tenerife-royals-holiday/",
-            "title": "King Harald, 89, of Norway rushed to hospital in Tenerife during royal’s winter holiday",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-cx7myfam1-1771973912289.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/politics/donald-trump-confronted-black-people-36776266",
+            "title": "Donald Trump confronted with 'black people aren't apes' sign as he arrives for State of the Union",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36776284.ece/ALTERNATES/s615/0_President-Trump-Delivers-The-State-Of-The-Union-Address.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38329148/king-harald-norway-hospital-tenerife-royals-holiday/",
-            "timestamp": "2026-02-24 23:00:55",
+            "link": "https://www.mirror.co.uk/news/politics/donald-trump-confronted-black-people-36776266",
+            "timestamp": "2026-02-25 02:21:08",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38327990/mother-set-fire-daughter-petrol-bombed-revenge-attack/",
-            "title": "Terrifying moment mother is set on fire in front of her daughter as home is petrol bombed in revenge attack",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-56sltu7w4-1771973576757.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/money/exact-date-next-ofgem-energy-36773420",
+            "title": "Exact date of next Ofgem energy price cap change for 2026",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36497432.ece/ALTERNATES/s615/0_GettyImages-1443209943.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38327990/mother-set-fire-daughter-petrol-bombed-revenge-attack/",
-            "timestamp": "2026-02-24 22:55:52",
+            "link": "https://www.mirror.co.uk/money/exact-date-next-ofgem-energy-36773420",
+            "timestamp": "2026-02-25 02:08:00",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38328853/sun-says-labour-no-deal-france-stop-channel-migrants/",
-            "title": "Under NO circumstances should Labour sign any new deal to pay useless France to fail to stop Channel dinghies",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2F731b1137-13d2-4c57-a3da-f8e870a0b729.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/uk-news/murder-probe-launched-man-dies-36776220",
+            "title": "Murder probe launched as man dies after alleged South Wales Wetherspoons attack",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36776243.ece/ALTERNATES/s615/0_1dde4d14-9e76-43da-8504-2e984bab572bjpeg.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38328853/sun-says-labour-no-deal-france-stop-channel-migrants/",
-            "timestamp": "2026-02-24 22:29:49",
+            "link": "https://www.mirror.co.uk/news/uk-news/murder-probe-launched-man-dies-36776220",
+            "timestamp": "2026-02-25 01:35:36",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38328844/thief-pickpocket-faberge-egg-crime/",
-            "title": "Thief who stole woman’s handbag in pub stunned to find Fabergé egg and watch worth over £2million inside",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-j3mvwtm3g-1771971353277.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/money/brits-working-home-issued-dont-36774228",
+            "title": "Brits working from home issued 'don't get caught out' HMRC warning",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36774109.ece/ALTERNATES/s615/0_GettyImages-1404366258.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38328844/thief-pickpocket-faberge-egg-crime/",
-            "timestamp": "2026-02-24 22:27:20",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38328711/rapist-wrongly-freed-prison-return-trial-skiing-injury/",
-            "title": "‘Rapist’ who left UK after being wrongly freed from jail ‘cannot return for his trial due to SKIING INJURY’",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2FA35J1Cjpg-JS388581688.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38328711/rapist-wrongly-freed-prison-return-trial-skiing-injury/",
-            "timestamp": "2026-02-24 22:11:20",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38318180/euromillions-results-numbers-february-24/",
-            "title": "EuroMillions results and numbers: National Lottery draw tonight, February 24",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2025%2F03%2Fnewspress-collage-qcz8mkz8l-1743179646110.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38318180/euromillions-results-numbers-february-24/",
-            "timestamp": "2026-02-24 21:55:32",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38328613/starmers-brexit-reset-blackhole-economy-eu-rules/",
-            "title": "Starmer’s Brexit reset could blow £15billion hole in Britain’s economy amid warning over EU’s ‘growth-destroying’ rules",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fda1e0860-0ffe-4260-baed-c644607e8ed4.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38328613/starmers-brexit-reset-blackhole-economy-eu-rules/",
-            "timestamp": "2026-02-24 21:48:39",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38328316/oliver-harvey-gaza-gorton-denton-by-election-green-party/",
-            "title": "How events in Gaza could swing Gorton and Denton by-election for the ‘sinister’ and ‘openly sectarian’ Green Party",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38328491.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38328316/oliver-harvey-gaza-gorton-denton-by-election-green-party/",
-            "timestamp": "2026-02-24 21:36:06",
+            "link": "https://www.mirror.co.uk/money/brits-working-home-issued-dont-36774228",
+            "timestamp": "2026-02-25 01:00:00",
             "isSaved": 0
         },
         {
@@ -443,63 +403,13 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.mirror.co.uk/news/us-news/girl-3-crushed-death-horse-36776056",
-            "title": "Girl, 3, crushed to death by horse in front of mum in horror freak accident",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36776108.ece/ALTERNATES/s615/1_Rodeo-stars-daughter-3-killed-by-horse.jpg",
-            "source": "Mirror News",
+            "id": "https://www.bbc.com/news/articles/cp859d8rn78o?at_medium=RSS&at_campaign=rss",
+            "title": "Trump to address a changed America at vital moment for his presidency",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5d/live/056b9f50-116e-11f1-b048-c9424b2cf5fd.jpg",
+            "source": "BBC News",
             "category": "News",
-            "link": "https://www.mirror.co.uk/news/us-news/girl-3-crushed-death-horse-36776056",
-            "timestamp": "2026-02-24 22:46:05",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/royals/royals-secret-andrew-torment-nervous-36774057",
-            "title": "Royals' secret Andrew torment - 'nervous breakdowns, tears and crisis talks'",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36379346.ece/ALTERNATES/s615/3_Royal-Family-Attend-Duchess-of-Kents-Funeral-Service-in-London.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/royals/royals-secret-andrew-torment-nervous-36774057",
-            "timestamp": "2026-02-24 22:03:12",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/breaking-police-issue-major-update-36775923",
-            "title": "Police issue major update after Andrew Mountbatten-Windsor arrest",
-            "imageUrl": "https://i2-prod.dailystar.co.uk/incoming/article36774855.ece/ALTERNATES/s615/0_Britian-Royals-Scandals-26052401445342.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/breaking-police-issue-major-update-36775923",
-            "timestamp": "2026-02-24 21:29:06",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/world-news/breaking-royal-rushed-hospital-after-36775215",
-            "title": "Royal rushed to hospital after falling ill on popular Brit holiday island",
-            "imageUrl": "https://i2-prod.mirror.co.uk/travel/article36719952.ece/ALTERNATES/s615/0_Anaga-mountain-and-costal-village-Almaciga-in-Tenerife-Canary-Island.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/world-news/breaking-royal-rushed-hospital-after-36775215",
-            "timestamp": "2026-02-24 21:15:14",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/us-news/epstein-victims-face-trump-say-36775877",
-            "title": "Epstein victims face Trump and say they 'will not be silenced' over abuse",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36726078.ece/ALTERNATES/s615/1_Trump-Knauss-Epstein-Maxwell-At-Mar-A-Lago.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/us-news/epstein-victims-face-trump-say-36775877",
-            "timestamp": "2026-02-24 21:06:59",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/us-news/donald-trump-state-union-live-36775689",
-            "title": "Donald Trump LIVE: How and where to watch President's State of the Union speech",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36775702.ece/ALTERNATES/s615/0_Trump-26054556626867.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/us-news/donald-trump-state-union-live-36775689",
-            "timestamp": "2026-02-24 21:00:23",
+            "link": "https://www.bbc.com/news/articles/cp859d8rn78o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-24 19:48:44",
             "isSaved": 0
         },
         {
@@ -513,63 +423,73 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/c80jd955889o?at_medium=RSS&at_campaign=rss",
-            "title": "Andrew 'rude and arrogant', minister says as MPs back release of trade role files",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231f/live/4e407880-1106-11f1-95d6-71ff8dfa1746.png",
+            "id": "https://www.bbc.com/news/articles/cpv8ye887e4o?at_medium=RSS&at_campaign=rss",
+            "title": "One in four councils to miss food waste collection deadline - find out if yours is one",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7000/live/509b10d0-11f7-11f1-b048-c9424b2cf5fd.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/c80jd955889o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 22:29:48",
+            "link": "https://www.bbc.com/news/articles/cpv8ye887e4o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 00:01:58",
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
-            "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ca/live/2f09e430-10d2-11f1-801d-ed3cff6bf876.png",
+            "id": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&at_campaign=rss",
+            "title": "What is the UK's new travel system and how are dual nationals affected?",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee60/live/83372ca0-11b5-11f1-801d-ed3cff6bf876.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 06:02:13",
+            "link": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 00:05:49",
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/c5ykl7y2zv9o?at_medium=RSS&at_campaign=rss",
-            "title": "BBC edited a second racial slur out of Bafta ceremony",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f8/live/8b5d6660-109d-11f1-b048-c9424b2cf5fd.jpg",
+            "id": "https://www.bbc.com/news/articles/cvgk3gpy34jo?at_medium=RSS&at_campaign=rss",
+            "title": "Chris Mason: MPs take a new tone on Andrew – but how big is their appetite for radical changes?",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004e/live/aaabae70-11ef-11f1-801d-ed3cff6bf876.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/c5ykl7y2zv9o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 15:11:48",
+            "link": "https://www.bbc.com/news/articles/cvgk3gpy34jo?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 02:45:43",
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/czx7yp14v1vo?at_medium=RSS&at_campaign=rss",
-            "title": "Man 'caused wife's death by controlling her', jury told",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a9/live/e796a8f0-115c-11f1-9c59-f960223a391b.png",
+            "id": "https://www.bbc.com/news/articles/cnv670d128go?at_medium=RSS&at_campaign=rss",
+            "title": "NHS secures bone cement rescue package so joint surgery can resume",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c31/live/6786e2d0-11d7-11f1-bd07-7dc7b5f46c6b.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/czx7yp14v1vo?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 15:07:23",
+            "link": "https://www.bbc.com/news/articles/cnv670d128go?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 00:08:16",
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/cm28vp0pkzro?at_medium=RSS&at_campaign=rss",
-            "title": "GPs told to guarantee same-day appointments for urgent cases",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c351/live/e4467ca0-1195-11f1-b6a5-03d43da28d6c.jpg",
+            "id": "https://www.bbc.com/news/articles/czj1ndzz9xyo?at_medium=RSS&at_campaign=rss",
+            "title": "Disabled woman put in nursing home against her will says she feels 'betrayed'",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be8/live/880394b0-11a8-11f1-8efc-bb8df6087c73.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/cm28vp0pkzro?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 16:05:58",
+            "link": "https://www.bbc.com/news/articles/czj1ndzz9xyo?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 00:41:34",
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/c23zprxzj31o?at_medium=RSS&at_campaign=rss",
-            "title": "'I wanted to save her life' - the moment twin sisters learned they were identical",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75f2/live/3e0e54a0-1192-11f1-b018-3bcd1c6816f4.jpg",
+            "id": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss",
+            "title": "Energy bills to fall in April after charges shake-up",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f9/live/a9b88a60-1177-11f1-ba61-2b399c307393.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/c23zprxzj31o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 15:00:53",
+            "link": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 00:04:55",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.bbc.com/news/articles/c795lj7x2x9o?at_medium=RSS&at_campaign=rss",
+            "title": "Assisted dying on Welsh NHS a step closer as Senedd votes in favour",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/657e/live/bdf301c0-1188-11f1-89e5-1f2745badd52.jpg",
+            "source": "BBC News",
+            "category": "News",
+            "link": "https://www.bbc.com/news/articles/c795lj7x2x9o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-24 23:00:17",
             "isSaved": 0
         },
         {
@@ -580,26 +500,6 @@
             "category": "News",
             "link": "https://www.bbc.com/weather/articles/cedzvwe1nn5o?at_medium=RSS&at_campaign=rss",
             "timestamp": "2026-02-24 20:20:12",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.bbc.com/news/articles/c4gql405dydo?at_medium=RSS&at_campaign=rss",
-            "title": "Driver admits causing death of mother pushing pram",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/6f9bbdf0-11b0-11f1-9c3e-09b6f259d76e.jpg",
-            "source": "BBC News",
-            "category": "News",
-            "link": "https://www.bbc.com/news/articles/c4gql405dydo?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 18:35:40",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.bbc.com/news/articles/cn0e2kkegg6o?at_medium=RSS&at_campaign=rss",
-            "title": "Phillipson defends student loan change and says average repayments will rise by £8 a month",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d35/live/9abc12b0-1187-11f1-b048-c9424b2cf5fd.jpg",
-            "source": "BBC News",
-            "category": "News",
-            "link": "https://www.bbc.com/news/articles/cn0e2kkegg6o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-24 12:45:01",
             "isSaved": 0
         }
     ],
@@ -707,6 +607,26 @@
     ],
     "Sports": [
         {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15589733/Snoop-Dogg-gets-party-going-Swansea-owner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Snoop Dogg gets the party going at Swansea as co-owner and celebrity rapper watches his side live for the first time - with Preston boss suggesting the tunnel 'smelt of weed'!",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/00/106651089-0-image-a-81_1771978158822.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15589733/Snoop-Dogg-gets-party-going-Swansea-owner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 01:43:40",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15587435/Former-Manchester-United-star-moved-tears-video-Punch-monkey-social-media-star-turning-orangutan-toy-comfort-abandoned-mother.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Former Manchester United star moved to tears by video of Punch the monkey, who became social media star for turning to orangutan toy for comfort after being abandoned by his mother",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/24/12/106634647-0-image-a-16_1771935259266.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15587435/Former-Manchester-United-star-moved-tears-video-Punch-monkey-social-media-star-turning-orangutan-toy-comfort-abandoned-mother.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-25 00:23:24",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.dailymail.co.uk/sport/football/article-15589175/Joe-Hart-coaching-Shrewsbury-Town-goalkeeper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "title": "Joe Hart lands shock new role at his former side for one game only - two years after ruling out possibility of going into coaching as 'it's not ingrained' in him",
             "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/24/20/106646731-0-image-a-58_1771966165978.jpg",
@@ -744,16 +664,6 @@
             "category": "Sports",
             "link": "https://www.dailymail.co.uk/sport/football/article-15589521/Inter-Milan-Bodo-Glimt-make-history.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "timestamp": "2026-02-24 22:32:11",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15587679/Snoop-Dogg-Swansea-City-Preston-Championship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "From Milan to SWANSEA: Snoop Dogg visits Welsh city for the first time since becoming co-owner of Championship football club",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/24/16/106640147-0-image-a-5_1771948885339.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15587679/Snoop-Dogg-Swansea-City-Preston-Championship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-24 22:24:02",
             "isSaved": 0
         },
         {
@@ -797,16 +707,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.dailymail.co.uk/sport/winterolympics/article-15589075/lindsey-vonn-winter-olympics-crash-mental-struggle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Lindsey Vonn opens up on 'dark and unrelenting' turmoil after Winter Olympics crash: 'It's hit me like a ton of bricks'",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/24/19/106645359-0-image-a-17_1771961683625.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/winterolympics/article-15589075/lindsey-vonn-winter-olympics-crash-mental-struggle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-24 20:06:36",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.mirror.co.uk/sport/other-sports/lindsey-vonn-ski-crash-injury-36775719",
             "title": "Lindsey Vonn hit 'like a ton of bricks' by next challenge in health update after almost losing leg",
             "imageUrl": "https://i2-prod.mirror.co.uk/sport/article36739628.ece/ALTERNATES/s615/1_Lindsey-Vonn.jpg",
@@ -817,33 +717,33 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
-            "title": "Men's Bracketology: Duke's ascension to No. 1 overall was inevitable",
-            "imageUrl": "https://a.espncdn.com/photo/2026/0222/r1618360_1296x729_16-9.jpg?width=400",
-            "source": "ESPN",
-            "category": "Sports",
-            "link": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
-            "timestamp": "2026-02-24 22:02:40",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
-            "title": "Women's Bracketology: How two upsets turned the ACC into a nine-bid league",
-            "imageUrl": "https://a.espncdn.com/photo/2026/0223/r1619160_1296x729_16-9.jpg?width=400",
-            "source": "ESPN",
-            "category": "Sports",
-            "link": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
-            "timestamp": "2026-02-24 22:02:40",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.espn.com/nfl/story/_/id/48025726/source-kyler-murray-cardinals-talked-refuting-gm",
             "title": "Source: Kyler hasn't talked to Cards, refuting GM",
             "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0118%2Fr1279282_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nfl/story/_/id/48025726/source-kyler-murray-cardinals-talked-refuting-gm",
-            "timestamp": "2026-02-24 22:52:42",
+            "timestamp": "2026-02-25 02:59:20",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.espn.com/mens-college-basketball/story/_/id/48027652/no-1-duke-trounces-notre-dame-boozer-24-points",
+            "title": "Boozer goes off as Duke beats Notre Dame by 44",
+            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1619706_1296x729_16%2D9.jpg?width=400",
+            "source": "ESPN",
+            "category": "Sports",
+            "link": "https://www.espn.com/mens-college-basketball/story/_/id/48027652/no-1-duke-trounces-notre-dame-boozer-24-points",
+            "timestamp": "2026-02-25 02:59:20",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.espn.com/nba/story/_/id/48026551/nba-did-not-speak-team-doctors-100k-fine",
+            "title": "Carlisle questions NBA's process for Pacers' fine",
+            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0109%2Fr1598312_1296x729_16%2D9.jpg?width=400",
+            "source": "ESPN",
+            "category": "Sports",
+            "link": "https://www.espn.com/nba/story/_/id/48026551/nba-did-not-speak-team-doctors-100k-fine",
+            "timestamp": "2026-02-25 02:59:20",
             "isSaved": 0
         },
         {
@@ -853,67 +753,67 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nfl/story/_/id/48025767/sean-payton-says-oc-davis-webb-broncos-playcaller",
-            "timestamp": "2026-02-24 22:52:42",
+            "timestamp": "2026-02-25 02:59:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/nfl/story/_/id/48023896/jets-use-tag-breece-hall-no-deal-reached-gm-says",
-            "title": "Jets GM: Plan to keep RB Hall, with deal or tag",
-            "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1028%2Fr1567324_2_1296x729_16%2D9.jpg?width=400",
+            "id": "https://www.espn.com/nfl/story/_/id/48026516/brandon-aubrey-seeking-bigger-deal-cowboys",
+            "title": "Sources: Aubrey pushes for bigger Cowboys offer",
+            "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1219%2Fr1591629_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/nfl/story/_/id/48023896/jets-use-tag-breece-hall-no-deal-reached-gm-says",
-            "timestamp": "2026-02-24 22:52:42",
+            "link": "https://www.espn.com/nfl/story/_/id/48026516/brandon-aubrey-seeking-bigger-deal-cowboys",
+            "timestamp": "2026-02-25 02:59:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/nfl/story/_/id/48024343/browns-gm-starting-qb-grabs-includes-sanders-watson",
-            "title": "GM: Sanders, Watson both in mix for Browns QB1",
-            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1207%2Fr1586361_2_1296x729_16%2D9.jpg?width=400",
+            "id": "https://www.espn.com/nfl/story/_/id/48027827/seahawks-schneider-business-usual-team-sale",
+            "title": "Seahawks GM: Team sale won't hinder offseason",
+            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1619701_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/nfl/story/_/id/48024343/browns-gm-starting-qb-grabs-includes-sanders-watson",
-            "timestamp": "2026-02-24 22:52:42",
+            "link": "https://www.espn.com/nfl/story/_/id/48027827/seahawks-schneider-business-usual-team-sale",
+            "timestamp": "2026-02-25 02:59:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/olympics/story/_/id/48025053/us-men-hockey-team-visits-white-house-president-trump",
-            "title": "U.S. men's hockey team stops by White House",
-            "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0222%2Fr1618586_1296x729_16%2D9.jpg?width=400",
+            "id": "https://www.espn.com/college-football/story/_/id/48026183/virginia-qb-chandler-morris-files-lawsuit-seeking-7th-year",
+            "title": "Virginia QB Morris files lawsuit seeking 7th year",
+            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0224%2Fr1619617_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/olympics/story/_/id/48025053/us-men-hockey-team-visits-white-house-president-trump",
-            "timestamp": "2026-02-24 22:52:42",
+            "link": "https://www.espn.com/college-football/story/_/id/48026183/virginia-qb-chandler-morris-files-lawsuit-seeking-7th-year",
+            "timestamp": "2026-02-25 02:59:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/soccer/story/_/id/48024269/world-cup-host-cities-warn-congress-security-concerns",
-            "title": "WC host cities warn Congress of security concerns",
-            "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0224%2Fr1619539_1296x729_16%2D9.jpg?width=400",
+            "id": "https://www.espn.com/mlb/story/_/id/48025899/pirates-prospect-konnor-griffin-wows-home-runs-vs-red-sox",
+            "title": "Pirates' Griffin, MLB's top prospect, wows with HRs",
+            "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0224%2Fr1619611_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/soccer/story/_/id/48024269/world-cup-host-cities-warn-congress-security-concerns",
-            "timestamp": "2026-02-24 22:52:42",
+            "link": "https://www.espn.com/mlb/story/_/id/48025899/pirates-prospect-konnor-griffin-wows-home-runs-vs-red-sox",
+            "timestamp": "2026-02-25 02:59:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/soccer/report/_/gameId/401858766",
-            "title": "Tiny Bodo/Glimt oust Inter Milan in UCL stunner",
-            "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png?width=400",
+            "id": "https://www.espn.com/nba/story/_/id/47988027/nba-2025-2026-predicting-2028-usa-olympic-basketball-edwards-holmgren-tatum-flagg",
+            "title": "🔮 Predicting '28 Olympics U.S. men's hoops team",
+            "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0220%2Fr1617793_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/soccer/report/_/gameId/401858766",
-            "timestamp": "2026-02-24 22:52:42",
+            "link": "https://www.espn.com/nba/story/_/id/47988027/nba-2025-2026-predicting-2028-usa-olympic-basketball-edwards-holmgren-tatum-flagg",
+            "timestamp": "2026-02-25 02:59:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/nfl/story/_/id/48023841/cj-stroud-trade-speculation-moronic-texans-gm-says",
-            "title": "Texans GM: Stroud trade speculation is 'moronic'",
-            "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0118%2Fr1602378_1296x729_16%2D9.jpg?width=400",
+            "id": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
+            "title": "Men's Bracketology: Duke's ascension to No. 1 overall was inevitable",
+            "imageUrl": "https://a.espncdn.com/photo/2026/0222/r1618360_1296x729_16-9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/nfl/story/_/id/48023841/cj-stroud-trade-speculation-moronic-texans-gm-says",
-            "timestamp": "2026-02-24 22:52:42",
+            "link": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
+            "timestamp": "2026-02-25 00:10:52",
             "isSaved": 0
         },
         {
@@ -1019,6 +919,46 @@
     ],
     "Ghana News": [
         {
+            "id": "https://www.myjoyonline.com/gra-interdicts-5-customs-officers-over-transit-cargo-irregularities/",
+            "title": "GRA interdicts 5 Customs Officers over transit cargo irregularities",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2025/05/Ghana-Revenue-Authority-GRA1.jpeg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/gra-interdicts-5-customs-officers-over-transit-cargo-irregularities/",
+            "timestamp": "2026-02-25 02:11:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/photos-mahama-swears-in-new-fire-and-immigration-chiefs/",
+            "title": "[Photos] Mahama swears in new Fire and Immigration chiefs",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2195-1024x731.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/photos-mahama-swears-in-new-fire-and-immigration-chiefs/",
+            "timestamp": "2026-02-25 00:16:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/agona-swedru-police-command-arrest-two-in-possession-of-suspected-narcotics/",
+            "title": "Agona Swedru Police Command arrest two in possession of suspected narcotics",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2187-1024x768.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/agona-swedru-police-command-arrest-two-in-possession-of-suspected-narcotics/",
+            "timestamp": "2026-02-24 23:51:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/trump-to-address-a-changed-america-at-vital-moment-for-his-presidency/",
+            "title": "Trump to address a changed America at vital moment for his presidency",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/01/image-874-1024x576.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/trump-to-address-a-changed-america-at-vital-moment-for-his-presidency/",
+            "timestamp": "2026-02-24 23:41:00",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.myjoyonline.com/prudential-bank-mastercard-discuss-support-for-smes-and-corporates/",
             "title": "Prudential Bank, Mastercard discuss support for SMEs and corporates",
             "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Prudential_Mastercard-1024x682.jpg",
@@ -1026,6 +966,16 @@
             "category": "Ghana News",
             "link": "https://www.myjoyonline.com/prudential-bank-mastercard-discuss-support-for-smes-and-corporates/",
             "timestamp": "2026-02-24 23:34:06",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/mahama-appoints-aaron-kanor-as-acting-gra-commissioner-for-customs-division/",
+            "title": "Mahama appoints Aaron Kanor as Acting GRA Commissioner for Customs Division",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2185.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/mahama-appoints-aaron-kanor-as-acting-gra-commissioner-for-customs-division/",
+            "timestamp": "2026-02-24 23:30:00",
             "isSaved": 0
         },
         {
@@ -1069,53 +1019,63 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/roc-nation-sports-international-kicks-off-inaugural-youth-football-tournament-in-ghana/",
-            "title": "Roc Nation Sports International kicks off inaugural youth football tournament in Ghana",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/538ef17a-f648-46fb-b582-73ca2133afee-1024x576.jpeg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/039-Under-no-circumstance-should-a-human-being-die-this-way-Minister-on-hit-and-run-death-2023141",
+            "title": "'Under no circumstance should a human being die this way’ – Minister on hit-and-run death",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/288/28876073.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/roc-nation-sports-international-kicks-off-inaugural-youth-football-tournament-in-ghana/",
-            "timestamp": "2026-02-24 22:45:48",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/039-Under-no-circumstance-should-a-human-being-die-this-way-Minister-on-hit-and-run-death-2023141",
+            "timestamp": "2026-02-25 03:12:07",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/ghanaians-are-not-genetically-disorderly-yaw-nsarkoh-says-consequences-create-order/",
-            "title": "‘Ghanaians are not genetically disorderly’ – Yaw Nsarkoh says consequences create order",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-24-at-10.45.37-pm-1024x748.png",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/PSG-defender-Achraf-Hakimi-faces-rape-trial-2023139",
+            "title": "PSG defender Achraf Hakimi faces rape trial",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/826/82664130.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/ghanaians-are-not-genetically-disorderly-yaw-nsarkoh-says-consequences-create-order/",
-            "timestamp": "2026-02-24 22:23:00",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/PSG-defender-Achraf-Hakimi-faces-rape-trial-2023139",
+            "timestamp": "2026-02-25 02:59:53",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/electoral-cost-efficiency-in-emerging-democracies-a-comparative-analysis-of-cost-per-voter-in-ghanas-2020-and-2024-general-elections/",
-            "title": "Electoral Cost Efficiency in Emerging Democracies: A Comparative Analysis of Cost per Voter in Ghana’s 2020 and 2024 General Elections",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2024/11/why-do-we-vote-lyric-video-david.jpg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Mexico-President-assures-039-no-risk-039-to-2026-World-Cup-despite-cartel-chaos-2023138",
+            "title": "Mexico President assures 'no risk' to 2026 World Cup despite cartel chaos",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/465/46511042.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/electoral-cost-efficiency-in-emerging-democracies-a-comparative-analysis-of-cost-per-voter-in-ghanas-2020-and-2024-general-elections/",
-            "timestamp": "2026-02-24 22:16:57",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Mexico-President-assures-039-no-risk-039-to-2026-World-Cup-despite-cartel-chaos-2023138",
+            "timestamp": "2026-02-25 02:59:22",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/bbc-edited-a-second-racial-slur-out-of-bafta-ceremony/",
-            "title": "BBC edited a second racial slur out of Bafta ceremony",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2182-1024x576.png",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Basintale-Amadu-takes-over-as-head-of-Ghana-Immigration-Service-2023136",
+            "title": "Basintale Amadu takes over as head of Ghana Immigration Service",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/704/70470228.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/bbc-edited-a-second-racial-slur-out-of-bafta-ceremony/",
-            "timestamp": "2026-02-24 21:59:00",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Basintale-Amadu-takes-over-as-head-of-Ghana-Immigration-Service-2023136",
+            "timestamp": "2026-02-25 02:55:28",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/nigeria-denies-report-it-paid-huge-ransom-to-free-pupils-in-mass-abduction/",
-            "title": "Nigeria denies report it paid ‘huge’ ransom to free pupils in mass abduction",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2181-1024x576.png",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Five-Customs-officers-interdicted-over-alleged-GH-85-3m-transit-tax-irregularities-2023135",
+            "title": "Five Customs officers interdicted over alleged GH¢85.3m transit tax irregularities",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/725/72585032.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/nigeria-denies-report-it-paid-huge-ransom-to-free-pupils-in-mass-abduction/",
-            "timestamp": "2026-02-24 21:58:12",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Five-Customs-officers-interdicted-over-alleged-GH-85-3m-transit-tax-irregularities-2023135",
+            "timestamp": "2026-02-25 02:50:29",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GRA-interdicts-five-custom-officers-2023133",
+            "title": "GRA interdicts five custom officers",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/661/66166064.jpg",
+            "source": "GhanaWeb General",
+            "category": "Ghana News",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GRA-interdicts-five-custom-officers-2023133",
+            "timestamp": "2026-02-25 02:15:52",
             "isSaved": 0
         },
         {
@@ -1157,66 +1117,6 @@
             "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Bernard-Somuah-seals-permanent-move-to-Spanish-Club-Celta-Vigo-2023128",
             "timestamp": "2026-02-24 20:38:53",
             "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Minister-of-Finance-lays-Value-for-Money-Office-Bill-before-Parliament-2023127",
-            "title": "Minister of Finance lays Value for Money Office Bill before Parliament",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/391/39129781.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Minister-of-Finance-lays-Value-for-Money-Office-Bill-before-Parliament-2023127",
-            "timestamp": "2026-02-24 20:38:06",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Bagbin-pushes-for-emergency-care-law-to-curb-no-bed-syndrome-2023125",
-            "title": "Bagbin pushes for emergency care law to curb ‘no-bed syndrome’",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/388/38812561.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Bagbin-pushes-for-emergency-care-law-to-curb-no-bed-syndrome-2023125",
-            "timestamp": "2026-02-24 19:15:17",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Afenyo-Markin-demands-probe-into-Charles-Amissah-s-death-2023123",
-            "title": "Afenyo-Markin demands probe into Charles Amissah’s death",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/498/49818017.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Afenyo-Markin-demands-probe-into-Charles-Amissah-s-death-2023123",
-            "timestamp": "2026-02-24 19:11:01",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghana-Austria-explore-joint-action-on-climate-change-and-emissions-reduction-2023121",
-            "title": "Ghana, Austria explore joint action on climate change and emissions reduction",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/355/35586474.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghana-Austria-explore-joint-action-on-climate-change-and-emissions-reduction-2023121",
-            "timestamp": "2026-02-24 19:00:42",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Frimpong-Manso-Institute-demands-end-to-galamsey-impunity-2023120",
-            "title": "Frimpong-Manso Institute demands end to galamsey impunity",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/353/35379286.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Frimpong-Manso-Institute-demands-end-to-galamsey-impunity-2023120",
-            "timestamp": "2026-02-24 18:54:25",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Six-Aggrey-Memorial-students-arrested-over-Adisco-student-attack-2023118",
-            "title": "Six Aggrey Memorial students arrested over Adisco student attack",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/910/91060002.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Six-Aggrey-Memorial-students-arrested-over-Adisco-student-attack-2023118",
-            "timestamp": "2026-02-24 18:38:31",
-            "isSaved": 0
         }
     ],
     "World": [
@@ -1227,7 +1127,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-            "timestamp": "2026-02-24 23:51:56",
+            "timestamp": "2026-02-25 03:20:12",
             "isSaved": 0
         },
         {
@@ -1257,7 +1157,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://cnn.it/411KYN7",
-            "timestamp": "2026-02-24 23:51:56",
+            "timestamp": "2026-02-25 03:20:12",
             "isSaved": 0
         },
         {
@@ -1267,7 +1167,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-            "timestamp": "2026-02-24 23:51:56",
+            "timestamp": "2026-02-25 03:20:12",
             "isSaved": 0
         },
         {
@@ -1321,9 +1221,69 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.aljazeera.com/video/newsfeed/2026/2/25/lawmaker-ejected-during-trumps-state-of-the-union-address?traffic_source=rss",
+            "title": "Lawmaker ejected during Trump’s State of the Union address",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/image-1771988473.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/lawmaker-ejected-during-trumps-state-of-the-union-address?traffic_source=rss",
+            "timestamp": "2026-02-25 03:01:37",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/25/aid-groups-petition-israeli-supreme-court-as-gaza-west-bank-work-ban-nears?traffic_source=rss",
+            "title": "Aid groups petition Israeli Supreme Court as Gaza, West Bank work ban nears",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-18T090741Z_838898264_RC28MJAX9EIH_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-RAMADAN-MOSQUES-1771983741.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/25/aid-groups-petition-israeli-supreme-court-as-gaza-west-bank-work-ban-nears?traffic_source=rss",
+            "timestamp": "2026-02-25 02:15:14",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/25/bolivia-revives-anti-drug-alliance-after-nearly-18-year-break-with-us?traffic_source=rss",
+            "title": "Bolivia revives anti-drug alliance after nearly 18-year break with US",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/11/2025-11-08T171018Z_1659374172_RC2FSHA5WFZH_RTRMADP_3_BOLIVIA-POLITICS-INAUGURATION-1762622701.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/25/bolivia-revives-anti-drug-alliance-after-nearly-18-year-break-with-us?traffic_source=rss",
+            "timestamp": "2026-02-25 01:46:23",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss",
+            "title": "Russia-Ukraine war: List of key events, day 1,462",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699e11bfc1-1771966911.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss",
+            "timestamp": "2026-02-25 00:54:48",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/25/suspect-four-victims-dead-after-stabbing-attack-in-us-state-of-washington?traffic_source=rss",
+            "title": "Suspect, four victims dead after stabbing attack in US state of Washington",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/ap_699e303c58cdf-1771974716.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/25/suspect-four-victims-dead-after-stabbing-attack-in-us-state-of-washington?traffic_source=rss",
+            "timestamp": "2026-02-25 00:26:56",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/25/us-department-of-justice-sues-ucla-over-anti-semitism-allegations?traffic_source=rss",
+            "title": "US Department of Justice sues UCLA over anti-Semitism allegations",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26055739055974-1771975810.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/25/us-department-of-justice-sues-ucla-over-anti-semitism-allegations?traffic_source=rss",
+            "timestamp": "2026-02-25 00:00:31",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss",
-            "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/ap_699e2435f1781-1771971638.jpg",
+            "title": "State of the Union live: Trump addresses nation amid tariff, Iran tensions",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/afp_699e5b86e70f-1771985798.jpg",
             "source": "Al Jazeera World",
             "category": "World",
             "link": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss",
@@ -1358,66 +1318,6 @@
             "category": "World",
             "link": "https://www.aljazeera.com/news/2026/2/24/russia-has-not-won-as-ukraine-war-enters-fifth-year-zelenskyy-says?traffic_source=rss",
             "timestamp": "2026-02-24 22:24:13",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/24/us-to-provide-consular-services-in-illegal-israeli-settlement?traffic_source=rss",
-            "title": "US to provide consular services in illegal Israeli settlement",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2020-08-19T113219Z_991595303_RC2ZGI9V6SCX_RTRMADP_3_ISRAEL-PALESTINIANS-ANNEXATION-SETTLERS-1771967104.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/24/us-to-provide-consular-services-in-illegal-israeli-settlement?traffic_source=rss",
-            "timestamp": "2026-02-24 22:01:50",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/24/at-least-23-dead-as-heavy-rains-unleash-floods-in-southeastern-brazil?traffic_source=rss",
-            "title": "At least 23 dead as heavy rains unleash floods in southeastern Brazil",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26055637545168-1771963007.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/24/at-least-23-dead-as-heavy-rains-unleash-floods-in-southeastern-brazil?traffic_source=rss",
-            "timestamp": "2026-02-24 21:25:38",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/24/rsf-tears-through-darfur-town-killing-28-doctors?traffic_source=rss",
-            "title": "At least 28 people killed as Sudan paramilitary force tears through Darfur",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20251027__824J2WE__v2__HighRes__SudanConflictElFasher-1771963370.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/24/rsf-tears-through-darfur-town-killing-28-doctors?traffic_source=rss",
-            "timestamp": "2026-02-24 21:02:17",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/video/the-take-2/2026/2/24/what-to-expect-from-trumps-state-of-the-union-address-2?traffic_source=rss",
-            "title": "What to expect from Trump’s State of the Union address",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/image-1771966001.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/video/the-take-2/2026/2/24/what-to-expect-from-trumps-state-of-the-union-address-2?traffic_source=rss",
-            "timestamp": "2026-02-24 20:47:13",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/24/fresh-afghan-pakistani-border-clashes-follow-deadly-strikes?traffic_source=rss",
-            "title": "New Afghan, Pakistani border clashes follow deadly strikes",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260104__898F4ZQ__v1__HighRes__AfghanistanPakistanConflictBorder-1771958287.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/24/fresh-afghan-pakistani-border-clashes-follow-deadly-strikes?traffic_source=rss",
-            "timestamp": "2026-02-24 20:43:40",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/video/newsfeed/2026/2/24/fatigue-and-tension-in-russia-four-years-after-ukraine-invasion?traffic_source=rss",
-            "title": "Fatigue and tension in Russia four years after Ukraine invasion",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/image-1771965765.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/2/24/fatigue-and-tension-in-russia-four-years-after-ukraine-invasion?traffic_source=rss",
-            "timestamp": "2026-02-24 20:43:00",
             "isSaved": 0
         },
         {
@@ -1523,6 +1423,26 @@
     ],
     "Tech": [
         {
+            "id": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+            "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+            "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2225411614.jpg",
+            "source": "The Verge",
+            "category": "Tech",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+            "timestamp": "2026-02-25 01:59:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+            "title": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
+            "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg",
+            "source": "The Verge",
+            "category": "Tech",
+            "link": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+            "timestamp": "2026-02-25 00:45:37",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
             "title": "Apple’s touchscreen MacBooks might also have a Dynamic Island",
             "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25718396/247372_MacBook_Pro_M4_ADiBenedetto_0035.jpg",
@@ -1603,23 +1523,33 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.theverge.com/transportation/883648/archer-vertical-patent-infringement-air-taxi",
-            "title": "Archer Aviation accuses rival Vertical Aerospace of ripping off its air taxi designs",
-            "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-24-at-10.49.47%E2%80%AFAM.png",
-            "source": "The Verge",
+            "id": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+            "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg",
+            "source": "TechCrunch",
             "category": "Tech",
-            "link": "https://www.theverge.com/transportation/883648/archer-vertical-patent-infringement-air-taxi",
-            "timestamp": "2026-02-24 17:16:20",
+            "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+            "timestamp": "2026-02-25 02:00:00",
             "isSaved": 0
         },
         {
-            "id": "https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban",
-            "title": "DJI sues over the FCC’s decision to block new drone imports",
-            "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/dji-neo-2-review-02.jpg",
-            "source": "The Verge",
+            "id": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+            "title": "Nvidia challenger AI chip startup MatX raised $500M",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg",
+            "source": "TechCrunch",
             "category": "Tech",
-            "link": "https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban",
-            "timestamp": "2026-02-24 17:01:44",
+            "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+            "timestamp": "2026-02-25 00:45:47",
+            "isSaved": 0
+        },
+        {
+            "id": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+            "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg",
+            "source": "TechCrunch",
+            "category": "Tech",
+            "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+            "timestamp": "2026-02-25 00:37:59",
             "isSaved": 0
         },
         {
@@ -1690,36 +1620,6 @@
             "category": "Tech",
             "link": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
             "timestamp": "2026-02-24 21:27:42",
-            "isSaved": 0
-        },
-        {
-            "id": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
-            "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg",
-            "source": "TechCrunch",
-            "category": "Tech",
-            "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
-            "timestamp": "2026-02-24 21:18:45",
-            "isSaved": 0
-        },
-        {
-            "id": "https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/",
-            "title": "Discord delays global rollout of age verification after backlash",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg",
-            "source": "TechCrunch",
-            "category": "Tech",
-            "link": "https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/",
-            "timestamp": "2026-02-24 20:48:06",
-            "isSaved": 0
-        },
-        {
-            "id": "https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/",
-            "title": "Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1237098710.jpeg",
-            "source": "TechCrunch",
-            "category": "Tech",
-            "link": "https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/",
-            "timestamp": "2026-02-24 20:35:47",
             "isSaved": 0
         },
         {
@@ -1823,13 +1723,43 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-25-520/",
+            "title": "Today's NYT Connections: Sports Edition Hints and Answers for Feb. 25, #520",
+            "imageUrl": "https://www.cnet.com/a/img/resize/c7e1d294a1a554f051860c8dddd6fd0c6527b452/hub/2024/10/16/c34cfc41-01f2-4b1a-80a8-f6479c50c02e/connections-sports-edition-6859.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-25-520/",
+            "timestamp": "2026-02-25 02:00:00",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/",
-            "title": "Galaxy Unpacked 2026: Samsung's S26 Reveal Is One Day Away",
-            "imageUrl": "https://www.cnet.com/a/img/resize/c89184d1ed2664d8f975336fc8047f3fb2ca92b0/hub/2026/02/20/b8e8a583-7f97-4a04-a799-03a4d3ffdce4/unpacked-imagery-1.png",
+            "title": "Galaxy Unpacked 2026: Samsung's S26 Reveal Is Just Hours Away",
+            "imageUrl": "https://www.cnet.com/a/img/resize/4b3deeea01b3008b51766628c13c5e19393b1dcf/hub/2026/02/19/9d93598b-de0a-4044-949b-ff6b0592a797/samsung-unpacked-live-blog.jpg",
             "source": "CNET",
             "category": "Tech",
             "link": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/",
-            "timestamp": "2026-02-24 23:00:38",
+            "timestamp": "2026-02-25 01:32:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/roadshow/news/uber-buys-spothero-adding-parking-reservations/",
+            "title": "Uber Moves Into Parking in Deal to Acquire SpotHero",
+            "imageUrl": "https://www.cnet.com/a/img/resize/41ac44c53378c145adece09df0cb481dce01f865/hub/2026/02/25/13b9f51e-d31d-4243-a245-f9953494fa06/uber-sign-gettyimages-2256544548.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/roadshow/news/uber-buys-spothero-adding-parking-reservations/",
+            "timestamp": "2026-02-25 00:54:13",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/services-and-software/meta-and-amds-multibillion-deal-is-all-about-the-ai-chips/",
+            "title": "Meta and AMD's Multibillion-Dollar Deal Is All About the AI Chips",
+            "imageUrl": "https://www.cnet.com/a/img/resize/c9b98e65bc4f9d209b1d6044e05ffbd9bce59351/hub/2026/02/24/e82c5a2e-09db-4ced-afd0-12265b977455/21953350-2x-amd-instinct-mi200-face-updated.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/services-and-software/meta-and-amds-multibillion-deal-is-all-about-the-ai-chips/",
+            "timestamp": "2026-02-25 00:24:00",
             "isSaved": 0
         },
         {
@@ -1890,36 +1820,6 @@
             "category": "Tech",
             "link": "https://www.cnet.com/tech/services-and-software/netflix-surprises-one-piece-fans-with-season-2-theater-drop/",
             "timestamp": "2026-02-24 21:51:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/computing/apple-mac-mini-made-in-america/",
-            "title": "Apple to Build the Mac Mini in the United States for the First Time",
-            "imageUrl": "https://www.cnet.com/a/img/resize/7215b057d2749e274a70fa947000b18831b575ac/hub/2026/02/24/53a8ea5e-504b-44e3-9262-fcf9e48802c8/mac-mini-fotor-16x9.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/computing/apple-mac-mini-made-in-america/",
-            "timestamp": "2026-02-24 21:31:24",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-25-990/",
-            "title": "Today's NYT Connections Hints, Answers and Help for Feb. 25, #990",
-            "imageUrl": "https://www.cnet.com/a/img/resize/3986ca4ac5b498c6114118e0dfa25b2a05ae6531/hub/2025/03/26/c70b0a32-884a-4379-b77b-de75776952ba/nyt-word-games-connections-2798.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-25-990/",
-            "timestamp": "2026-02-24 21:01:02",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-25-724/",
-            "title": "Today's NYT Strands Hints, Answers and Help for Feb. 25 #724",
-            "imageUrl": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-25-724/",
-            "timestamp": "2026-02-24 21:01:01",
             "isSaved": 0
         }
     ]
