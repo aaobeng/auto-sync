@@ -1,6 +1,16 @@
 {
     "Football": [
         {
+            "id": "https://www.thesun.co.uk/sport/38340907/champions-league-last-16-draw-chelsea-man-city/",
+            "title": "Champions League last 16 CONFIRMED with Chelsea and Man City facing nightmare clashes but Arsenal set for easier tie",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fdk-25-02-champions-league_OP.jpg",
+            "source": "The Sun - Football",
+            "category": "Football",
+            "link": "https://www.thesun.co.uk/sport/38340907/champions-league-last-16-draw-chelsea-man-city/",
+            "timestamp": "2026-02-26 00:14:05",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.thesun.co.uk/sport/38340580/osimhen-galatasaray-juventus-extra-time-champions-league/",
             "title": "Juventus 3 Galatasaray 2 (5-7 on agg): Osimhen breaks Juve hearts with extra-time goal to win Champions League tie",
             "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2FHB-OFF-PLATFORM-GALATASARY.jpg",
@@ -88,16 +98,6 @@
             "category": "Football",
             "link": "https://www.thesun.co.uk/sport/38339570/atalanta-bloody-face-three-sent-off-champions-league-dortmund/",
             "timestamp": "2026-02-25 19:51:44",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/sport/38339243/champions-league-keeper-transfer-mateusz-kochalski-premier-league/",
-            "title": "Champions League keeper who conceded NINE goals in tie issues come-and-get-me transfer plea to Premier League club",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2F2025-26-league-knockout-play-1061842638_9e221d.jpg",
-            "source": "The Sun - Football",
-            "category": "Football",
-            "link": "https://www.thesun.co.uk/sport/38339243/champions-league-keeper-transfer-mateusz-kochalski-premier-league/",
-            "timestamp": "2026-02-25 19:40:37",
             "isSaved": 0
         },
         {
@@ -413,7 +413,7 @@
         {
             "id": "https://talksport.com/football/4009258/real-madrid-raul-asencio-neck-brace-ambulance-champions-league/",
             "title": "Real Madrid star taken away in ambulance after being stretchered off in neck brace following collision with teammate",
-            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/DF-TALKSPORT-ASENCIO.jpg",
             "source": "TalkSport Football",
             "category": "Football",
             "link": "https://talksport.com/football/4009258/real-madrid-raul-asencio-neck-brace-ambulance-champions-league/",
@@ -423,7 +423,7 @@
         {
             "id": "https://talksport.com/football/4009116/atalanta-borussia-dortmund-three-red-cards-penalty-champions-league/",
             "title": "Last-gasp penalty and THREE red cards given as Champions League tie descends into chaos",
-            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/DF-TALKSPORT-ATALANTA.jpg",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
             "source": "TalkSport Football",
             "category": "Football",
             "link": "https://talksport.com/football/4009116/atalanta-borussia-dortmund-three-red-cards-penalty-champions-league/",
@@ -433,7 +433,7 @@
         {
             "id": "https://talksport.com/football/4009036/ivan-toney-golden-boot-cristiano-ronaldo-saudi-pro-league/",
             "title": "Ivan Toney determined to deny Cristiano Ronaldo making history",
-            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/crop-3966140.jpg",
+            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
             "source": "TalkSport Football",
             "category": "Football",
             "link": "https://talksport.com/football/4009036/ivan-toney-golden-boot-cristiano-ronaldo-saudi-pro-league/",
@@ -463,7 +463,7 @@
         {
             "id": "https://talksport.com/football/4008295/liverpool-arne-slot-dominik-szoboszlai-experiment-shake-up/",
             "title": "Arne Slot told to stop Dominik Szoboszlai experiment and drop Liverpool first team star in major shake-up",
-            "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80",
+            "imageUrl": "https://talksport.com/wp-content/uploads/2026/02/liverpools-manager-arne-slot-looks-1061383281.jpg",
             "source": "TalkSport Football",
             "category": "Football",
             "link": "https://talksport.com/football/4008295/liverpool-arne-slot-dominik-szoboszlai-experiment-shake-up/",
@@ -503,6 +503,46 @@
     ],
     "News": [
         {
+            "id": "https://www.thesun.co.uk/news/38341383/missing-mom-vanished-24-years-ago-found-secret-life/",
+            "title": "Tragic reason why mom who vanished 24 years ago wasn’t reported missing is revealed after she’s found living secret life",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fmichelle-hundley-smith-1.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38341383/missing-mom-vanished-24-years-ago-found-secret-life/",
+            "timestamp": "2026-02-26 01:08:35",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/news/38340853/epstein-trafficking-women-british-airports-cops-probe-flight-logs/",
+            "title": "Epstein was ‘trafficking women through British airports’ until a month before 2019 arrest as cops probe flight logs",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2F2019-awaiting-trial-sex-trafficking-1058737557.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38340853/epstein-trafficking-women-british-airports-cops-probe-flight-logs/",
+            "timestamp": "2026-02-26 00:06:13",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/news/38340100/witchcraft-beliefs-considered-crackdown-honour-abuse/",
+            "title": "Witchcraft-related beliefs will now be considered by prosecutors in ‘honour-based abuse’ crackdown",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fmale-lawyer-working-contract-papers-1057516561_115d16.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38340100/witchcraft-beliefs-considered-crackdown-honour-abuse/",
+            "timestamp": "2026-02-26 00:01:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/news/38341197/body-found-river-missing-woman-disappeared/",
+            "title": "Body found in river during search for missing woman, 56, who disappeared nearly two weeks ago",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-z2gnprd1j-1772063423815.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38341197/body-found-river-missing-woman-disappeared/",
+            "timestamp": "2026-02-25 23:51:30",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.thesun.co.uk/news/38340700/child-killer-200-sex-images-prison-cell-madeleine-mcann/",
             "title": "Notorious child killer Marc Dutroux ‘found with 200 abuse images in his prison cell’",
             "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38340843.jpg",
@@ -514,7 +554,7 @@
         },
         {
             "id": "https://www.thesun.co.uk/news/38341057/iran-rebuild-nuclear-weapons-trump-jd-vance/",
-            "title": "Iran is trying to rebuild nuclear program after Trump bombings, JD Vance warns as US armada builds off coast",
+            "title": "Iran is trying to rebuild nuclear weapons after Trump bombings, JD Vance warns as US armada builds off coast",
             "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-jvirjigri-1772059927198.jpg",
             "source": "The Sun - News",
             "category": "News",
@@ -563,43 +603,43 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38339480/kate-ferguson-working-class-kids-labour-education-reforms-betrayal/",
-            "title": "Why working class kids will be the REAL losers from Labour’s education reforms betrayal",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-v2x9084us-1772051145862.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/world-news/speedboat-opened-fire-cuban-officials-36782447",
+            "title": "US speedboat 'opened fire' on Cuban officials as four dead and more injured",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782460.ece/ALTERNATES/s615/1_gettyimages-1234086002-612x612.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38339480/kate-ferguson-working-class-kids-labour-education-reforms-betrayal/",
-            "timestamp": "2026-02-25 21:00:00",
+            "link": "https://www.mirror.co.uk/news/world-news/speedboat-opened-fire-cuban-officials-36782447",
+            "timestamp": "2026-02-26 02:24:39",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38336484/colin-robertson-angela-rayner-nightlife-save-clubs/",
-            "title": "Raver Rayner championed policies that killed Britain’s nightlife – if MP wants to save clubs, here’s what she must do",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-vk3h2jnxw-1772039475998.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/health/lorraine-doctor-amir-khans-two-36781106",
+            "title": "Lorraine doctor Amir Khan's two golden rules to cut risk of heart disease and inflammation",
+            "imageUrl": "https://i2-prod.irishmirror.ie/news/irish-news/health-news/article36510684.ece/ALTERNATES/s615/0_Channel-5-2020-Upfront-Photocall.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38336484/colin-robertson-angela-rayner-nightlife-save-clubs/",
-            "timestamp": "2026-02-25 21:00:00",
+            "link": "https://www.mirror.co.uk/news/health/lorraine-doctor-amir-khans-two-36781106",
+            "timestamp": "2026-02-26 02:21:00",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38338942/afghan-migrant-smuggler-films-laughing-relaxing-uk-jail/",
-            "title": "Smirking Afghan ‘migrant smuggler’ films himself laughing and relaxing with snacks and TV in cushy UK jail",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-damlp5hg8-1772045510550.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/us-news/police-body-cam-footage-shows-36782435",
+            "title": "Police body cam footage shows Vince McMahon’s 100 mph car crash",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782437.ece/ALTERNATES/s615/0_Screenshot-2026-02-26-at-112017.png",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38338942/afghan-migrant-smuggler-films-laughing-relaxing-uk-jail/",
-            "timestamp": "2026-02-25 21:00:00",
+            "link": "https://www.mirror.co.uk/news/us-news/police-body-cam-footage-shows-36782435",
+            "timestamp": "2026-02-26 01:33:23",
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38339403/buckingham-palace-soldiers-arrested-throat-cut/",
-            "title": "Two soldiers who guarded Buckingham Palace arrested after colleague’s throat cut with broken glass",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Faerial-view-military-barracks-catterick-1062001054_bc758e.jpg",
-            "source": "The Sun - News",
+            "id": "https://www.mirror.co.uk/news/health/gut-health-doctors-acid-reflux-36780215",
+            "title": "Gut health doctor's three rules to stop acid reflux and heartburn",
+            "imageUrl": "https://i2-prod.mirror.co.uk/news/uk-news/article36780214.ece/ALTERNATES/s615/0_Woman-suffering-chest-pain-while-sitting-on-sofa-at-home.jpg",
+            "source": "Mirror News",
             "category": "News",
-            "link": "https://www.thesun.co.uk/news/38339403/buckingham-palace-soldiers-arrested-throat-cut/",
-            "timestamp": "2026-02-25 21:00:00",
+            "link": "https://www.mirror.co.uk/news/health/gut-health-doctors-acid-reflux-36780215",
+            "timestamp": "2026-02-26 00:14:00",
             "isSaved": 0
         },
         {
@@ -653,46 +693,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.mirror.co.uk/news/royals/epstein-blamed-charles-same-day-36782098",
-            "title": "Epstein blamed Charles on same day Andrew lost his job as UK trade envoy",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782111.ece/ALTERNATES/s615/7_FILES-BRITAIN-ROYALS-POLITICS-ANDREW.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/royals/epstein-blamed-charles-same-day-36782098",
-            "timestamp": "2026-02-25 22:14:39",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/us-news/plane-forced-make-emergency-landing-36782031",
-            "title": "Plane forced to make emergency landing after power bank EXPLODES in cabin",
-            "imageUrl": "https://i2-prod.dailystar.co.uk/incoming/article36420565.ece/ALTERNATES/s615/2_Alaska-Airlines-At-San-Diego-International-Airport.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/us-news/plane-forced-make-emergency-landing-36782031",
-            "timestamp": "2026-02-25 22:03:06",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/breaking-desperate-hunt-launched-missing-36780014",
-            "title": "Desperate hunt launched for missing woman who vanished in silver car",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782140.ece/ALTERNATES/s615/0_download-2.png",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/breaking-desperate-hunt-launched-missing-36780014",
-            "timestamp": "2026-02-25 21:54:28",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/money/majority-jobs-go-popular-soft-36781848",
-            "title": "Majority of jobs to go at popular soft drink firm in huge blow to staff",
-            "imageUrl": "https://i2-prod.mirror.co.uk/news/uk-news/article36781847.ece/ALTERNATES/s615/0_CFR_NJL_280918fentimans_02.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/money/majority-jobs-go-popular-soft-36781848",
-            "timestamp": "2026-02-25 21:43:42",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
             "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f16/live/170d1a60-10d1-11f1-97cc-8b3c62c7814d.jpg",
@@ -713,6 +713,36 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss",
+            "title": "Racism and 'poor' staff relationships factors in maternity care failings, report finds",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9cb/live/01b36ae0-1282-11f1-9120-a910fc22c6ac.jpg",
+            "source": "BBC News",
+            "category": "News",
+            "link": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-26 00:02:14",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&at_campaign=rss",
+            "title": "There's a solution for e-bike parking chaos - but its not problem free",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b0/live/5bf274e0-1261-11f1-801d-ed3cff6bf876.jpg",
+            "source": "BBC News",
+            "category": "News",
+            "link": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-26 00:05:11",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+            "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/84548670-1258-11f1-b048-c9424b2cf5fd.png",
+            "source": "BBC News",
+            "category": "News",
+            "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-26 00:02:48",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss",
             "title": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d861/live/e04d0800-127e-11f1-9120-a910fc22c6ac.jpg",
@@ -720,36 +750,6 @@
             "category": "News",
             "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss",
             "timestamp": "2026-02-25 20:30:46",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.bbc.com/news/articles/c39w187jkj1o?at_medium=RSS&at_campaign=rss",
-            "title": "'Jekyll and Hyde' killer guilty of shooting ex-colleague on remote country path",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079c/live/bc8cd8a0-0d83-11f1-a355-f9c151a9e8be.jpg",
-            "source": "BBC News",
-            "category": "News",
-            "link": "https://www.bbc.com/news/articles/c39w187jkj1o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 16:33:50",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.bbc.com/news/articles/cr5lqd4g338o?at_medium=RSS&at_campaign=rss",
-            "title": "UK government denies Chagos Islands deal is paused, after minister said it was",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg",
-            "source": "BBC News",
-            "category": "News",
-            "link": "https://www.bbc.com/news/articles/cr5lqd4g338o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 16:38:25",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&at_campaign=rss",
-            "title": "Man accused of driving wife to suicide claims she lied about abuse, jury told",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d6/live/9547cca0-126a-11f1-b048-c9424b2cf5fd.png",
-            "source": "BBC News",
-            "category": "News",
-            "link": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 17:24:07",
             "isSaved": 0
         },
         {
@@ -763,37 +763,47 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/crl45x52ejgo?at_medium=RSS&at_campaign=rss",
-            "title": "Sperm swim more quickly in summer, study finds",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9066/live/fc3a0fe0-1260-11f1-808c-3f897f9a068e.jpg",
+            "id": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&at_campaign=rss",
+            "title": "Man accused of driving wife to suicide claims she lied about abuse, jury told",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d6/live/9547cca0-126a-11f1-b048-c9424b2cf5fd.png",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/crl45x52ejgo?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 17:18:08",
+            "link": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 17:24:07",
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/crrxjzrexr1o?at_medium=RSS&at_campaign=rss",
-            "title": "BBC broadcast of racial slur at Baftas unacceptable, says culture secretary",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f8/live/8b5d6660-109d-11f1-b048-c9424b2cf5fd.jpg",
+            "id": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+            "title": "US and Iran to hold talks as pressure for nuclear deal builds",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2380/live/fed26270-126a-11f1-b048-c9424b2cf5fd.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/crrxjzrexr1o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 19:55:24",
+            "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-26 00:09:47",
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-            "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d04a/live/67d87ed0-1293-11f1-968e-4d50907d82c2.jpg",
+            "id": "https://www.bbc.com/news/articles/cr5lqd4g338o?at_medium=RSS&at_campaign=rss",
+            "title": "UK government denies Chagos Islands deal is paused, after minister said it was",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg",
             "source": "BBC News",
             "category": "News",
-            "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-25 23:23:13",
+            "link": "https://www.bbc.com/news/articles/cr5lqd4g338o?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-25 16:38:25",
             "isSaved": 0
         }
     ],
     "Boxing": [
+        {
+            "id": "https://www.dailymail.co.uk/sport/boxing/article-15593061/Boxing-legend-Ruben-Castillo-dies-68.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Boxing legend Ruben Castillo, who faced some of the biggest names in the sport's history, dies at 68",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/23/106684261-0-image-a-22_1772063470005.jpg",
+            "source": "Daily Mail Boxing",
+            "category": "Boxing",
+            "link": "https://www.dailymail.co.uk/sport/boxing/article-15593061/Boxing-legend-Ruben-Castillo-dies-68.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-26 00:25:37",
+            "isSaved": 0
+        },
         {
             "id": "https://www.dailymail.co.uk/sport/boxing/article-15592609/Frank-Warren-Conor-Benn-split-Eddie-Hearn-Saudi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "title": "Frank Warren gives verdict on Conor Benn's split from Eddie Hearn - as he refuses to speak on his breakdown in relationship with Saudi backers",
@@ -883,19 +893,39 @@
             "link": "https://www.dailymail.co.uk/sport/boxing/article-15579189/jake-paul-second-jaw-surgery-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "timestamp": "2026-02-21 00:07:45",
             "isSaved": 0
-        },
-        {
-            "id": "https://www.dailymail.co.uk/sport/boxing/article-15579091/Conor-Benn-splits-long-time-promoter-Eddie-Hearn-eight-figure-deal-rival-Dana-White.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Conor Benn sensationally splits from long-time promoter Eddie Hearn after 10 years - as British fighter inks an 'eight-figure' deal with rival Dana White's fledgling company",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/21/00/106559751-0-image-a-9_1771632315692.jpg",
-            "source": "Daily Mail Boxing",
-            "category": "Boxing",
-            "link": "https://www.dailymail.co.uk/sport/boxing/article-15579091/Conor-Benn-splits-long-time-promoter-Eddie-Hearn-eight-figure-deal-rival-Dana-White.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-21 00:05:18",
-            "isSaved": 0
         }
     ],
     "Sports": [
+        {
+            "id": "https://www.dailymail.co.uk/sport/rugbyunion/article-15590839/Steve-Borthwick-England-blueprint-Mandela-energisers-Clive-Woodward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "SIR CLIVE WOODWARD: I've been exactly where Steve Borthwick is now and I believe he can turn England around - here's my blueprint for what he should do, from Nelson Mandela to 'energisers'",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/13/106661091-0-image-a-8_1772025261499.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/rugbyunion/article-15590839/Steve-Borthwick-England-blueprint-Mandela-energisers-Clive-Woodward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-26 02:57:50",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15592811/Atalanta-dump-Borussia-Dortmund-Champions-League-final-kick-game-brutal-high-tackle-leads-THREE-red-cards-blood-soaked-player.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Atalanta dump Borussia Dortmund out of the Champions League with final kick of the game as brutal high tackle leads to THREE red cards and a blood-soaked player",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/20/106678461-0-image-a-23_1772049918662.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15592811/Atalanta-dump-Borussia-Dortmund-Champions-League-final-kick-game-brutal-high-tackle-leads-THREE-red-cards-blood-soaked-player.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-26 01:51:27",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.dailymail.co.uk/sport/football/article-15593321/Real-Madrid-Bernabeu-Nazi-salute-Benfica.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "title": "Real Madrid fan is kicked out of the Bernabeu for 'performing a Nazi salute' at the start of Champions League second leg against Benfica",
+            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/23/106684357-0-image-a-74_1772063911848.jpg",
+            "source": "Daily Mail Sport",
+            "category": "Sports",
+            "link": "https://www.dailymail.co.uk/sport/football/article-15593321/Real-Madrid-Bernabeu-Nazi-salute-Benfica.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "timestamp": "2026-02-26 00:26:44",
+            "isSaved": 0
+        },
         {
             "id": "https://www.dailymail.co.uk/sport/football/article-15593257/Forgotten-Newcastle-flop-furiously-KICKS-tunnel-shown-controversial-red-card-thrilling-Champions-League-clash-Juventus-Galatasaray.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
             "title": "Forgotten Newcastle flop furiously KICKS the tunnel after being shown controversial red card during thrilling Champions League clash between Juventus and Galatasaray",
@@ -967,36 +997,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15592811/Atalanta-dump-Borussia-Dortmund-Champions-League-final-kick-game-brutal-high-tackle-leads-THREE-red-cards-blood-soaked-player.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Atalanta dump Borussia Dortmund out of the Champions League with final kick of the game as brutal high tackle leads to THREE red cards and a blood-soaked player",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/20/106678461-0-image-a-23_1772049918662.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15592811/Atalanta-dump-Borussia-Dortmund-Champions-League-final-kick-game-brutal-high-tackle-leads-THREE-red-cards-blood-soaked-player.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 21:35:33",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15592937/Benfica-fans-Spanish-riot-police-Real-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Benfica fans clash with Spanish riot police in violent scenes ahead of Real Madrid's Champions League game - before large sections of supporters BOO Vinicius Jr during the fixture",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/21/106680229-0-image-a-46_1772053958218.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15592937/Benfica-fans-Spanish-riot-police-Real-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 21:34:55",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.dailymail.co.uk/sport/football/article-15591187/Man-United-chief-hails-clubs-positive-financial-results-sign-Sir-Jim-Ratcliffes-brutal-cost-cutting-methods-worked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "title": "Sir Jim Ratcliffe's brutal cost-cutting measures have WORKED: Man United chief lauds club's positive financial results after co-owner ruthlessly wielded the axe",
-            "imageUrl": "https://i.dailymail.co.uk/1s/2026/02/25/13/106666405-0-image-a-30_1772024563516.jpg",
-            "source": "Daily Mail Sport",
-            "category": "Sports",
-            "link": "https://www.dailymail.co.uk/sport/football/article-15591187/Man-United-chief-hails-clubs-positive-financial-results-sign-Sir-Jim-Ratcliffes-brutal-cost-cutting-methods-worked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-            "timestamp": "2026-02-25 20:38:11",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.mirror.co.uk/sport/boxing/hearn-white-benn-zuffa-sonnen-36782105",
             "title": "Eddie Hearn told he 'f***** up' by doing one thing in Dana White drama saga",
             "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782132.ece/ALTERNATES/s615/0_Boxing-In-Nottingham-Last-Man-Standing-Leigh-Wood-v-Josh-Warrington.jpg",
@@ -1017,23 +1017,13 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/nba/story/_/id/48016100/inside-secret-history-black-mamba-kobe-bryant-michael-jordan-air-jordan-19",
-            "title": "Inside the secret history of the black mamba",
-            "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0912%2Fnba_nike%2Dblack%2Dmamba_16x9.jpg?width=400",
-            "source": "ESPN",
-            "category": "Sports",
-            "link": "https://www.espn.com/nba/story/_/id/48016100/inside-secret-history-black-mamba-kobe-bryant-michael-jordan-air-jordan-19",
-            "timestamp": "2026-02-25 19:17:49",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.espn.com/nhl/story/_/id/48033965/hilary-knight-responds-trump-comment-women",
             "title": "Hilary Knight: Women's team joke 'distasteful'",
             "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0219%2Fr1617465_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nhl/story/_/id/48033965/hilary-knight-responds-trump-comment-women",
-            "timestamp": "2026-02-25 23:40:50",
+            "timestamp": "2026-02-26 01:28:20",
             "isSaved": 0
         },
         {
@@ -1043,7 +1033,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/college-football/story/_/id/48035774/cincinnati-sues-sorsby-1m-exit-fee-texas-tech-transfer",
-            "timestamp": "2026-02-25 23:40:50",
+            "timestamp": "2026-02-26 01:28:20",
             "isSaved": 0
         },
         {
@@ -1053,27 +1043,37 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nba/story/_/id/48035589/suns-owner-mat-ishbia-wants-offer-1-million-prize-winners-all-star-weekend-slam-dunk-contest-three-point-contest",
-            "timestamp": "2026-02-25 23:40:50",
+            "timestamp": "2026-02-26 01:28:20",
             "isSaved": 0
         },
         {
             "id": "https://www.espn.com/nba/story/_/id/48036464/porter-banned-nba-signs-usbl-superhawks",
-            "title": "Banned NBA'er Porter joins USBL's Superhawks",
+            "title": "Banned by NBA, Porter joins USBL's SuperHawks",
             "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0412%2Fr1318077_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nba/story/_/id/48036464/porter-banned-nba-signs-usbl-superhawks",
-            "timestamp": "2026-02-25 23:40:50",
+            "timestamp": "2026-02-26 01:28:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/nfl/story/_/id/48034214/source-bears-allow-lb-tremaine-edmunds-seek-trade",
-            "title": "Source: Bears allow LB Edmunds to seek trade",
-            "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1619941_1296x729_16%2D9.jpg?width=400",
+            "id": "https://www.espn.com/nhl/story/_/id/48037313/devils-honor-jack-hughes-golden-olympic-goal",
+            "title": "Devils honor Jack Hughes as NHL play resumes",
+            "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0226%2Fr1620157_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/nfl/story/_/id/48034214/source-bears-allow-lb-tremaine-edmunds-seek-trade",
-            "timestamp": "2026-02-25 23:40:50",
+            "link": "https://www.espn.com/nhl/story/_/id/48037313/devils-honor-jack-hughes-golden-olympic-goal",
+            "timestamp": "2026-02-26 01:28:20",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.espn.com/mlb/story/_/id/48037530/yankees-retire-cc-sabathia-no-52-jersey-sept-26",
+            "title": "Sabathia to be 24th Yankee with retired number",
+            "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0716%2Fr571055_1296x729_16%2D9.jpg?width=400",
+            "source": "ESPN",
+            "category": "Sports",
+            "link": "https://www.espn.com/mlb/story/_/id/48037530/yankees-retire-cc-sabathia-no-52-jersey-sept-26",
+            "timestamp": "2026-02-26 01:28:20",
             "isSaved": 0
         },
         {
@@ -1083,27 +1083,17 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/espn/betting/story/_/id/48033806/shai-gilgeous-alexander-nikola-jokic-nearing-mvp-ineligibility",
-            "timestamp": "2026-02-25 23:40:50",
+            "timestamp": "2026-02-26 01:28:20",
             "isSaved": 0
         },
         {
-            "id": "https://www.espn.com/soccer/story/_/id/48034957/vinicius-junior-boo-benfica-fans-real-madrid-banner",
-            "title": "Vinícius seals Madrid progress amid Benfica boos",
-            "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1620029_1296x729_16%2D9.jpg?width=400",
+            "id": "https://www.espn.com/mlb/story/_/id/48036553/pirates-paul-skenes-had-golden-motivation-team-usa-wbc",
+            "title": "Skenes sees gold for U.S. at WBC: 'What we do'",
+            "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0226%2Fr1620135_1296x729_16%2D9.jpg?width=400",
             "source": "ESPN",
             "category": "Sports",
-            "link": "https://www.espn.com/soccer/story/_/id/48034957/vinicius-junior-boo-benfica-fans-real-madrid-banner",
-            "timestamp": "2026-02-25 23:40:50",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.espn.com/nba/story/_/id/48034058/cavaliers-james-harden-non-displaced-fracture-right-thumb",
-            "title": "Harden questionable for Cavs with thumb fracture",
-            "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1619655_1296x729_16%2D9.jpg?width=400",
-            "source": "ESPN",
-            "category": "Sports",
-            "link": "https://www.espn.com/nba/story/_/id/48034058/cavaliers-james-harden-non-displaced-fracture-right-thumb",
-            "timestamp": "2026-02-25 23:40:50",
+            "link": "https://www.espn.com/mlb/story/_/id/48036553/pirates-paul-skenes-had-golden-motivation-team-usa-wbc",
+            "timestamp": "2026-02-26 01:28:20",
             "isSaved": 0
         },
         {
@@ -1113,7 +1103,17 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nfl/draft2026/story/_/id/47989848/2026-nfl-mock-draft-kiper-32-picks-pre-combine-predictions-round-1",
-            "timestamp": "2026-02-25 23:40:50",
+            "timestamp": "2026-02-26 01:28:20",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.espn.com/nba/story/_/id/48016100/inside-secret-history-black-mamba-kobe-bryant-michael-jordan-air-jordan-19",
+            "title": "Inside the secret history of the black mamba",
+            "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0912%2Fnba_nike%2Dblack%2Dmamba_16x9.jpg?width=400",
+            "source": "ESPN",
+            "category": "Sports",
+            "link": "https://www.espn.com/nba/story/_/id/48016100/inside-secret-history-black-mamba-kobe-bryant-michael-jordan-air-jordan-19",
+            "timestamp": "2026-02-25 19:17:49",
             "isSaved": 0
         },
         {
@@ -1219,6 +1219,66 @@
     ],
     "Ghana News": [
         {
+            "id": "https://www.myjoyonline.com/us-denies-visas-to-cuban-baseball-officials-ahead-of-international-tournament/",
+            "title": "US denies visas to Cuban baseball officials ahead of international tournament",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2320-1024x673.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/us-denies-visas-to-cuban-baseball-officials-ahead-of-international-tournament/",
+            "timestamp": "2026-02-26 03:06:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/ivory-coast-unsold-cocoa-stocks-set-to-soar-if-price-standoff-persists/",
+            "title": "Ivory Coast unsold cocoa stocks set to soar if price standoff persists",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-1827-1024x683.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/ivory-coast-unsold-cocoa-stocks-set-to-soar-if-price-standoff-persists/",
+            "timestamp": "2026-02-25 23:24:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/south-africa-says-most-of-a-group-of-17-men-lured-into-fighting-for-russia-set-to-return-home/",
+            "title": "South Africa says most of a group of 17 men lured into fighting for Russia set to return home",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2319-1024x683.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/south-africa-says-most-of-a-group-of-17-men-lured-into-fighting-for-russia-set-to-return-home/",
+            "timestamp": "2026-02-25 23:13:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/gunmen-kill-at-least-25-in-twin-attacks-in-nigerias-adamawa-state/",
+            "title": "Gunmen kill at least 25 in twin attacks in Nigeria’s Adamawa state",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-187-1024x672.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/gunmen-kill-at-least-25-in-twin-attacks-in-nigerias-adamawa-state/",
+            "timestamp": "2026-02-25 23:01:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/us-burkina-faso-sign-health-cooperation-memo/",
+            "title": "US, Burkina Faso sign health cooperation memo",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2318-1024x698.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/us-burkina-faso-sign-health-cooperation-memo/",
+            "timestamp": "2026-02-25 22:40:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/more-than-1700-africans-fighting-for-russia-ukraine-tells-ablakwa/",
+            "title": "More than 1,700 Africans fighting for Russia, Ukraine tells Ablakwa",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2316-1024x682.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/more-than-1700-africans-fighting-for-russia-ukraine-tells-ablakwa/",
+            "timestamp": "2026-02-25 22:33:00",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.myjoyonline.com/pope-leo-to-tour-four-african-countries-in-first-major-overseas-trip-of-2026-2/",
             "title": "Pope Leo to tour four African countries in first major overseas trip of 2026",
             "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2315-1024x660.png",
@@ -1259,63 +1319,23 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/fda-orders-removal-of-mixed-drinks-containing-both-alcohol-and-stimulants-from-market-by-march/",
-            "title": "FDA orders removal of mixed drinks containing both alcohol and stimulants from market by March",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/FDA.jpg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Council-of-State-member-detained-by-GoldBod-2023324",
+            "title": "Council of State member detained by GoldBod",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/921/92166170.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/fda-orders-removal-of-mixed-drinks-containing-both-alcohol-and-stimulants-from-market-by-march/",
-            "timestamp": "2026-02-25 21:12:35",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Council-of-State-member-detained-by-GoldBod-2023324",
+            "timestamp": "2026-02-26 00:31:33",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/nothing-new-you-just-renamed-bawumias-g4r-policy-ganrap-gideon-boako-to-finance-minister/",
-            "title": "Nothing new; you just renamed Bawumia’s G4R policy GANRAP – Gideon Boako to Finance Minister",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/a8b71dd0-92be-4f0a-a194-5fcd6a1f5bd3-772x1024.jpeg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/039-When-cocoa-farmers-cried-over-delayed-payments-you-gave-them-a-haircut-039-Minority-2023323",
+            "title": "'When cocoa farmers cried over delayed payments, you gave them a ‘haircut' - Minority",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/869/86941430.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/nothing-new-you-just-renamed-bawumias-g4r-policy-ganrap-gideon-boako-to-finance-minister/",
-            "timestamp": "2026-02-25 21:03:21",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/john-jinapor-commissions-mbh-power-ghana-ltd-s-energy-meter-manufacturing-unit/",
-            "title": "John Jinapor commissions MBH Power Ghana Ltd.’s energy meter manufacturing unit",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/56af3c8d-c837-4319-95c0-524a1d5db1d4-1024x682.jpeg",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/john-jinapor-commissions-mbh-power-ghana-ltd-s-energy-meter-manufacturing-unit/",
-            "timestamp": "2026-02-25 20:54:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/ukraine-refutes-claims-linking-it-to-burkina-faso-attack/",
-            "title": "Ukraine refutes claims linking it to Burkina Faso attack",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-19.59.44-904x1024.jpeg",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/ukraine-refutes-claims-linking-it-to-burkina-faso-attack/",
-            "timestamp": "2026-02-25 20:28:10",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/a-quiet-ride-through-kumasi-how-a-climate-journalist-is-rethinking-urban-transport/",
-            "title": "A quiet ride through Kumasi: How a climate journalist is rethinking urban transport",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/3I2A3563.JPG-scaled-e1772050355863-826x1024.jpeg",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/a-quiet-ride-through-kumasi-how-a-climate-journalist-is-rethinking-urban-transport/",
-            "timestamp": "2026-02-25 20:24:37",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/nsa-releases-postings-for-6867-nurses-and-midwives/",
-            "title": "NSA releases postings for 6,867 nurses and midwives",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/National-Service-Authority-HQ-Accra.jpg",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/nsa-releases-postings-for-6867-nurses-and-midwives/",
-            "timestamp": "2026-02-25 20:10:39",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/039-When-cocoa-farmers-cried-over-delayed-payments-you-gave-them-a-haircut-039-Minority-2023323",
+            "timestamp": "2026-02-25 23:51:09",
             "isSaved": 0
         },
         {
@@ -1397,26 +1417,6 @@
             "link": "https://www.ghanaweb.com/GhanaHomePage/business/Heavy-duty-equipment-operators-petition-Ghana-Shippers-Authority-2023312",
             "timestamp": "2026-02-25 20:53:35",
             "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/My-son-is-traumatised-fighting-to-heal-Father-of-assaulted-Obrachire-student-speaks-out-2023311",
-            "title": "‘My son is traumatised, fighting to heal’ - Father of assaulted Obrachire student speaks out",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/314/31491195.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/My-son-is-traumatised-fighting-to-heal-Father-of-assaulted-Obrachire-student-speaks-out-2023311",
-            "timestamp": "2026-02-25 20:50:14",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Parents-churches-must-help-curb-moral-breakdown-in-schools-FMI-2023310",
-            "title": "Parents, churches must help curb moral breakdown in schools – FMI",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/391/39135708.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Parents-churches-must-help-curb-moral-breakdown-in-schools-FMI-2023310",
-            "timestamp": "2026-02-25 19:27:37",
-            "isSaved": 0
         }
     ],
     "World": [
@@ -1427,7 +1427,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-            "timestamp": "2026-02-25 23:50:14",
+            "timestamp": "2026-02-26 03:16:03",
             "isSaved": 0
         },
         {
@@ -1457,7 +1457,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://cnn.it/411KYN7",
-            "timestamp": "2026-02-25 23:50:14",
+            "timestamp": "2026-02-26 03:16:03",
             "isSaved": 0
         },
         {
@@ -1467,7 +1467,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-            "timestamp": "2026-02-25 23:50:14",
+            "timestamp": "2026-02-26 03:16:03",
             "isSaved": 0
         },
         {
@@ -1521,6 +1521,76 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.aljazeera.com/news/2026/2/26/former-us-f-35-fighter-pilot-arrested-for-training-chinese-air-force?traffic_source=rss",
+            "title": "Former US F-35 fighter pilot arrested for training Chinese air force",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/10/ap_68fa5169b4e18-1761235305.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/26/former-us-f-35-fighter-pilot-arrested-for-training-chinese-air-force?traffic_source=rss",
+            "timestamp": "2026-02-26 02:23:32",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss",
+            "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-19T130537Z_1348561510_RC21PJAVY7W1_RTRMADP_3_IRAN-CRISIS-USA-1772070738_0a9341-1772071341.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss",
+            "timestamp": "2026-02-26 02:14:16",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/26/brazils-supreme-court-imposes-steep-sentences-for-marielle-franco-murder?traffic_source=rss",
+            "title": "Brazil’s Supreme Court imposes steep sentences for Marielle Franco murder",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26055547967341-1772040407.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/26/brazils-supreme-court-imposes-steep-sentences-for-marielle-franco-murder?traffic_source=rss",
+            "timestamp": "2026-02-26 01:37:11",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/26/death-toll-in-brazilian-floods-rises-to-46-as-rescuers-continue-search?traffic_source=rss",
+            "title": "Death toll in Brazilian floods rises to 46 as rescuers continue search",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26056495580343-1772061276.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/26/death-toll-in-brazilian-floods-rises-to-46-as-rescuers-continue-search?traffic_source=rss",
+            "timestamp": "2026-02-26 00:47:51",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/26/russia-ukraine-war-list-of-key-events-day-1463?traffic_source=rss",
+            "title": "Russia-Ukraine war: List of key events, day 1,463",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-25T174204Z_1112191587_RC2XSJARLKFJ_RTRMADP_3_UKRAINE-CRISIS-EAST-DRONES-1-1772065421.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/26/russia-ukraine-war-list-of-key-events-day-1463?traffic_source=rss",
+            "timestamp": "2026-02-26 00:43:07",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/25/us-judge-rules-trump-policy-of-third-country-deportations-unlawful?traffic_source=rss",
+            "title": "US judge rules Trump policy of ‘third country’ deportations unlawful",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26043850286729-1772059558.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/25/us-judge-rules-trump-policy-of-third-country-deportations-unlawful?traffic_source=rss",
+            "timestamp": "2026-02-25 23:59:54",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/features/2026/2/25/questions-for-marcos-jr-40-years-after-philippines-people-power-revolt?traffic_source=rss",
+            "title": "Questions for Marcos Jr 40 years after Philippines ‘People Power’ revolt",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20250716__66TM466__v2__MidRes__PhilippinesExileFourthInaugurationPeoplePowerRev-1771251048.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/features/2026/2/25/questions-for-marcos-jr-40-years-after-philippines-people-power-revolt?traffic_source=rss",
+            "timestamp": "2026-02-25 23:31:45",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.aljazeera.com/economy/2026/2/25/will-mexicos-jalisco-cartels-violent-biz-model-survive-el-menchos-death?traffic_source=rss",
             "title": "Will Mexico’s Jalisco cartel’s violent biz model survive El Mencho’s death?",
             "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/ap_699d4ddf3040e-1771916767.jpg",
@@ -1551,83 +1621,13 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.aljazeera.com/sports/2026/2/25/vinicius-hits-winner-as-real-madrid-eliminate-benfica-from-champions-league?traffic_source=rss",
-            "title": "Vinicius hits winner as Real Madrid eliminate Benfica from Champions League",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_699f711d-1772056861.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/sports/2026/2/25/vinicius-hits-winner-as-real-madrid-eliminate-benfica-from-champions-league?traffic_source=rss",
-            "timestamp": "2026-02-25 22:25:25",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss",
-            "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2024/05/AFP__20220209__9YY8F8__v1__HighRes__IsraelEspionagePoliceInvestigation-1-1714708710.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss",
-            "timestamp": "2026-02-25 22:12:17",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/25/ukraine-claims-russia-enlisting-over-1700-african-mercenaries?traffic_source=rss",
-            "title": "Ukraine alleges Russia enlists more than 1,700 Africans to fight",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-25T181029Z_688926346_RC23TJA3VI64_RTRMADP_3_UKRAINE-CRISIS-SAFRICA-1772044678.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/25/ukraine-claims-russia-enlisting-over-1700-african-mercenaries?traffic_source=rss",
-            "timestamp": "2026-02-25 22:11:17",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
-            "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_699f15f2-1772033522.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
-            "timestamp": "2026-02-25 20:39:55",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss",
-            "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260225__98WU4L4__v1__HighRes__IsraelIndiaDiplomacy_cropped-1772050544.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss",
-            "timestamp": "2026-02-25 20:38:16",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/25/influential-economist-larry-summers-to-depart-harvard-over-epstein-ties?traffic_source=rss",
-            "title": "Influential economist Larry Summers to depart Harvard over Epstein ties",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP18144667952951-1772046486.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/25/influential-economist-larry-summers-to-depart-harvard-over-epstein-ties?traffic_source=rss",
-            "timestamp": "2026-02-25 20:18:41",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/video/newsfeed/2026/2/25/massive-sinkhole-swallows-two-cars-in-nebraska?traffic_source=rss",
-            "title": "Massive sinkhole swallows two cars in Nebraska",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/image-1772049608.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/massive-sinkhole-swallows-two-cars-in-nebraska?traffic_source=rss",
-            "timestamp": "2026-02-25 20:02:41",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
-            "title": "Live Updates: Cuba Says Troops Kill 4 and Wound 6 on Florida Speedboat",
+            "title": "Florida Boat in Gunfight Had Cuban Nationals Intent on ‘Infiltration,’ Cuba Says",
             "imageUrl": "https://static01.nyt.com/images/2026/02/25/multimedia/25cuba-boat-flags-phjf/25cuba-boat-flags-phjf-mediumSquareAt3X.jpg",
             "source": "NYT World",
             "category": "World",
             "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
-            "timestamp": "2026-02-25 23:34:44",
+            "timestamp": "2026-02-26 02:39:24",
             "isSaved": 0
         },
         {
@@ -1823,6 +1823,26 @@
             "isSaved": 0
         },
         {
+            "id": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+            "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/Marc-Benioff.png",
+            "source": "TechCrunch",
+            "category": "Tech",
+            "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+            "timestamp": "2026-02-26 01:59:12",
+            "isSaved": 0
+        },
+        {
+            "id": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+            "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/gushwork-co-founders.jpg",
+            "source": "TechCrunch",
+            "category": "Tech",
+            "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+            "timestamp": "2026-02-26 00:00:00",
+            "isSaved": 0
+        },
+        {
             "id": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
             "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
             "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg",
@@ -1900,26 +1920,6 @@
             "category": "Tech",
             "link": "https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/",
             "timestamp": "2026-02-25 19:36:03",
-            "isSaved": 0
-        },
-        {
-            "id": "https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia/",
-            "title": "Inside the story of the US defense contractor who leaked hacking tools to Russia",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/l3harris-logo-illustration.jpg",
-            "source": "TechCrunch",
-            "category": "Tech",
-            "link": "https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia/",
-            "timestamp": "2026-02-25 19:30:47",
-            "isSaved": 0
-        },
-        {
-            "id": "https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications/",
-            "title": "Samsung shows off new display tech that adds a privacy screen to apps and notifications",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/privacy-screen.jpeg",
-            "source": "TechCrunch",
-            "category": "Tech",
-            "link": "https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications/",
-            "timestamp": "2026-02-25 19:23:58",
             "isSaved": 0
         },
         {
@@ -2023,6 +2023,86 @@
             "isSaved": 0
         },
         {
+            "id": "https://www.cnet.com/tech/gaming/the-new-york-times-debuts-the-midi-its-in-between-crossword-puzzle/",
+            "title": "New York Times Debuts the Midi Crossword, Its In-Between Puzzle",
+            "imageUrl": "https://www.cnet.com/a/img/resize/f483f8929541907840be98a4f753c1f64fb8f6d6/hub/2026/02/26/7ffc05b2-f931-4fb0-afe3-fe5ecc0d3fa7/midi-crossword-nyt.png",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/gaming/the-new-york-times-debuts-the-midi-its-in-between-crossword-puzzle/",
+            "timestamp": "2026-02-26 02:04:24",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/home/security/adt-acquires-ai-company-for-sensing-people-and-activity-in-your-home/",
+            "title": "ADT Acquires AI Company for Sensing People and Activity in Your Home",
+            "imageUrl": "https://www.cnet.com/a/img/resize/b77769ba2c2f2ffe1721963c74fea726997009ac/hub/2026/02/25/40ab03c5-7b4e-4ef8-b145-d90ee6a53f84/gettyimages-2201919859.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/home/security/adt-acquires-ai-company-for-sensing-people-and-activity-in-your-home/",
+            "timestamp": "2026-02-26 01:48:45",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/mobile/galaxy-unpacked-2026-biggest-announcements/",
+            "title": "The 8 Biggest Announcements from Samsung's Galaxy Unpacked 2026 Event",
+            "imageUrl": "https://www.cnet.com/a/img/resize/2a3aedbcf520aa5f3ee28d55aea6108392c84a5e/hub/2026/02/25/ffe87dfc-5fe4-499d-a7c6-a1f0c21f7892/screenshot-2026-02-25-at-1-10-35pm.png",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/mobile/galaxy-unpacked-2026-biggest-announcements/",
+            "timestamp": "2026-02-26 01:45:21",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/ny-sues-valve-saying-game-developer-promotes-illegal-gambling/",
+            "title": "New York Sues Valve, Saying Game Developer Promotes Illegal Gambling",
+            "imageUrl": "https://www.cnet.com/a/img/resize/3984db83f428db84d51e80c9634ec3d49757c7c5/hub/2026/02/26/ebb01de2-23cf-4795-be58-58f71ac58aab/gettyimages-2213890597.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/ny-sues-valve-saying-game-developer-promotes-illegal-gambling/",
+            "timestamp": "2026-02-26 01:32:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
+            "title": "Galaxy Unpacked 2026 Live Updates: Samsung's S26 Reveal Is Here",
+            "imageUrl": "https://www.cnet.com/a/img/resize/4b3deeea01b3008b51766628c13c5e19393b1dcf/hub/2026/02/19/9d93598b-de0a-4044-949b-ff6b0592a797/samsung-unpacked-live-blog.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
+            "timestamp": "2026-02-26 00:34:45",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+            "title": "Samsung Galaxy S26 Ultra vs. Galaxy S26 and S26 Plus: Flagship Specs Comparison",
+            "imageUrl": "https://www.cnet.com/a/img/resize/c366eccc8830d2d37dcfd6d2fa5cff919f7c1833/hub/2026/02/25/ac95cf79-36c6-4328-ae1f-d68d899f5484/galaxy-unpacked-2026-capture-49-crop.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+            "timestamp": "2026-02-26 00:21:33",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/roadshow/news/hacker-threat-hiding-in-car-tire-pressure-system/",
+            "title": "A Hacker Threat Is Hiding in Your Car's Tire Pressure System",
+            "imageUrl": "https://www.cnet.com/a/img/resize/2a42039ad1582482c0d4f8aa80e9194bf072953b/hub/2026/02/25/0fea911d-50f4-4916-9cf8-c002e3d30cb0/car-tire-pressure-gettyimages-1228382439.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/roadshow/news/hacker-threat-hiding-in-car-tire-pressure-system/",
+            "timestamp": "2026-02-26 00:11:30",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/",
+            "title": "On Expands Robot Factories to Manufacture Its Cloud-Like Sneakers",
+            "imageUrl": "https://www.cnet.com/a/img/resize/61eccffeb788d32df80234557741f28b2c223698/hub/2026/02/25/c69a0d0a-76d5-4c0d-96ee-4aead599fd9e/create-small-jpg-ss26-lightspray-pr-product-still-02.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/",
+            "timestamp": "2026-02-25 23:46:00",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.cnet.com/tech/gaming/the-top-25-best-pokemon-games-of-all-time-ranked/",
             "title": "The Top 25 Best Pokemon Games of All Time, Ranked",
             "imageUrl": "https://www.cnet.com/a/img/resize/8dee8ae8a65006c91b12b691b3138fc34fcd9a04/hub/2025/09/17/e946d05e-dd05-49c9-afb6-593accb8ac0a/legends-za-promo-hed.png",
@@ -2033,16 +2113,6 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
-            "title": "Galaxy Unpacked 2026 Live Updates: Samsung's S26 Reveal Is Here",
-            "imageUrl": "https://www.cnet.com/a/img/resize/4b3deeea01b3008b51766628c13c5e19393b1dcf/hub/2026/02/19/9d93598b-de0a-4044-949b-ff6b0592a797/samsung-unpacked-live-blog.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026-s26-live-updates/",
-            "timestamp": "2026-02-25 22:33:00",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.cnet.com/tech/services-and-software/how-to-watch-the-survivor-50-premiere-without-cable/",
             "title": "How to Watch the 'Survivor 50' Premiere Without Cable",
             "imageUrl": "https://www.cnet.com/a/img/resize/96fd476f91bbf9b889f4c80a478476e2e367318c/hub/2026/02/23/873908b8-fcd6-4d62-ac75-f7be9293ca0f/3088139-1333b.jpg",
@@ -2050,76 +2120,6 @@
             "category": "Tech",
             "link": "https://www.cnet.com/tech/services-and-software/how-to-watch-the-survivor-50-premiere-without-cable/",
             "timestamp": "2026-02-25 22:30:42",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/services-and-software/alexa-plus-is-trying-to-be-brief-chill-or-sweet-i-gave-it-a-test-run/",
-            "title": "Alexa Plus Now Adapts to Your Moods in Real Time: We Try It Out",
-            "imageUrl": "https://www.cnet.com/a/img/resize/a86c211e23faf4c51ac0c79fd33eb6e515c55197/hub/2026/02/25/8dbed3dc-c8ee-4bfc-8852-393c7747c900/alexa-plus-personalities.png",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/services-and-software/alexa-plus-is-trying-to-be-brief-chill-or-sweet-i-gave-it-a-test-run/",
-            "timestamp": "2026-02-25 22:18:13",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/",
-            "title": "On Expands Robot Factories to Manufacture Its Cloud-Like Sneakers",
-            "imageUrl": "https://www.cnet.com/a/img/resize/61eccffeb788d32df80234557741f28b2c223698/hub/2026/02/25/c69a0d0a-76d5-4c0d-96ee-4aead599fd9e/create-small-jpg-ss26-lightspray-pr-product-still-02.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/",
-            "timestamp": "2026-02-25 22:02:59",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-26-991/",
-            "title": "Today's NYT Connections Hints, Answers and Help for Feb. 26, #991",
-            "imageUrl": "https://www.cnet.com/a/img/resize/3986ca4ac5b498c6114118e0dfa25b2a05ae6531/hub/2025/03/26/c70b0a32-884a-4379-b77b-de75776952ba/nyt-word-games-connections-2798.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-26-991/",
-            "timestamp": "2026-02-25 21:00:58",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-26-1713/",
-            "title": "Today's Wordle Hints, Answer and Help for Feb. 26, #1713",
-            "imageUrl": "https://www.cnet.com/a/img/resize/837b400de41f50a97b52a8c799b193be01cea440/hub/2024/05/28/20480816-214e-4fcc-a9b4-b02f0ac71e7c/wordle-word-game-hints-puzzle-8667.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-26-1713/",
-            "timestamp": "2026-02-25 21:00:57",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-26-725/",
-            "title": "Today's NYT Strands Hints, Answers and Help for Feb. 26 #725",
-            "imageUrl": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-26-725/",
-            "timestamp": "2026-02-25 21:00:40",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/services-and-software/dear-samsung-i-dont-need-ai-to-handle-every-task-for-me/",
-            "title": "Dear Samsung, I Don't Need AI to Handle Every Task for Me",
-            "imageUrl": "https://www.cnet.com/a/img/resize/19700bd6b35e8559cc703e9b9c2e4a9b404bec92/hub/2026/02/25/dd611800-ae2d-40df-b8b9-6fa33ad8602b/screenshot-2026-02-25-at-2-05-58pm.png",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/services-and-software/dear-samsung-i-dont-need-ai-to-handle-every-task-for-me/",
-            "timestamp": "2026-02-25 20:54:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/services-and-software/samsung-galaxy-unpacked-2026-ai-environment-commentary/",
-            "title": "Samsung Said 'AI' a Lot at Unpacked. Except When It Talked About the Environment",
-            "imageUrl": "https://www.cnet.com/a/img/resize/9b2037aa518bc8a31012e95dc7bc7f89aae3d9c4/hub/2026/02/25/e017b1af-34ba-419f-ae8e-a4a0ca0317a4/galaxy-for-the-planet-unpacked-2026.png",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/services-and-software/samsung-galaxy-unpacked-2026-ai-environment-commentary/",
-            "timestamp": "2026-02-25 20:46:00",
             "isSaved": 0
         }
     ]
