@@ -1,0 +1,65 @@
+name: News Auto-Sync
+
+on:
+  schedule:
+    # Triggering EVERY 22 minutes
+    - cron: '*/22 * * * *' 
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # CRITICAL FIX 1: Fetch all history so the bot can perform a clean rebase
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          
+          # Install libraries for Deep Full-Text Scraping (lxml_html_clean is here!)
+          pip install feedparser requests beautifulsoup4 newspaper3k lxml lxml_html_clean nltk
+          
+          # CRITICAL FOR NEWSPAPER3K: Download the required NLP tokenizer
+          python -c "import nltk; nltk.download('punkt')"
+
+      - name: Run Scraper
+        # Ensure your python script is actually located at scripts/scrape_news.py
+        run: python scripts/scrape_news.py
+
+      - name: Save datestamp
+        run: |
+          mkdir -p data
+          date > data/last-sync.txt
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'AutoSportSync Bot'
+          git config --global user.email 'bot@autosportsync.com'
+          
+          # Stage all data and script changes
+          git add .
+          
+          # CRITICAL FIX 2 & 3: Smartly check for changes, pull new remote code, and push
+          if ! git diff-index --quiet HEAD; then
+            echo "Changes detected. Committing and pushing..."
+            git commit -m "Mega Update (Full Content): $(date -u)"
+            
+            # Pause and fetch any remote changes made by you or other bots first!
+            git pull --rebase origin main
+            
+            git push origin main
+          else
+            echo "No new news data to commit. Skipping push!"
+          fi
