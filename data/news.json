@@ -1,6 +1,16 @@
 {
     "Football": [
         {
+            "id": "https://www.thesun.co.uk/sport/38341506/jose-mourinho-benfica-bus-real-madrid-suspension/",
+            "title": "Jose Mourinho snubs Real Madrid radio booth to watch Benfica clash from unusual place after Champions League ban",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fepa12776618-benfica-team-bus-arrives-1062043057.jpg",
+            "source": "The Sun - Football",
+            "category": "Football",
+            "link": "https://www.thesun.co.uk/sport/38341506/jose-mourinho-benfica-bus-real-madrid-suspension/",
+            "timestamp": "2026-02-26 07:08:04",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.thesun.co.uk/sport/38330787/crystal-palace-zrinjski-free-bets-betfair/",
             "title": "Crystal Palace vs Zrinjski free bets: Get £50 in free Bet Builders with Betfair",
             "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2FBetfair-50-bet-builders-3.jpg",
@@ -91,13 +101,23 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/sport/38332226/who-arsenal-chelsea-liverpool-champions-league-last-16-draw/",
-            "title": "Who could Arsenal, Chelsea, Liverpool, Tottenham, Man City and Newcastle play in Champions League last-16 draw?",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38332489_4983f0.jpg",
-            "source": "The Sun - Football",
+            "id": "https://www.mirror.co.uk/sport/football/news/christian-eriksen-wolfsburg-man-utd-36782549",
+            "title": "Ex-Man Utd star has no regrets after swapping Old Trafford for relegation battle",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782611.ece/ALTERNATES/s615/0_GettyImages-2216346853.jpg",
+            "source": "Mirror Football",
             "category": "Football",
-            "link": "https://www.thesun.co.uk/sport/38332226/who-arsenal-chelsea-liverpool-champions-league-last-16-draw/",
-            "timestamp": "2026-02-25 20:27:25",
+            "link": "https://www.mirror.co.uk/sport/football/news/christian-eriksen-wolfsburg-man-utd-36782549",
+            "timestamp": "2026-02-26 07:16:53",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/sport/football/news/arsenal-ethan-nwaneri-mason-greenwood-36773940",
+            "title": "'Marseille boss must resolve Ethan Nwaneri and Mason Greenwood problem – it's up to him'",
+            "imageUrl": "https://i2-prod.mirror.co.uk/sport/football/news/article36773939.ece/ALTERNATES/s615/0_Mason-Greenwood-Marseille.jpg",
+            "source": "Mirror Football",
+            "category": "Football",
+            "link": "https://www.mirror.co.uk/sport/football/news/arsenal-ethan-nwaneri-mason-greenwood-36773940",
+            "timestamp": "2026-02-26 07:00:00",
             "isSaved": 0
         },
         {
@@ -181,23 +201,23 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.mirror.co.uk/sport/football/news/breaking-raul-asencio-real-madrid-36782131",
-            "title": "Real Madrid star leaves pitch on a stretcher and in neck brace after horror clash",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782166.ece/ALTERNATES/s615/0_GettyImages-2263002934.jpg",
-            "source": "Mirror Football",
+            "id": "https://www.skysports.com/boxing/news/12040/13512196/katie-taylor-chantelle-cameron-keen-to-be-irish-fighters-opponent-in-retirement-bout-say-promoters-mvp",
+            "title": "MVP 'would love' Cameron to be Taylor's final opponent",
+            "imageUrl": "https://e0.365dm.com/23/11/400x300/skysports-katie-taylor-chantelle-cameron_6375802.jpg",
+            "source": "Sky Sports Football",
             "category": "Football",
-            "link": "https://www.mirror.co.uk/sport/football/news/breaking-raul-asencio-real-madrid-36782131",
-            "timestamp": "2026-02-25 21:40:12",
+            "link": "https://www.skysports.com/boxing/news/12040/13512196/katie-taylor-chantelle-cameron-keen-to-be-irish-fighters-opponent-in-retirement-bout-say-promoters-mvp",
+            "timestamp": "2026-02-26 07:00:00",
             "isSaved": 0
         },
         {
-            "id": "https://www.mirror.co.uk/sport/football/news/liverpool-chelsea-real-madrid-ajax-36781067",
-            "title": "Liverpool and Chelsea to feature in May tournament as Masters Football returns",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781356.ece/ALTERNATES/s615/0_GettyImages-1396034943.jpg",
-            "source": "Mirror Football",
+            "id": "https://www.skysports.com/tennis/news/12040/13512311/katie-boulter-continues-run-at-merida-open-with-camila-osorio-walkover",
+            "title": "Boulter into Merida Open quarters after Osorio walkover",
+            "imageUrl": "https://e0.365dm.com/26/02/400x300/skysports-katie-boulter-tennis_7158542.jpg",
+            "source": "Sky Sports Football",
             "category": "Football",
-            "link": "https://www.mirror.co.uk/sport/football/news/liverpool-chelsea-real-madrid-ajax-36781067",
-            "timestamp": "2026-02-25 20:02:55",
+            "link": "https://www.skysports.com/tennis/news/12040/13512311/katie-boulter-continues-run-at-merida-open-with-camila-osorio-walkover",
+            "timestamp": "2026-02-26 06:32:00",
             "isSaved": 0
         },
         {
@@ -278,26 +298,6 @@
             "category": "Football",
             "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
             "timestamp": "2026-02-24 15:30:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.skysports.com/racing/news/12040/13511976/constitution-hill-2023-champion-hurdle-winner-ruled-out-of-cheltenham-festival-run-as-hurdling-career-ends",
-            "title": "Constitution Hill ruled out of Champion Hurdle as hurdling career ends",
-            "imageUrl": "https://e0.365dm.com/26/02/400x300/skysports-constitution-hill_7174735.jpg",
-            "source": "Sky Sports Football",
-            "category": "Football",
-            "link": "https://www.skysports.com/racing/news/12040/13511976/constitution-hill-2023-champion-hurdle-winner-ruled-out-of-cheltenham-festival-run-as-hurdling-career-ends",
-            "timestamp": "2026-02-25 12:22:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.skysports.com/football/news/12040/13511964/tottenham-relegation-battle-ex-spurs-midfielder-jamie-ohara-believes-squad-havent-got-the-stomach-for-a-fight",
-            "title": "'No stomach for a relegation fight' - fiery O'Hara analyses Spurs' plight",
-            "imageUrl": "https://e0.365dm.com/26/02/400x300/skysports-tottenham-spurs-van-de-ven_7174630.png",
-            "source": "Sky Sports Football",
-            "category": "Football",
-            "link": "https://www.skysports.com/football/news/12040/13511964/tottenham-relegation-battle-ex-spurs-midfielder-jamie-ohara-believes-squad-havent-got-the-stomach-for-a-fight",
-            "timestamp": "2026-02-25 11:25:00",
             "isSaved": 0
         },
         {
@@ -403,6 +403,56 @@
     ],
     "News": [
         {
+            "id": "https://www.thesun.co.uk/news/38341472/brits-arrested-benidorm-fake-kidnapping-ransom/",
+            "title": "Two Brits arrested in Benidorm for staging fake kidnapping to ‘make £725 in ransom cash from relative for their holiday’",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnational-police-agent-spain-bulletproof-1062143813.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38341472/brits-arrested-benidorm-fake-kidnapping-ransom/",
+            "timestamp": "2026-02-26 07:17:21",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/news/38341519/family-tribute-fearless-talented-motorcyclist-dies-scenic-road-crash/",
+            "title": "Family pays tribute to ‘fearless and talented’ motorcyclist, 24, who died in crash on scenic road",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-qgidscnsu-1772090063886.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38341519/family-tribute-fearless-talented-motorcyclist-dies-scenic-road-crash/",
+            "timestamp": "2026-02-26 07:15:37",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/news/38332786/damien-bendall-killamarsh-murders-prison-attack/",
+            "title": "Covering sleepover murders is closest I’ve come to evil… prison attack proves killer belongs in ‘Monster Mansion’",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-aggdn13yk-1772027132501.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38332786/damien-bendall-killamarsh-murders-prison-attack/",
+            "timestamp": "2026-02-26 07:01:20",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/news/38341476/missing-woman-travelodge-train-station-cctv/",
+            "title": "Urgent hunt for missing woman, 46, who stayed at Travelodge and may be near train station as cops release CCTV",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38341482.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38341476/missing-woman-travelodge-train-station-cctv/",
+            "timestamp": "2026-02-26 06:52:19",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.thesun.co.uk/news/38341449/m11-closed-stansted-airport-severe-delays/",
+            "title": "M11 closed in BOTH directions after police incident near Stansted Airport as drivers warned of severe delays",
+            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38341450.jpg",
+            "source": "The Sun - News",
+            "category": "News",
+            "link": "https://www.thesun.co.uk/news/38341449/m11-closed-stansted-airport-severe-delays/",
+            "timestamp": "2026-02-26 06:24:19",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.thesun.co.uk/news/38341383/missing-mom-vanished-24-years-ago-found-secret-life/",
             "title": "Tragic reason why mom who vanished 24 years ago wasn’t reported missing is revealed after she’s found living secret life",
             "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fmichelle-hundley-smith-1.jpg",
@@ -453,63 +503,73 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.thesun.co.uk/news/38341057/iran-rebuild-nuclear-weapons-trump-jd-vance/",
-            "title": "Iran is trying to rebuild nuclear weapons after Trump bombings, JD Vance warns as US armada builds off coast",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-jvirjigri-1772059927198.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38341057/iran-rebuild-nuclear-weapons-trump-jd-vance/",
-            "timestamp": "2026-02-25 22:52:41",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38340248/prison-officer-secret-relationship-career-criminal/",
-            "title": "Prison officer faces jail after secret eight-month relationship with career criminal behind bars",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38340551.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38340248/prison-officer-secret-relationship-career-criminal/",
-            "timestamp": "2026-02-25 22:39:57",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38340098/bbc-bosses-slammed-mps-tourettes-slur/",
-            "title": "BBC failed to learn lessons of past failures, slam MPs after bungling corporation broadcast slur during Baftas",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38340437.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38340098/bbc-bosses-slammed-mps-tourettes-slur/",
-            "timestamp": "2026-02-25 22:01:54",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38339622/john-davidson-distress-social-media-criticism-bbc-fault/",
-            "title": "The distress & social media criticism inflicted on Tourettes activist John Davidson is entirely BBC’s fault",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fcrop-38339810.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38339622/john-davidson-distress-social-media-criticism-bbc-fault/",
-            "timestamp": "2026-02-25 22:00:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.thesun.co.uk/news/38340465/bell-ringing-churches-computerised-chimes/",
-            "title": "Traditional bell ringing under threat as churches turn to computerised chimes in worrying move for fans",
-            "imageUrl": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F02%2Fnewspress-collage-0a0u9c3av-1772055796688.jpg",
-            "source": "The Sun - News",
-            "category": "News",
-            "link": "https://www.thesun.co.uk/news/38340465/bell-ringing-churches-computerised-chimes/",
-            "timestamp": "2026-02-25 21:46:34",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/health/nhs-failing-mums-babies-deaths-36781397",
-            "title": "NHS failing mums and babies as deaths COVERED UP - bombshell report",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781404.ece/ALTERNATES/s615/0_xxxxxxxxxx.jpg",
+            "id": "https://www.mirror.co.uk/news/royals/andrews-arrest-one-week-royals-36778902",
+            "title": "Andrew's arrest one week on - royals' shock, heckled on duty and floorboards searched",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36775929.ece/ALTERNATES/s615/1_PAY-200226_Andrew_Mountbatten.jpg",
             "source": "Mirror News",
             "category": "News",
-            "link": "https://www.mirror.co.uk/news/health/nhs-failing-mums-babies-deaths-36781397",
-            "timestamp": "2026-02-26 06:00:00",
+            "link": "https://www.mirror.co.uk/news/royals/andrews-arrest-one-week-royals-36778902",
+            "timestamp": "2026-02-26 07:13:40",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/money/couple-buy-house-19-after-36782567",
+            "title": "Couple buy house at 19 after ditching takeaways and nights out",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782575.ece/ALTERNATES/s615/1_Jam_Press_JMP825829.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/money/couple-buy-house-19-after-36782567",
+            "timestamp": "2026-02-26 07:03:55",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/politics/chilling-warning-women-sold-like-36776846",
+            "title": "Chilling warning that women are being sold 'like pizzas' on sex-for-sale websites",
+            "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article34450571.ece/ALTERNATES/s615/2_JS355700773.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/politics/chilling-warning-women-sold-like-36776846",
+            "timestamp": "2026-02-26 07:00:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/health/doctors-missed-orange-sized-tumours-36782548",
+            "title": "Doctors missed orange-sized tumours for 7 years, now I can't have more children",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782552.ece/ALTERNATES/s615/1_Jam_Press_JMP830499.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/health/doctors-missed-orange-sized-tumours-36782548",
+            "timestamp": "2026-02-26 06:42:53",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/uk-news/new-rule-ban-drivers-who-36782515",
+            "title": "New rule to ban drivers who dump rubbish - and seize their vehicle",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36782517.ece/ALTERNATES/s615/0_GettyImages-1329214836.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/uk-news/new-rule-ban-drivers-who-36782515",
+            "timestamp": "2026-02-26 06:21:43",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/royals/andrew-mountbatten-windsor-could-leave-36780012",
+            "title": "Andrew Mountbatten-Windsor 'could leave UK for surprising country' after downfall",
+            "imageUrl": "https://i2-prod.mirror.co.uk/news/royals/article36780011.ece/ALTERNATES/s615/0_The-Funeral-Of-The-Duchess-Of-Kent.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/royals/andrew-mountbatten-windsor-could-leave-36780012",
+            "timestamp": "2026-02-26 06:15:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/world-news/kim-jong-un-sends-destroy-36782501",
+            "title": "Kim Jong-un sends 'destroy' warning to South Korea in chilling broadcast",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36712238.ece/ALTERNATES/s615/0_NKOREA-POLITICS-DEFENCE.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/world-news/kim-jong-un-sends-destroy-36782501",
+            "timestamp": "2026-02-26 06:14:32",
             "isSaved": 0
         },
         {
@@ -519,6 +579,16 @@
             "source": "Mirror News",
             "category": "News",
             "link": "https://www.mirror.co.uk/news/health/midwives-said-panic-attack-two-36781564",
+            "timestamp": "2026-02-26 06:00:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.mirror.co.uk/news/health/nhs-failing-mums-babies-deaths-36781397",
+            "title": "NHS failing mums and babies as deaths COVERED UP - bombshell report",
+            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36781404.ece/ALTERNATES/s615/0_xxxxxxxxxx.jpg",
+            "source": "Mirror News",
+            "category": "News",
+            "link": "https://www.mirror.co.uk/news/health/nhs-failing-mums-babies-deaths-36781397",
             "timestamp": "2026-02-26 06:00:00",
             "isSaved": 0
         },
@@ -533,68 +603,8 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.mirror.co.uk/news/health/switching-one-diet-after-turning-36780107",
-            "title": "Switching to one diet after turning 45 can add three years to your life",
-            "imageUrl": "https://i2-prod.mirror.co.uk/news/health/article36780407.ece/ALTERNATES/s615/0_GettyImages-1365546460.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/health/switching-one-diet-after-turning-36780107",
-            "timestamp": "2026-02-26 05:00:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/lifestyle/motoring/uk-driving-test-rule-change-36779522",
-            "title": "UK driving test rule change from March 31 as DVSA limits changes",
-            "imageUrl": "https://i2-prod.mirror.co.uk/news/uk-news/article36779521.ece/ALTERNATES/s615/0_GettyImages-1472285668.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/lifestyle/motoring/uk-driving-test-rule-change-36779522",
-            "timestamp": "2026-02-26 04:01:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/world-news/young-mans-horror-death-30-36756083",
-            "title": "Young man's horror death as 30 nails driven into his skull and then dumped in river",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36757170.ece/ALTERNATES/s615/1_Anthony-Liu-MURDER-VICTIM-April-2009.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/world-news/young-mans-horror-death-30-36756083",
-            "timestamp": "2026-02-26 04:00:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/weird-news/i-thought-id-won-lottery-36774850",
-            "title": "'I thought I'd won the lottery and called everyone I knew before gutting blow'",
-            "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36723340.ece/ALTERNATES/s615/0_National-Lottery-year-end-round-up.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/weird-news/i-thought-id-won-lottery-36774850",
-            "timestamp": "2026-02-26 04:00:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/uk-news/police-officer-so-drunk-could-36782491",
-            "title": "Police officer 'so drunk he could not walk straight' after drinking wine on duty",
-            "imageUrl": "https://i2-prod.mirror.co.uk/news/uk-news/article36782489.ece/ALTERNATES/s615/0_leyton-custody-centre-and-police-station.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/uk-news/police-officer-so-drunk-could-36782491",
-            "timestamp": "2026-02-26 03:54:22",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.mirror.co.uk/news/us-news/cuba-claims-speedboat-passengers-gunned-36782483",
-            "title": "Cuba claims US speedboat passengers gunned down and killed wanted for 'terrorism'",
-            "imageUrl": "https://i2-prod.mirror.co.uk/news/world-news/article36748078.ece/ALTERNATES/s615/0_FILES-CUBA-US-DIPLOMACY-OIL.jpg",
-            "source": "Mirror News",
-            "category": "News",
-            "link": "https://www.mirror.co.uk/news/us-news/cuba-claims-speedboat-passengers-gunned-36782483",
-            "timestamp": "2026-02-26 03:24:05",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss",
-            "title": "Racism and lack of compassion factors in 'failing' maternity care, report finds",
+            "title": "Racism and staff shortages factors in 'failing' maternity care, report finds",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9cb/live/01b36ae0-1282-11f1-9120-a910fc22c6ac.jpg",
             "source": "BBC News",
             "category": "News",
@@ -615,7 +625,7 @@
         {
             "id": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss",
             "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/0ee28050-1298-11f1-801d-ed3cff6bf876.jpg",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2627/live/b60131c0-12dd-11f1-9120-a910fc22c6ac.jpg",
             "source": "BBC News",
             "category": "News",
             "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss",
@@ -634,7 +644,7 @@
         },
         {
             "id": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&at_campaign=rss",
-            "title": "There's a solution for e-bike parking chaos - but its not problem-free",
+            "title": "There's a solution for e-bike parking chaos - but it's not problem-free",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b0/live/5bf274e0-1261-11f1-801d-ed3cff6bf876.jpg",
             "source": "BBC News",
             "category": "News",
@@ -645,7 +655,7 @@
         {
             "id": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss",
             "title": "Earth's heat to power 10,000 homes in renewable energy first for UK",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7efb/live/ff11bcc0-0d85-11f1-a5c2-0149f5937343.jpg",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123c/live/36e8c460-12de-11f1-9120-a910fc22c6ac.jpg",
             "source": "BBC News",
             "category": "News",
             "link": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss",
@@ -654,12 +664,22 @@
         },
         {
             "id": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
-            "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
+            "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/84548670-1258-11f1-b048-c9424b2cf5fd.png",
             "source": "BBC News",
             "category": "News",
             "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
             "timestamp": "2026-02-26 00:02:48",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.bbc.com/news/articles/c3v7z9dxe0qo?at_medium=RSS&at_campaign=rss",
+            "title": "Gorton and Denton by-election polls open",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3da/live/46c28380-125c-11f1-808c-3f897f9a068e.jpg",
+            "source": "BBC News",
+            "category": "News",
+            "link": "https://www.bbc.com/news/articles/c3v7z9dxe0qo?at_medium=RSS&at_campaign=rss",
+            "timestamp": "2026-02-26 07:00:05",
             "isSaved": 0
         },
         {
@@ -673,18 +693,8 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
-            "title": "Media tycoon and UK citizen Jimmy Lai wins appeal against lesser conviction in Hong Kong",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/7540d210-12bc-11f1-b16f-17ab2e428cae.jpg",
-            "source": "BBC News",
-            "category": "News",
-            "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
-            "timestamp": "2026-02-26 03:41:47",
-            "isSaved": 0
-        },
-        {
             "id": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
-            "title": "Orbán accuses Ukraine of disrupting oil supplies to Hungary",
+            "title": "Orban accuses Ukraine of disrupting oil supplies to Hungary",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e2f/live/7706b0e0-12af-11f1-836e-2d4c9511f83a.jpg",
             "source": "BBC News",
             "category": "News",
@@ -913,7 +923,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/mlb/story/_/id/48040023/max-scherzer-agrees-return-blue-jays",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -923,7 +933,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/college-football/story/_/id/48035774/cincinnati-sues-sorsby-1m-exit-fee-texas-tech-transfer",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -933,7 +943,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/mens-college-basketball/story/_/id/48038781/uconn-rolls-32-pitino-biggest-loss-st-johns",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -943,7 +953,17 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nhl/story/_/id/48033965/hilary-knight-responds-trump-comment-women",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.espn.com/nhl/story/_/id/48040259/joel-quenneville-becomes-second-nhl-coach-1000-wins",
+            "title": "Quenneville second NHL coach to reach 1K wins",
+            "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0226%2Fr1620248_1296x729_16%2D9.jpg?width=400",
+            "source": "ESPN",
+            "category": "Sports",
+            "link": "https://www.espn.com/nhl/story/_/id/48040259/joel-quenneville-becomes-second-nhl-coach-1000-wins",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -953,7 +973,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nba/story/_/id/48035589/suns-owner-mat-ishbia-wants-offer-1-million-prize-winners-all-star-weekend-slam-dunk-contest-three-point-contest",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -963,17 +983,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nba/story/_/id/48036464/porter-banned-nba-signs-usbl-superhawks",
-            "timestamp": "2026-02-26 06:02:34",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.espn.com/mlb/story/_/id/48037530/yankees-retire-cc-sabathia-no-52-jersey-sept-26",
-            "title": "Sabathia to be 24th Yankee with retired number",
-            "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0716%2Fr571055_1296x729_16%2D9.jpg?width=400",
-            "source": "ESPN",
-            "category": "Sports",
-            "link": "https://www.espn.com/mlb/story/_/id/48037530/yankees-retire-cc-sabathia-no-52-jersey-sept-26",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -983,7 +993,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/olympics/story/_/id/48039545/jeff-galloway-olympic-runner-pioneer-run-walk-run-strategy-dies-80",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -993,7 +1003,7 @@
             "source": "ESPN",
             "category": "Sports",
             "link": "https://www.espn.com/nfl/draft2026/story/_/id/47989848/2026-nfl-mock-draft-kiper-32-picks-pre-combine-predictions-round-1",
-            "timestamp": "2026-02-26 06:02:34",
+            "timestamp": "2026-02-26 06:56:46",
             "isSaved": 0
         },
         {
@@ -1109,6 +1119,86 @@
     ],
     "Ghana News": [
         {
+            "id": "https://www.myjoyonline.com/why-litina-travels-is-the-smart-choice-for-fans-heading-to-the-2026-world-cup/",
+            "title": "Why Litina Travels is the smart choice for fans heading to the 2026 World Cup",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/IMG-20260226-WA0000-741x1024.jpg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/why-litina-travels-is-the-smart-choice-for-fans-heading-to-the-2026-world-cup/",
+            "timestamp": "2026-02-26 07:18:17",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/free-food-company-marks-valentines-day-with-community-love-outreach/",
+            "title": "Free Food Company marks Valentine’s Day with community love outreach",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2337-1024x702.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/free-food-company-marks-valentines-day-with-community-love-outreach/",
+            "timestamp": "2026-02-26 07:05:33",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/voazok-positions-ghana-as-a-global-agribusiness-destination-through-international-leadership-exchange/",
+            "title": "Voazok positions Ghana as a global agribusiness destination through international leadership exchange",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2333-1024x768.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/voazok-positions-ghana-as-a-global-agribusiness-destination-through-international-leadership-exchange/",
+            "timestamp": "2026-02-26 06:54:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/ghana-overtakes-cote-divoire-as-second-largest-economy-in-west-africa-mahama/",
+            "title": "Ghana overtakes Cote d’Ivoire as second largest economy in West Africa – Mahama",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-5.59.23-AM-1024x613.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/ghana-overtakes-cote-divoire-as-second-largest-economy-in-west-africa-mahama/",
+            "timestamp": "2026-02-26 06:43:18",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/planned-maintenance-not-dumsor-ecg-assures-public/",
+            "title": "Planned maintenance not ‘dumsor’ – ECG assures public",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/1000336535-1536x1024-1-1024x683.jpg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/planned-maintenance-not-dumsor-ecg-assures-public/",
+            "timestamp": "2026-02-26 06:42:57",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/cocobod-refutes-gh%c2%a212m-black-stars-sponsorship-allegation/",
+            "title": "COCOBOD refutes GH¢12m Black Stars sponsorship allegation",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/ghana-cocoa-board-cocobod-1708077315-1140x570-1-1024x512.jpg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/cocobod-refutes-gh%c2%a212m-black-stars-sponsorship-allegation/",
+            "timestamp": "2026-02-26 06:33:40",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/john-bart-addo-declares-bid-for-npp-usa-branch-youth-organiser-position/",
+            "title": "John Bart Addo declares bid for NPP USA Branch Youth Organiser position",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/John_Bart_Addo.jpeg",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/john-bart-addo-declares-bid-for-npp-usa-branch-youth-organiser-position/",
+            "timestamp": "2026-02-26 06:23:14",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.myjoyonline.com/global-crude-gains-outpace-cedi-appreciation-as-external-pressures-drive-march-fuel-hike/",
+            "title": "Global crude gains outpace cedi appreciation as external pressures drive March fuel hike",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-419.png",
+            "source": "MyJoyOnline",
+            "category": "Ghana News",
+            "link": "https://www.myjoyonline.com/global-crude-gains-outpace-cedi-appreciation-as-external-pressures-drive-march-fuel-hike/",
+            "timestamp": "2026-02-26 06:18:14",
+            "isSaved": 0
+        },
+        {
             "id": "https://www.myjoyonline.com/shortage-of-10-pesewas-coin-affects-price-of-sachet-water-in-koforidua/",
             "title": "Shortage of 10 pesewas coin affects price of sachet water in Koforidua",
             "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-5.32.55-AM-1024x608.png",
@@ -1119,93 +1209,53 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/veep-to-be-special-guest-of-honour-at-78th-remembrance-day/",
-            "title": "Veep to be special guest of honour at 78th Remembrance Day",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-6.01.02-AM-1024x612.png",
+            "id": "https://www.myjoyonline.com/npp-general-secretary-urges-sympathisers-to-formalise-membership-in-upcoming-registration/",
+            "title": "NPP General Secretary urges sympathisers to formalise membership in upcoming registration",
+            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-6.03.08-AM-1024x614.png",
             "source": "MyJoyOnline",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/veep-to-be-special-guest-of-honour-at-78th-remembrance-day/",
-            "timestamp": "2026-02-26 06:01:43",
+            "link": "https://www.myjoyonline.com/npp-general-secretary-urges-sympathisers-to-formalise-membership-in-upcoming-registration/",
+            "timestamp": "2026-02-26 06:05:00",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/giff-demands-independent-probe-into-18-truck-boe-incident-warns-against-transit-policy-backlash/",
-            "title": "GIFF demands independent probe into 18-truck BOE incident, warns against transit policy backlash",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-5.49.49-AM-1024x618.png",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/politics/Tempers-flare-in-Parliament-as-Old-Tafo-MP-clashes-with-First-Deputy-Speaker-2023342",
+            "title": "Tempers flare in Parliament as Old Tafo MP clashes with First Deputy Speaker",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/694/69429292.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/giff-demands-independent-probe-into-18-truck-boe-incident-warns-against-transit-policy-backlash/",
-            "timestamp": "2026-02-26 05:53:43",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/politics/Tempers-flare-in-Parliament-as-Old-Tafo-MP-clashes-with-First-Deputy-Speaker-2023342",
+            "timestamp": "2026-02-26 07:04:34",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/pump-prices-set-to-rise-again-with-petrol-up-3-59-diesel-1-52-in-march-window/",
-            "title": "Pump prices set to rise again with petrol up 3.59%, diesel 1.52% in March window",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Diesel-Fuel-1024x768.jpg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghanaian-man-and-his-Nigerian-girlfriend-found-dead-in-Morocco-apartment-2023341",
+            "title": "Ghanaian man and his Nigerian girlfriend found dead in Morocco apartment",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/748/74856846.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/pump-prices-set-to-rise-again-with-petrol-up-3-59-diesel-1-52-in-march-window/",
-            "timestamp": "2026-02-26 05:52:00",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghanaian-man-and-his-Nigerian-girlfriend-found-dead-in-Morocco-apartment-2023341",
+            "timestamp": "2026-02-26 06:54:08",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/why-rename-bawumias-g4r-policy-and-claim-it-is-new-gideon-boako-questions-government/",
-            "title": "Why rename Bawumia’s G4R policy and claim it is new? – Gideon Boako questions government",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Gideon-Boako--1024x832.jpeg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/I-came-under-severe-heat-when-I-said-I-wanted-to-eradicate-prostitution-KMA-boss-2023340",
+            "title": "I came under severe heat when I said I wanted to eradicate prostitution – KMA boss",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/778/77802756.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/why-rename-bawumias-g4r-policy-and-claim-it-is-new-gideon-boako-questions-government/",
-            "timestamp": "2026-02-26 05:46:46",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/I-came-under-severe-heat-when-I-said-I-wanted-to-eradicate-prostitution-KMA-boss-2023340",
+            "timestamp": "2026-02-26 06:33:05",
             "isSaved": 0
         },
         {
-            "id": "https://www.myjoyonline.com/breathing-death-health-experts-warn-of-looming-crisis-as-toxic-air-in-illegal-mining-kills-and-sickens-miners/",
-            "title": "Breathing Death: Health Experts warn of looming crisis as toxic air in illegal mining kills and sickens miners",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/A-forest-in-Ghana-degraded-by-illegal-mining-1024x540.jpg",
-            "source": "MyJoyOnline",
+            "id": "https://www.ghanaweb.com/GhanaHomePage/business/8M-Romance-Scam-9-transactions-prosecutors-link-to-Abu-Trica-2023338",
+            "title": "$8M Romance Scam: 9 transactions prosecutors link to Abu Trica",
+            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/549/54961532.jpg",
+            "source": "GhanaWeb General",
             "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/breathing-death-health-experts-warn-of-looming-crisis-as-toxic-air-in-illegal-mining-kills-and-sickens-miners/",
-            "timestamp": "2026-02-26 05:36:57",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/plans-underway-to-power-24-hour-economy-purc-boss-assures/",
-            "title": "Plans underway to power 24-Hour economy – PURC boss assures",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/image-2332-1024x731.png",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/plans-underway-to-power-24-hour-economy-purc-boss-assures/",
-            "timestamp": "2026-02-26 05:30:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/cocoa-farmers-demand-legal-framework-to-protect-industry-from-political-interference/",
-            "title": "Cocoa farmers demand legal framework to protect industry from political interference",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-5.28.37-AM-1024x613.png",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/cocoa-farmers-demand-legal-framework-to-protect-industry-from-political-interference/",
-            "timestamp": "2026-02-26 05:28:00",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/best-farmer-drives-cashew-boom-as-cocoa-production-declines/",
-            "title": "Best farmer drives cashew boom as cocoa production declines",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-5.27.08-AM-1024x619.png",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/best-farmer-drives-cashew-boom-as-cocoa-production-declines/",
-            "timestamp": "2026-02-26 05:27:46",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.myjoyonline.com/cabinet-approves-policy-to-boost-ghanas-foreign-exchange-reserves/",
-            "title": "Cabinet approves policy to boost Ghana’s foreign exchange reserves",
-            "imageUrl": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-5.24.45-AM-1024x612.png",
-            "source": "MyJoyOnline",
-            "category": "Ghana News",
-            "link": "https://www.myjoyonline.com/cabinet-approves-policy-to-boost-ghanas-foreign-exchange-reserves/",
-            "timestamp": "2026-02-26 05:26:05",
+            "link": "https://www.ghanaweb.com/GhanaHomePage/business/8M-Romance-Scam-9-transactions-prosecutors-link-to-Abu-Trica-2023338",
+            "timestamp": "2026-02-26 06:27:13",
             "isSaved": 0
         },
         {
@@ -1267,46 +1317,6 @@
             "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Snoop-Dogg-039-s-surreal-Swansea-visit-heralds-late-drama-2023330",
             "timestamp": "2026-02-26 03:36:57",
             "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Real-Madrid-win-039-for-everyone-who-stands-against-racism-039-2023328",
-            "title": "Real Madrid win 'for everyone who stands against racism'",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/293/29347167.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Real-Madrid-win-039-for-everyone-who-stands-against-racism-039-2023328",
-            "timestamp": "2026-02-26 03:36:31",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Kwabena-Adjare-Danquah-unveils-bold-vision-to-transform-Kwahu-enterprise-into-national-economic-force-2023325",
-            "title": "Kwabena Adjare Danquah unveils bold vision to transform Kwahu enterprise into national economic force",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/507/50742898.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Kwabena-Adjare-Danquah-unveils-bold-vision-to-transform-Kwahu-enterprise-into-national-economic-force-2023325",
-            "timestamp": "2026-02-26 03:34:17",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/business/Council-of-State-member-detained-by-GoldBod-2023324",
-            "title": "Council of State member detained by GoldBod",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/921/92166170.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/business/Council-of-State-member-detained-by-GoldBod-2023324",
-            "timestamp": "2026-02-26 00:31:33",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/039-When-cocoa-farmers-cried-over-delayed-payments-you-gave-them-a-haircut-039-Minority-2023323",
-            "title": "'When cocoa farmers cried over delayed payments, you gave them a ‘haircut' - Minority",
-            "imageUrl": "https://cdn.ghanaweb.com/imagelib/pics/869/86941430.jpg",
-            "source": "GhanaWeb General",
-            "category": "Ghana News",
-            "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/039-When-cocoa-farmers-cried-over-delayed-payments-you-gave-them-a-haircut-039-Minority-2023323",
-            "timestamp": "2026-02-25 23:51:09",
-            "isSaved": 0
         }
     ],
     "World": [
@@ -1317,7 +1327,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-            "timestamp": "2026-02-26 06:16:22",
+            "timestamp": "2026-02-26 07:31:47",
             "isSaved": 0
         },
         {
@@ -1347,7 +1357,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://cnn.it/411KYN7",
-            "timestamp": "2026-02-26 06:16:22",
+            "timestamp": "2026-02-26 07:31:47",
             "isSaved": 0
         },
         {
@@ -1357,7 +1367,7 @@
             "source": "CNN Top Stories",
             "category": "World",
             "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-            "timestamp": "2026-02-26 06:16:22",
+            "timestamp": "2026-02-26 07:31:47",
             "isSaved": 0
         },
         {
@@ -1408,6 +1418,46 @@
             "category": "World",
             "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
             "timestamp": "2023-04-03 12:13:24",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/26/us-ukraine-to-meet-in-geneva-as-russia-attacks-kyiv-with-missiles-drones?traffic_source=rss",
+            "title": "US, Ukraine to meet in Geneva as Russia attacks Kyiv with missiles, drones",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260226__98YX6KE__v2__HighRes__UkraineRussiaConflict-1772086733.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/26/us-ukraine-to-meet-in-geneva-as-russia-attacks-kyiv-with-missiles-drones?traffic_source=rss",
+            "timestamp": "2026-02-26 06:52:05",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/news/2026/2/26/syria-confirms-mass-escape-from-camp-housing-relatives-of-isil-fighters?traffic_source=rss",
+            "title": "Syria confirms ‘mass escape’ from camp housing relatives of ISIL fighters",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-01-30T160444Z_587996751_RC2Q5JAW9KO5_RTRMADP_3_SYRIA-SECURITY-ISLAMIC-STATE-1772085687.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/news/2026/2/26/syria-confirms-mass-escape-from-camp-housing-relatives-of-isil-fighters?traffic_source=rss",
+            "timestamp": "2026-02-26 06:45:47",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/features/2026/2/26/how-higher-gold-prices-are-affecting-zakat-calculations-this-ramadan?traffic_source=rss",
+            "title": "How higher gold prices are affecting zakat calculations this Ramadan",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/03/INTERACTIVE-COVER-ZAKAT-MARCH-23-2025-1742716495.png",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/features/2026/2/26/how-higher-gold-prices-are-affecting-zakat-calculations-this-ramadan?traffic_source=rss",
+            "timestamp": "2026-02-26 06:39:10",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.aljazeera.com/gallery/2026/2/26/ramadan-in-iraqs-mosul-living-traditions-between-past-and-present?traffic_source=rss",
+            "title": "Ramadan in Iraq’s Mosul: Living traditions between past and present",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/IDY09747-1772020136.jpg",
+            "source": "Al Jazeera World",
+            "category": "World",
+            "link": "https://www.aljazeera.com/gallery/2026/2/26/ramadan-in-iraqs-mosul-living-traditions-between-past-and-present?traffic_source=rss",
+            "timestamp": "2026-02-26 06:19:37",
             "isSaved": 0
         },
         {
@@ -1468,46 +1518,6 @@
             "category": "World",
             "link": "https://www.aljazeera.com/news/2026/2/26/trump-says-lawmakers-ilhan-omar-rashida-tlaib-should-be-removed-from-us?traffic_source=rss",
             "timestamp": "2026-02-26 03:56:32",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/26/six-seats-big-goals-whats-next-for-bangladeshs-student-led-ncp-party?traffic_source=rss",
-            "title": "Six seats, big goals: What’s next for Bangladesh’s student-led NCP party?",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/an-ncp-rally-1772075250.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/26/six-seats-big-goals-whats-next-for-bangladeshs-student-led-ncp-party?traffic_source=rss",
-            "timestamp": "2026-02-26 03:50:07",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/26/former-us-f-35-fighter-pilot-arrested-for-training-chinese-air-force?traffic_source=rss",
-            "title": "Former US F-35 fighter pilot arrested for training Chinese air force",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/10/ap_68fa5169b4e18-1761235305.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/26/former-us-f-35-fighter-pilot-arrested-for-training-chinese-air-force?traffic_source=rss",
-            "timestamp": "2026-02-26 02:23:32",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss",
-            "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-19T130537Z_1348561510_RC21PJAVY7W1_RTRMADP_3_IRAN-CRISIS-USA-1772070738_0a9341-1772071341.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss",
-            "timestamp": "2026-02-26 02:14:16",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.aljazeera.com/news/2026/2/26/brazils-supreme-court-imposes-steep-sentences-for-marielle-franco-murder?traffic_source=rss",
-            "title": "Brazil’s Supreme Court imposes steep sentences for Marielle Franco murder",
-            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26055547967341-1772040407.jpg",
-            "source": "Al Jazeera World",
-            "category": "World",
-            "link": "https://www.aljazeera.com/news/2026/2/26/brazils-supreme-court-imposes-steep-sentences-for-marielle-franco-murder?traffic_source=rss",
-            "timestamp": "2026-02-26 01:37:11",
             "isSaved": 0
         },
         {
@@ -1715,7 +1725,7 @@
         {
             "id": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
             "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/Marc-Benioff.png",
+            "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg",
             "source": "TechCrunch",
             "category": "Tech",
             "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
@@ -1903,13 +1913,23 @@
             "isSaved": 0
         },
         {
-            "id": "https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/",
-            "title": "Kalshi Suspended a California Politician and a YouTuber for Insider Trading",
-            "imageUrl": "https://media.wired.com/photos/699f113794854663df474cba/191:100/w_1280,c_limit/biz-kalshi-insidertrading-2260402751.jpg",
+            "id": "https://www.wired.com/story/maga-is-still-very-angry-about-epstein-but-they-wont-blame-trump/",
+            "title": "MAGA Is Raging Over the Epstein Files. But They’re Not Mad at Donald Trump",
+            "imageUrl": "https://media.wired.com/photos/699e50342df982983a45949a/191:100/w_1280,c_limit/politics_trump_epstein_patel_bondi.jpg",
             "source": "Wired",
             "category": "Tech",
-            "link": "https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/",
+            "link": "https://www.wired.com/story/maga-is-still-very-angry-about-epstein-but-they-wont-blame-trump/",
             "timestamp": "2026-02-25 16:00:00",
+            "isSaved": 0
+        },
+        {
+            "id": "https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/",
+            "title": "Turns Out Perplexity Might Be the Sleeper Feature on Samsung's Galaxy S26",
+            "imageUrl": "https://www.cnet.com/a/img/resize/5fffcd5d2fb4c7144ee46af193904d89c7696a03/hub/2026/02/24/44691996-d876-4ad4-8bac-900a120e48c9/copy-of-promo-image-template-51.jpg",
+            "source": "CNET",
+            "category": "Tech",
+            "link": "https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/",
+            "timestamp": "2026-02-26 06:15:14",
             "isSaved": 0
         },
         {
@@ -2000,16 +2020,6 @@
             "category": "Tech",
             "link": "https://www.cnet.com/roadshow/news/hacker-threat-hiding-in-car-tire-pressure-system/",
             "timestamp": "2026-02-26 00:11:30",
-            "isSaved": 0
-        },
-        {
-            "id": "https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/",
-            "title": "On Expands Robot Factories to Manufacture Its Cloud-Like Sneakers",
-            "imageUrl": "https://www.cnet.com/a/img/resize/61eccffeb788d32df80234557741f28b2c223698/hub/2026/02/25/c69a0d0a-76d5-4c0d-96ee-4aead599fd9e/create-small-jpg-ss26-lightspray-pr-product-still-02.jpg",
-            "source": "CNET",
-            "category": "Tech",
-            "link": "https://www.cnet.com/tech/on-expands-robot-factories-to-manufacture-its-running-sneakers/",
-            "timestamp": "2026-02-25 23:46:00",
             "isSaved": 0
         }
     ]
