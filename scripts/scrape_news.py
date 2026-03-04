@@ -9,14 +9,13 @@ import requests
 import random
 from bs4 import BeautifulSoup
 from newspaper import Article
-import newspaper
 
 # --- CONFIGURATION ---
 DATA_DIR = 'data'
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
-# Realistic browser pool to mimic different devices and avoid bot detection
+# Realistic browser pool to mimic different devices
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15",
@@ -24,7 +23,18 @@ USER_AGENTS = [
     "Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36"
 ]
 
-# Cleanly organized sources with specific categories
+# --- THE COOKIE SESSION (The Fix) ---
+# This makes the bot act like a real browser that remembers things
+session = requests.Session()
+
+# Pre-accept common GDPR and Cookie pop-ups to bypass blockers
+session.cookies.update({
+    "CONSENT": "YES+cb.20230101-08-p0.en+FX+000",
+    "euconsent-v2": "true",
+    "cookie_notice_accepted": "true",
+    "OptanonAlertBoxClosed": "2026-03-04T00:00:00.000Z"
+})
+
 SOURCES = [
     # FOOTBALL
     {"name": "The Sun - Football", "url": "https://www.thesun.co.uk/sport/football/feed/", "category": "Football"},
@@ -72,34 +82,22 @@ def get_random_headers():
         "Upgrade-Insecure-Requests": "1"
     }
 
-def is_video_article(url, title):
-    """The Fast Filter: Checks URLs and Titles for obvious video markers to skip them quickly."""
-    url_lower = url.lower()
-    title_lower = title.lower()
-    
-    video_url_markers = ['/video/', '/watch', '/av/', 'youtube.com', 'youtu.be', '/reel/', '/shorts/', '/vod/']
-    video_title_markers = ['watch:', '[video]', '(video)', 'watch -', 'watch|']
-    
-    if any(marker in url_lower for marker in video_url_markers):
-        return True
-    if any(marker in title_lower for marker in video_title_markers):
-        return True
-        
-    return False
-
 def get_full_article_data(url):
-    """Deep Scrapes the text, cleans it, calculates reading time, and rejects empty/video pages."""
+    """Deep Scrapes using the cookie session to bypass GDPR walls."""
     try:
-        config = newspaper.Config()
-        config.browser_user_agent = random.choice(USER_AGENTS)
-        config.request_timeout = 15 # Give it more time to load full pages
-        article = Article(url, config=config)
-        article.download()
+        # We fetch the HTML manually so we can use our custom cookies!
+        resp = session.get(url, headers=get_random_headers(), timeout=15)
+        
+        if resp.status_code != 200:
+            return None
+
+        article = Article(url)
+        # Feed the cookie-unlocked HTML directly into newspaper
+        article.set_html(resp.text)
         article.parse()
         
         full_text = article.text
         
-        # --- INTELLIGENCE: Clean up the junk ---
         junk_patterns = [
             r"Follow us on.*", r"Sign up for.*", r"Advertisement", 
             r"Read more:.*", r"Share this:.*", r"Story continues below.*"
@@ -110,19 +108,17 @@ def get_full_article_data(url):
         full_text = full_text.strip()
         word_count = len(full_text.split())
         
-        # --- THE DEEP FILTER ---
-        # If the extracted text is incredibly short, it's just a video wrapper or gallery. Skip it.
-        if word_count < 50:
-            return None 
-
-        read_time_mins = max(1, math.ceil(word_count / 200)) # Avg reading speed is 200 wpm
+        # 30-WORD FILTER: Skip empty wrappers and video placeholders
+        if word_count < 30:
+            return None
+        
+        read_time_mins = max(1, math.ceil(word_count / 200))
         return {
             "content": full_text,
             "readTime": f"{read_time_mins} min read"
         }
             
     except Exception:
-        # If scraping fails completely, we drop the article instead of showing a blank page
         return None
 
 def get_image(entry, link):
@@ -139,7 +135,8 @@ def get_image(entry, link):
         try:
             time.sleep(random.uniform(0.5, 1.5)) 
             
-            resp = requests.get(link, timeout=10, headers=get_random_headers())
+            # Using the new session here too so images aren't blocked!
+            resp = session.get(link, timeout=10, headers=get_random_headers())
             if resp.status_code == 200:
                 soup = BeautifulSoup(resp.text, 'html.parser')
                 meta = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
@@ -195,15 +192,9 @@ def get_image(entry, link):
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80"
 
 # --- EXECUTION ---
-
 grouped_articles = {
-    "Football": [],
-    "News": [],
-    "Boxing": [],
-    "Sports": [],
-    "Ghana News": [],
-    "World": [],
-    "Tech": []
+    "Football": [], "News": [], "Boxing": [],
+    "Sports": [], "Ghana News": [], "World": [], "Tech": []
 }
 
 seen_links = set()
@@ -212,14 +203,14 @@ total_items = 0
 for src in SOURCES:
     print(f"🔄 Scrutinizing {src['name']}...")
     try:
-        headers = get_random_headers()
-        feed_response = requests.get(src['url'], headers=headers, timeout=15)
+        # Fetching the main feed with the cookie session
+        feed_response = session.get(src['url'], headers=get_random_headers(), timeout=15)
         feed = feedparser.parse(feed_response.content)
         
-        valid_count = 0 # Track how many valid, text-rich articles we've found for this source
+        valid_count = 0 
         
         for entry in feed.entries:
-            if valid_count >= 8: # Stop once we have 8 good articles
+            if valid_count >= 8: 
                 break
                 
             link = entry.get('link', '')
@@ -227,22 +218,14 @@ for src in SOURCES:
             
             if not link or link in seen_links: 
                 continue
-                
-            # FAST FILTER: Skip if it looks like a video link or title
-            if is_video_article(link, title):
-                print(f"   ⏩ Skipped video: {title}")
-                continue
             
-            # THE MAGIC: Get the full text AND read time
             time.sleep(random.uniform(0.5, 1.5))
             article_info = get_full_article_data(link)
             
-            # DEEP FILTER: Skip if scraping failed or it was just a video wrapper (< 50 words)
             if not article_info:
-                print(f"   ⏩ Skipped low-text/video wrapper: {title}")
+                print(f"   ⏩ Skipped (Under 30 words / Blocked): {title}")
                 continue
 
-            # If we made it here, it's a real, readable article!
             img = get_image(entry, link)
             
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
@@ -277,9 +260,8 @@ for src in SOURCES:
     except Exception as e:
         print(f"❌ Error with {src['name']}: {e}")
 
-# Final JSON Save
 filepath = os.path.join(DATA_DIR, 'news.json')
 with open(filepath, 'w', encoding='utf-8') as f:
     json.dump(grouped_articles, f, indent=4, ensure_ascii=False)
 
-print(f"✅ SUCCESS! {total_items} readable text items processed and grouped.")
+print(f"✅ SUCCESS! {total_items} text-rich articles processed and grouped.")
