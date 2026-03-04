@@ -72,8 +72,23 @@ def get_random_headers():
         "Upgrade-Insecure-Requests": "1"
     }
 
+def is_video_article(url, title):
+    """The Fast Filter: Checks URLs and Titles for obvious video markers to skip them quickly."""
+    url_lower = url.lower()
+    title_lower = title.lower()
+    
+    video_url_markers = ['/video/', '/watch', '/av/', 'youtube.com', 'youtu.be', '/reel/', '/shorts/', '/vod/']
+    video_title_markers = ['watch:', '[video]', '(video)', 'watch -', 'watch|']
+    
+    if any(marker in url_lower for marker in video_url_markers):
+        return True
+    if any(marker in title_lower for marker in video_title_markers):
+        return True
+        
+    return False
+
 def get_full_article_data(url):
-    """Deep Scrapes the text, cleans it, and calculates reading time."""
+    """Deep Scrapes the text, cleans it, calculates reading time, and rejects empty/video pages."""
     try:
         config = newspaper.Config()
         config.browser_user_agent = random.choice(USER_AGENTS)
@@ -93,25 +108,22 @@ def get_full_article_data(url):
             full_text = re.sub(pattern, "", full_text, flags=re.IGNORECASE)
 
         full_text = full_text.strip()
+        word_count = len(full_text.split())
         
-        # If we got a good chunk of text, calculate read time
-        if len(full_text) > 200:
-            word_count = len(full_text.split())
-            read_time_mins = max(1, math.ceil(word_count / 200)) # Avg reading speed is 200 wpm
-            return {
-                "content": full_text,
-                "readTime": f"{read_time_mins} min read"
-            }
-        else:
-            return {
-                "content": "Full article could not be extracted. This might be a video or interactive page.",
-                "readTime": "1 min read"
-            }
-    except Exception:
+        # --- THE DEEP FILTER ---
+        # If the extracted text is incredibly short, it's just a video wrapper or gallery. Skip it.
+        if word_count < 50:
+            return None 
+
+        read_time_mins = max(1, math.ceil(word_count / 200)) # Avg reading speed is 200 wpm
         return {
-            "content": "Content unavailable for offline reading.",
-            "readTime": "1 min read"
+            "content": full_text,
+            "readTime": f"{read_time_mins} min read"
         }
+            
+    except Exception:
+        # If scraping fails completely, we drop the article instead of showing a blank page
+        return None
 
 def get_image(entry, link):
     url = None
@@ -204,16 +216,34 @@ for src in SOURCES:
         feed_response = requests.get(src['url'], headers=headers, timeout=15)
         feed = feedparser.parse(feed_response.content)
         
-        for entry in feed.entries[:8]:
+        valid_count = 0 # Track how many valid, text-rich articles we've found for this source
+        
+        for entry in feed.entries:
+            if valid_count >= 8: # Stop once we have 8 good articles
+                break
+                
             link = entry.get('link', '')
+            title = entry.get('title', 'No Title')
+            
             if not link or link in seen_links: 
                 continue
-            
-            img = get_image(entry, link)
+                
+            # FAST FILTER: Skip if it looks like a video link or title
+            if is_video_article(link, title):
+                print(f"   ⏩ Skipped video: {title}")
+                continue
             
             # THE MAGIC: Get the full text AND read time
             time.sleep(random.uniform(0.5, 1.5))
             article_info = get_full_article_data(link)
+            
+            # DEEP FILTER: Skip if scraping failed or it was just a video wrapper (< 50 words)
+            if not article_info:
+                print(f"   ⏩ Skipped low-text/video wrapper: {title}")
+                continue
+
+            # If we made it here, it's a real, readable article!
+            img = get_image(entry, link)
             
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 published_time = datetime.datetime.fromtimestamp(time.mktime(entry.published_parsed)).strftime('%Y-%m-%d %H:%M:%S')
@@ -222,15 +252,15 @@ for src in SOURCES:
 
             article_data = {
                 "id": link,
-                "title": entry.get('title', 'No Title'),
+                "title": title,
                 "imageUrl": img,
                 "source": src['name'],
                 "category": src['category'],
                 "link": link,
                 "timestamp": published_time, 
                 "isSaved": 0,
-                "readTime": article_info["readTime"], # Added intelligence
-                "content": article_info["content"]    # Full deep-scraped text
+                "readTime": article_info["readTime"],
+                "content": article_info["content"]    
             }
             
             cat = src['category']
@@ -240,6 +270,7 @@ for src in SOURCES:
             grouped_articles[cat].append(article_data)
             seen_links.add(link)
             total_items += 1
+            valid_count += 1
             
         time.sleep(random.uniform(0.5, 2.0)) 
             
@@ -251,4 +282,4 @@ filepath = os.path.join(DATA_DIR, 'news.json')
 with open(filepath, 'w', encoding='utf-8') as f:
     json.dump(grouped_articles, f, indent=4, ensure_ascii=False)
 
-print(f"✅ SUCCESS! {total_items} items processed and grouped by category.")
+print(f"✅ SUCCESS! {total_items} readable text items processed and grouped.")
