@@ -24,6 +24,7 @@ USER_AGENTS = [
 ]
 
 # --- THE COOKIE SESSION (The Fix) ---
+# This makes the bot act like a real browser that remembers things
 session = requests.Session()
 
 # Pre-accept common GDPR and Cookie pop-ups to bypass blockers
@@ -33,18 +34,6 @@ session.cookies.update({
     "cookie_notice_accepted": "true",
     "OptanonAlertBoxClosed": "2026-03-04T00:00:00.000Z"
 })
-
-# --- DATE FILTER: Articles older than this will be skipped ---
-MAX_ARTICLE_AGE_DAYS = 30
-
-def is_article_recent(published_time_str):
-    """Check if article is within MAX_ARTICLE_AGE_DAYS days."""
-    try:
-        pub_date = datetime.datetime.strptime(published_time_str, '%Y-%m-%d %H:%M:%S')
-        age_days = (datetime.datetime.now() - pub_date).days
-        return age_days <= MAX_ARTICLE_AGE_DAYS
-    except:
-        return True  # If we can't parse, let it through
 
 SOURCES = [
     # SPORTS (Football, Sports, Boxing combined)
@@ -175,7 +164,6 @@ SOURCES = [
     {"name": "GhanaWeb General", "url": "https://cdn.ghanaweb.com/feed/newsfeed.xml", "category": "Ghana News"},
     {"name": "Graphic Online", "url": "https://www.graphic.com.gh/rss", "category": "Ghana News"},
 ]
-
 def get_random_headers():
     return {
         "User-Agent": random.choice(USER_AGENTS),
@@ -189,12 +177,14 @@ def get_random_headers():
 def get_full_article_data(url):
     """Deep Scrapes using the cookie session to bypass GDPR walls."""
     try:
+        # We fetch the HTML manually so we can use our custom cookies!
         resp = session.get(url, headers=get_random_headers(), timeout=15)
         
         if resp.status_code != 200:
             return None
 
         article = Article(url)
+        # Feed the cookie-unlocked HTML directly into newspaper
         article.set_html(resp.text)
         article.parse()
         
@@ -210,6 +200,7 @@ def get_full_article_data(url):
         full_text = full_text.strip()
         word_count = len(full_text.split())
         
+        # 30-WORD FILTER: Skip empty wrappers and video placeholders
         if word_count < 30:
             return None
         
@@ -236,6 +227,7 @@ def get_image(entry, link):
         try:
             time.sleep(random.uniform(0.5, 1.5)) 
             
+            # Using the new session here too so images aren't blocked!
             resp = session.get(link, timeout=10, headers=get_random_headers())
             if resp.status_code == 200:
                 soup = BeautifulSoup(resp.text, 'html.parser')
@@ -299,11 +291,11 @@ grouped_articles = {
 
 seen_links = set()
 total_items = 0
-skipped_old = 0
 
 for src in SOURCES:
     print(f"🔄 Scrutinizing {src['name']}...")
     try:
+        # Fetching the main feed with the cookie session
         feed_response = session.get(src['url'], headers=get_random_headers(), timeout=15)
         feed = feedparser.parse(feed_response.content)
         
@@ -319,18 +311,6 @@ for src in SOURCES:
             if not link or link in seen_links: 
                 continue
             
-            # Get timestamp first
-            if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                published_time = datetime.datetime.fromtimestamp(time.mktime(entry.published_parsed)).strftime('%Y-%m-%d %H:%M:%S')
-            else:
-                published_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-
-            # --- DATE FILTER CHECK ---
-            if not is_article_recent(published_time):
-                print(f"   ⏩ Skipped (Too old): {title}")
-                skipped_old += 1
-                continue
-            
             time.sleep(random.uniform(0.5, 1.5))
             article_info = get_full_article_data(link)
             
@@ -339,6 +319,11 @@ for src in SOURCES:
                 continue
 
             img = get_image(entry, link)
+            
+            if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                published_time = datetime.datetime.fromtimestamp(time.mktime(entry.published_parsed)).strftime('%Y-%m-%d %H:%M:%S')
+            else:
+                published_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
             article_data = {
                 "id": link,
@@ -371,5 +356,4 @@ filepath = os.path.join(DATA_DIR, 'news.json')
 with open(filepath, 'w', encoding='utf-8') as f:
     json.dump(grouped_articles, f, indent=4, ensure_ascii=False)
 
-print(f"✅ SUCCESS! {total_items} text-rich articles processed.")
-print(f"⏩ Skipped {skipped_old} articles older than {MAX_ARTICLE_AGE_DAYS} days.")
+print(f"✅ SUCCESS! {total_items} text-rich articles processed and grouped.")
